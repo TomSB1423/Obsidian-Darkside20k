@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPs.md",
+            "file": "Darkside-20k/DarkSide-20k.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIMPs.md",
+                "file": "Darkside-20k/DarkSide-20k.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "5dca2d3316142398",
   "lastOpenFiles": [
-    "WIMPs.md",
-    "Introduction to Dark Matter.md",
-    "DarkSide-20k.md",
-    "Dune.md",
+    "Darkside-20k/DarkSide-20k.md",
     "Dark Matter Detectors.md",
-    "Liquid xenon detectors.md",
+    "DarkSide Project.md",
+    "Introduction to Dark Matter.md",
+    "unlinked files output.md",
     "Project Task.md",
-    "this.md",
     "assets/pdf/1811.07912.pdf",
-    "assets/photos/Untitled picture.png"
+    "assets/photos/Untitled picture.png",
+    "WIMPs.md",
+    "Dune.md"
   ]
 }

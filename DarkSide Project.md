@@ -1,0 +1,18 @@
+   
+
+## Darkside projects:
+
+1. Darkside-10 → smallest volume
+
+2. Darkside-50
+	-   Dual-phase argon TPC (time projection chamber) → uses E & B fields with a sensitive volume of gas/liquid to perform a 3D reconstruction of a particle trajectory of interaction.
+
+3. [[DarkSide-20k]]
+	-   Being made as evidence suggest that background free results can be produced from a larger exposure with a multi tonne detector
+	-   Actually 50k kg of argon
+	-   20 tonnes of liquid argon (fiducial volume), designed to operate with zero backgrounds, meaning that all sources of instrumental background are reduced to <0.1 events over a 200 t yr exposure
+
+4. Argo
+	-   Future experiment
+	-   Predicted exposure of 1000 t yr free of background
+	-   Well be sensitive to neutrinos at the "neutrino floor" (produced by the sun)

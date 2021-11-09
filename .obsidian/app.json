@@ -28,7 +28,8 @@
     "LAr",
     "radiative",
     "bremsstrahlung",
-    "Photonuclear"
+    "Photonuclear",
+    "fiducial"
   ],
   "attachmentFolderPath": "Assets",
   "promptDelete": false
