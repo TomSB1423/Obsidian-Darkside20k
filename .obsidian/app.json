@@ -36,7 +36,9 @@
     "electronegativity",
     "scintillator",
     "shifter",
-    "UAr"
+    "UAr",
+    "SiPMs",
+    "electroluminescence"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false
