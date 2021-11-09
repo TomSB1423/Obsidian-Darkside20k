@@ -1,6 +1,3 @@
-
-   
-
 # What is Dark Matter?
 No one talks about specific particles -> no one really knows what they are looking for anymore.
 ## General Background

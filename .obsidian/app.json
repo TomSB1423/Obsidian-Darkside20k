@@ -15,7 +15,21 @@
     "MiniBooNE",
     "Axion",
     "eV",
-    "Radiative"
+    "Radiative",
+    "Muons",
+    "muon",
+    "Spallation",
+    "hadronic",
+    "spallation",
+    "muons",
+    "Spallation",
+    "spallation",
+    "spallation",
+    "LAr",
+    "radiative",
+    "bremsstrahlung",
+    "Photonuclear"
   ],
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "promptDelete": false
 }
