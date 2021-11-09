@@ -30,7 +30,9 @@
     "bremsstrahlung",
     "Photonuclear",
     "fiducial",
-    "DarkSide"
+    "DarkSide",
+    "cryostat",
+    "ProtoDUNE"
   ],
   "attachmentFolderPath": "Assets",
   "promptDelete": false
