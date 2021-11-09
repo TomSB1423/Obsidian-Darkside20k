@@ -8,6 +8,7 @@
 -   Define a fiducial volume to get rid of background #misplaced
 	-   This is volume that is cared about
 	-   Ignore volume around the edge of the TPC
+	-   In absence of this fiducialization, surface background and background from Cherenkov events originating in the PMTs fused silica and in the Teflon reflector dominate
 
 ## Structure
 -  Consists of a octagonal container filled with UAr

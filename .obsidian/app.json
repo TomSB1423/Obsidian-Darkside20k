@@ -39,7 +39,11 @@
     "UAr",
     "SiPMs",
     "electroluminescence",
-    "photosensors"
+    "photosensors",
+    "Fiducialization",
+    "fiducialization",
+    "Cherenkov",
+    "PMTs"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false
