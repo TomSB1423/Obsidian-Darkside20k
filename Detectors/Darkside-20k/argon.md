@@ -8,4 +8,4 @@
 -   Is a good scintillator - produces lots of light -> PSD uses the light for detection
 -   Media is transparent to their own light, so can build big detectors - nontrivial as absorption is not the same as emission lines
 -   Transports charge well - nontrivial as not metal. We are measuring light and charge in the [[DarkSide-20k]] detector
--   DEEP - discriminates entirely with the light pulse rather than the conduction -> so [[DarkSide-20k]] is trying to use both
+-   [[DUNE]] - discriminates entirely with the light pulse rather than the conduction -> so [[DarkSide-20k]] is trying to use both

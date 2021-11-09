@@ -10,7 +10,7 @@
 ![[dark matter experiments.png]]
 Not sure where this image is from ^
 
-Also have [[Dune]] (Deep Underground Neutron Experiment) although this isn't a dark matter detector - it is similar to our project task
+Also have [[DUNE]] (Deep Underground Neutron Experiment) although this isn't a dark matter detector - it is similar to our project task
 
 # References
 [C.E. Aalseth et al, DarkSide-20k collaboration, Eur. Phys. J. Plus 133 (2018) 131](https://arxiv.org/pdf/1707.08145.pdf)
