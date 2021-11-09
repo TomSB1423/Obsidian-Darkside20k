@@ -1,5 +1,4 @@
-   
-## Details about Muons
+## Muon Background
 
 -   Similar to the electron
 	-   charge of −1e
@@ -26,3 +25,13 @@
 -   Inelastic muon interaction with nuclei
 -   Muon decay
 	-   Would be unlikely to be found in the detector
+
+
+## Muons in [[DarkSide-20k]]   
+
+- No direct link between muons and WIMPs → muon collisions look different to WIMPs
+- Reason to consider muons induced background as too rare
+- Link to xenon experiment with excess of tritium ^9df396
+	- As DarkSide is more sensitive -> need to have good estimate for muon interactions
+	- To make sure we have an understanding of where things come from
+- Looking to understand all nuclear recoils as this is what we are looking for for a WIMP interaction -> WIMPs we are looking for have a classic signature for nuclear recoils?
