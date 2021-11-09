@@ -11,7 +11,9 @@
 	-   This is passive at the moment but want to install light detectors - not enough funding for this
 -   Passive Gd Acrylic Shell
 	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings
-	-   Suppresses neutron induced recoils
+	-   GdAS moderates neutrons emitted from all of the detector materials, particularly from the ones which make-up and surround the LAr TPC
+	-   The Gd enhances neutron capture probability
+	-   
 -   Inner Active Veto (LAr)	
 	-   
 -   Acrylic TPC Wall & PDM and mechanics
