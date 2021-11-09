@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,24 +87,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "5dca2d3316142398",
   "lastOpenFiles": [
     "Darkside-20k/DarkSide-20k.md",
-    "Dark Matter Detectors.md",
-    "DarkSide Project.md",
-    "Introduction to Dark Matter.md",
+    "Darkside-20k/DarkSide Project.md",
     "unlinked files output.md",
-    "Project Task.md",
+    "General Information/Dark Matter Detectors.md",
+    "General Information/Introduction to Dark Matter.md",
+    "General Information/Project Task.md",
     "assets/pdf/1811.07912.pdf",
     "assets/photos/Untitled picture.png",
-    "WIMPs.md",
-    "Dune.md"
+    "General Information/WIMPs.md",
+    "General Information/Dune.md"
   ]
 }
