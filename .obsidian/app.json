@@ -1,4 +1,21 @@
 {
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "bolometers",
+    "gravitationally",
+    "lensing",
+    "axions",
+    "ultrarelativistic",
+    "neutralinos",
+    "unstandardized",
+    "flavour",
+    "SIMPs",
+    "SuperKEKB",
+    "MiniBooNE",
+    "Axion",
+    "eV",
+    "Radiative"
+  ],
+  "attachmentFolderPath": "Assets"
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Project Structure.md",
+            "file": "Dune.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Structure.md",
+                "file": "Dune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,21 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "5dca2d3316142398",
   "lastOpenFiles": [
-    "Project Structure.md"
+    "Dune.md",
+    "Dark Matter Detectors.md",
+    "DarkSide-20k.md",
+    "Introduction to Dark Matter.md",
+    "Assets/Untitled picture.png",
+    "Project Task.md",
+    "Liquid xenon detectors.md"
   ]
 }
