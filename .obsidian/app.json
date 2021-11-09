@@ -43,7 +43,8 @@
     "Fiducialization",
     "fiducialization",
     "Cherenkov",
-    "PMTs"
+    "PMTs",
+    "Directionality"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false
