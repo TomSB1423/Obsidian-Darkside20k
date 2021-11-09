@@ -5,6 +5,7 @@ Liquid argon is advantageous as a sensitive medium for several reasons:
 	-   However there are other sources of Argon - Ar-39 is found in abundance in atmospheric Argon
 	-   UAr (Underground Ar) used in [[TPC]] to avoid radiation
 	-   AAr (Atmospheric Ar) used in [[Veto]] as more economical and can mediate any radioactive decays using acrylic for TPC walls
+-   Liquid argon behaves as it has a conduction band
 -   The fact that argon is a noble element and therefore has a vanishing electronegativity means that electrons produced by ionizing radiation will not be absorbed as they drift toward the detector readout. 
 	-   Useful for conduction detection method
 	-   Transports charge well - nontrivial as not metal. We are measuring light and charge in the [[DarkSide-20k]] detector

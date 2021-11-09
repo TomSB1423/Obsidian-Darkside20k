@@ -1,5 +1,5 @@
    
-## Details about muons
+## Details about Muons
 
 -   Similar to the electron
 	-   charge of −1e
