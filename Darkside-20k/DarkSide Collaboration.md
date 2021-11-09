@@ -1,10 +1,14 @@
    
 
-## Darkside projects:
+## DarkSide Collaboration:
 
-1. Darkside-10 → smallest volume
+1. DarkSide-10 → smallest volume
+	- 10kg of LAr
+	- Operated for 7 months
+	- Princeton University
 
-2. Darkside-50
+2. DarkSide-50
+	- 46kg argon target mass
 	-   Dual-phase argon TPC (time projection chamber) → uses E & B fields with a sensitive volume of gas/liquid to perform a 3D reconstruction of a particle trajectory of interaction.
 
 3. [[DarkSide-20k]]

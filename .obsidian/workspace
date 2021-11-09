@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Darkside-20k/DarkSide-20k.md",
+            "file": "Darkside-20k/DarkSide Collaboration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Darkside-20k/DarkSide-20k.md",
+                "file": "Darkside-20k/DarkSide Collaboration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "5dca2d3316142398",
   "lastOpenFiles": [
+    "Darkside-20k/DarkSide Collaboration.md",
+    "assets/photos/dark matter experiments.png",
     "Darkside-20k/DarkSide-20k.md",
-    "Darkside-20k/DarkSide Project.md",
     "unlinked files output.md",
     "General Information/Dark Matter Detectors.md",
     "General Information/Introduction to Dark Matter.md",
     "General Information/Project Task.md",
     "assets/pdf/1811.07912.pdf",
-    "assets/photos/Untitled picture.png",
     "General Information/WIMPs.md",
     "General Information/Dune.md"
   ]

@@ -29,7 +29,8 @@
     "radiative",
     "bremsstrahlung",
     "Photonuclear",
-    "fiducial"
+    "fiducial",
+    "DarkSide"
   ],
   "attachmentFolderPath": "Assets",
   "promptDelete": false

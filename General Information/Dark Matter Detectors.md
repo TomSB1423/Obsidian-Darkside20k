@@ -5,9 +5,9 @@
 -   Point contact germanium detectors
 -   [[Liquid xenon detectors]]
 -   Liquid argon detectors
-	-   [[DarkSide Project]]
+	-   [[DarkSide Collaboration]]
 
-![[Untitled picture.png]]
+![[dark matter experiments.png]]
 Not sure where this image is from ^
 
 Also have [[Dune]] (Deep Underground Neutron Experiment) although this isn't a dark matter detector - it is similar to our project task
