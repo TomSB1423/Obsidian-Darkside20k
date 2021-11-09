@@ -2,7 +2,7 @@
 - It will be installed in LNGS Hall-C and will either detect WIMP dark matter or reach a 90% exclusion sensitivity to WIMP-nucleon cross sections of 7.4x10-48cm2 at the mass of 1TeV/c2. [Labratori Nazionali](https://www.lngs.infn.it/en/darkside)
 
 ## Overall Structure
-
+A list made from outside → inside:
 -   Outer ProtoDUNE-like cryostat to contain temperature (LAr)
 -   Copper shell #question - <u>Where is this located?</u>
 	-   Acts as Faraday cage
@@ -10,16 +10,16 @@
 -   Outer Argon Buffer (OAB)
 	-   All encased in an outer active volume of atmospheric argon
 	-   This is passive at the moment but want to install light detectors - not enough funding for this
+	-   #question<u> what does this do?</u>
 -   Passive Gd Acrylic Shell
-	-   <u>Helps with keeping E-field very homogeneous -> thin film metal field shaping rings </u> #idk
-	-   GdAS moderates neutrons emitted from all of the detector materials, particularly from the ones which make-up and surround the LAr TPC
+	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings #question <u>Is this true? Where are the metal field shaping rings found?</u>
+	-   Gd-loaded Acrylic Shell (GdAS) moderates neutrons emitted from all of the detector materials, particularly from the ones which make-up and surround the LAr TPC
 	-   The Gd enhances neutron capture probability
-	-   
 -   Inner Active Veto (LAr)	
 	-   
 -   Acrylic TPC Wall & PDM and mechanics
 	-   
--   TPC
+-   TPC (UAr - underground Argon → contains no Ar-39, only Ar-40 which is not radioactive)
 
 - Two detectors:
 	- Inner detector
