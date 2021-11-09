@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Detectors/Darkside-20k/DarkSide-20k.md",
+            "file": "Projects/Darkside-20k/DarkSide-20k.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detectors/Darkside-20k/DarkSide-20k.md",
+                "file": "Projects/Darkside-20k/DarkSide-20k.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "dd18550e8f223bbc",
   "lastOpenFiles": [
-    "Detectors/Darkside-20k/DarkSide-20k.md",
-    "Detectors/Darkside-20k/DarkSide Collaboration.md",
-    "Detectors/Dark Matter Detectors.md",
-    "Detectors/Darkside-20k/argon.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Projects/Darkside-20k/Argon.md",
+    "Projects/Darkside-20k/DarkSide Collaboration.md",
+    "Projects/Darkside-20k/Detectors/TPC.md",
+    "Projects/Darkside-20k/Detectors/Veto.md",
+    "Projects/Darkside-20k/Detectors/Dark Matter Detectors.md",
     "assets/pdf/1811.07912.pdf",
-    "Detectors/DUNE.md",
+    "Projects/DUNE.md",
     "General Information/Introduction to Dark Matter.md",
-    "WIMPS/WIMP Interactions.md",
-    "WIMPS/WIMPs.md",
-    "assets/pdf/TDR_DarkSide-20k.pdf"
+    "WIMPS/WIMP Interactions.md"
   ]
 }

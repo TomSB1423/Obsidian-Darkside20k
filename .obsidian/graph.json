@@ -6,17 +6,39 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:Projects/Darkside-20k/Detectors",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Darkside",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "WIMP",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.9008547008547,
-  "lineSizeMultiplier": 3.26894586894587,
-  "collapse-forces": true,
-  "centerStrength": 0.447293447293447,
-  "repelStrength": 6.55270655270655,
-  "linkStrength": 0.794871794871795,
-  "linkDistance": 321,
-  "scale": 2.9030989544096912,
-  "close": false
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.74250936329588,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.612359550561798,
+  "repelStrength": 16.7415730337079,
+  "linkStrength": 0.462546816479401,
+  "linkDistance": 267,
+  "scale": 1.0534979423868305,
+  "close": true
 }
