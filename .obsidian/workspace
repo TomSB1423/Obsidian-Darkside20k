@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/Detectors/TPC.md",
-            "mode": "preview"
+            "file": "Projects/Darkside-20k/Detectors/Energy Determination.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/Detectors/Veto.md",
+                "file": "Projects/Darkside-20k/Detectors/Energy Determination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,15 +96,15 @@
   },
   "active": "22919ed97baafbb1",
   "lastOpenFiles": [
+    "Projects/Darkside-20k/Detectors/Energy Determination.md",
+    "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
+    "Projects/Darkside-20k/Detectors/PSD.md",
+    "Projects/Darkside-20k/Detectors/Nuclear Recoil.md",
+    "Projects/Darkside-20k/Detectors/TPC.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Projects/Darkside-20k/DarkSide Collaboration.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
     "WIMPS/WIMP Interactions.md",
-    "Muons/Muons.md",
-    "General Information/Project Task.md",
-    "Projects/Dark Matter Detectors.md",
-    "Projects/DUNE.md",
-    "Projects/Darkside-20k/Argon.md",
-    "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
-    "assets/pdf/1707.08145.pdf",
-    "Projects/Darkside-20k/Detectors/TPC.md"
+    "Muons/Muons.md"
   ]
 }

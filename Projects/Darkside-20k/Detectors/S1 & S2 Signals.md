@@ -23,4 +23,4 @@ Categorized into two groups:
 		
 Using both S1 & S2 means that a very good resolution can be obtained
 
-#TODO talk about background rejection, include Cherenkov light and time rejection
+#TODO talk about background rejection, include Cherenkov light and time rejection, deadtime

@@ -24,7 +24,6 @@
 ## Measurements
 Two main types of interactions:
 - [[Nuclear Recoil]]
-- 
 - Also have Electron Recoils
 
 ## References

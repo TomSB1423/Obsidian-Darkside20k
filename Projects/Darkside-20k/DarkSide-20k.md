@@ -16,13 +16,13 @@ A comprehensive list made from outside → inside:
 	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings #question - <u>Is this true? Where are the metal field shaping rings found?</u>
 	-   Gd-loaded Acrylic Shell (GdAS) moderates neutrons emitted from all of the detector materials, particularly from the ones which make-up and surround the LAr [[TPC]]
 	-   The Gd enhances neutron capture probability
+	-   Copper shell #question - <u>Where is this located?</u>
+		-   Acts as Faraday cage
+		-   Optical and electric shield for reducing external noise from contaminating the detector signals
 -   Inner Active Veto (LAr)	
 	-  Allows for reliable predictions of the number of neutron-induced recoils expected #question - <u>Is this correct?</u>
 -   Acrylic [[TPC]] Wall & PDM and mechanics
 	-   Again, acrylic mediates neutrons to avoid [[Nuclear Recoil]] mostly produced from the slightly radioactive LAr in the [[Veto]]. The nuclear recoils could be mistaken for [[WIMP interactions]]
-	-   Copper shell #question - <u>Where is this located?</u>
-		-   Acts as Faraday cage
-		-   Optical and electric shield for reducing external noise from contaminating the detector signals
 -   [[TPC]] (UAr - underground Argon → contains no Ar-39, only Ar-40 which is not radioactive)
 
 ![[Schematic view of DS-2k detector.png]]
