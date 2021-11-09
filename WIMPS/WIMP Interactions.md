@@ -15,11 +15,13 @@ However 2/3 are impossible to measure.
 	- Due to earths rotation around the sun we would see the energy spectrum of the WIMP-like events wobble periodically (up and down every year)
 	- Would expect this to change by a few percent
 	- Impossible to measure as way too little, also would only occur once a year
-	- To measure this you would plot a graph of X: recoil energy, y: number of events
-
+	- To measure this you would plot a graph of x: recoil energy, y: number of events
 3.  Material dependence - most practical signature to look for
 	- Nuclear scattering profile looks different on different materials
-		- This is nuclear recoil → we expect a distribution of scatters and will end up with a nuclear elastic scattering plot of....................................
+		- This is nuclear recoil → we expect a distribution of scatters and will end up with a nuclear elastic scattering plot of y: Counts vs x: Recoil Energy. This would look different for every particle and over time you would see a spread of plots ( #question for each particle?):
+		
+	![[Counts vs Recoil Energy.png]]
+		
 	- Called material signature
 	- Once we know the signal for WIMP-like events in Argon, we can extrapolate this data and then look for it in Xenon. If we find that the mass is the same then we can hypothesis that these WIMP-like events are in fact WIMPs.
 		- We would then extrapolate the data to see if the rate matches the mass needed/predicted in the galaxy

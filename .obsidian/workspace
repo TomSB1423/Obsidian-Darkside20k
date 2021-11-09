@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPS/WIMP Interactions.md",
-            "mode": "source"
+            "file": "Projects/Darkside-20k/Detectors/TPC.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIMPS/WIMP Interactions.md",
+                "file": "Projects/Darkside-20k/Detectors/Veto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "22919ed97baafbb1",
   "lastOpenFiles": [
+    "Projects/Darkside-20k/Detectors/Veto.md",
     "WIMPS/WIMP Interactions.md",
     "Muons/Muons.md",
     "General Information/Project Task.md",
@@ -103,7 +104,6 @@
     "Projects/Darkside-20k/Argon.md",
     "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
     "assets/pdf/1707.08145.pdf",
-    "Projects/Darkside-20k/Detectors/TPC.md",
-    "Projects/Darkside-20k/Detectors/Nuclear Recoil.md"
+    "Projects/Darkside-20k/Detectors/TPC.md"
   ]
 }
