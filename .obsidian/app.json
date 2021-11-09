@@ -38,7 +38,8 @@
     "shifter",
     "UAr",
     "SiPMs",
-    "electroluminescence"
+    "electroluminescence",
+    "photosensors"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false

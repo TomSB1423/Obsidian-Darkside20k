@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/Detectors/TPC.md",
+            "file": "Projects/Darkside-20k/Detectors/PSD.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/Detectors/TPC.md",
+                "file": "Projects/Darkside-20k/Detectors/PSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "22919ed97baafbb1",
   "lastOpenFiles": [
+    "Projects/Darkside-20k/Detectors/PSD.md",
+    "Projects/Darkside-20k/Detectors/Energy Determination.md",
+    "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
+    "unlinked files output.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
     "General Information/Logs.md",
     "assets/photos/TPC Structure.png",
     "Projects/Darkside-20k/Argon.md",
-    "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
-    "Projects/Dark Matter Detectors.md",
-    "Projects/Darkside-20k/DarkSide-20k.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md",
-    "assets/pdf/1811.07912.pdf"
+    "Projects/Dark Matter Detectors.md"
   ]
 }

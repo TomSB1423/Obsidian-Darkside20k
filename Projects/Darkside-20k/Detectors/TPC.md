@@ -12,11 +12,12 @@
 ## Structure
 -  Consists of a octagonal container filled with UAr
 -  Sides coated with wavelength shifter
--  Densely packed arrays of SiPMs above the anode and below the cathode fully cover the top and bottom faces of the TPC to detect both S1 & S2 signals → 2605 photon detection channels each
+-  Densely packed arrays of SiPMs above the anode and below the cathode fully cover the top and bottom faces of the TPC to detect both [[S1 & S2 Signals]] → 2605 photon detection channels each
 -  Transparent conductive Indium-tin-oxide cathode (ITO) at the bottom and grid just below liquid surface which separates electron drift and extraction regions.
+-  Region above liquid is bounded by a flat diving bell shaped ITO anode electrode at the top which supplies a voltage to produce a vertical electric fields to drift the ionization electrons upwards
 -  Homogeneous electric field running along the axis of the cylinder established between anode and cathode plates on top and bottom of the chamber
 	-   There are independent electric fields between the grid and anode which creates the fields to extract the electrons into the gas and accelerate them to create a secondary scintillation called electroluminescence which gives S2 signal
--  
+
 
 ![[TPC Structure.png]]
 
