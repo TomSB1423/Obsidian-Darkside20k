@@ -19,8 +19,13 @@
 -  Homogeneous electric field running along the axis of the cylinder established between anode and cathode plates on top and bottom of the chamber
 	-   There are independent electric fields between the grid and anode which creates the fields to extract the electrons into the gas and accelerate them to create a secondary scintillation called electroluminescence which gives S2 signal
 
-
 ![[TPC Structure.png]]
+
+## Measurements
+Two main types of interactions:
+- [[Nuclear Recoils]]
+- 
+- Also have Electron Recoils
 
 ## References
 [[CERN-PH-EP-2010-047.pdf]]

@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "muon",
+      "color": {
+        "a": 1,
+        "rgb": 15602151
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 16.7415730337079,
   "linkStrength": 0.462546816479401,
   "linkDistance": 267,
-  "scale": 0.3823010968769962,
-  "close": true
+  "scale": 0.38230109687699615,
+  "close": false
 }

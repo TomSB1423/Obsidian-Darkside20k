@@ -7,11 +7,8 @@
         "id": "22919ed97baafbb1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fidu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +91,15 @@
   },
   "active": "22919ed97baafbb1",
   "lastOpenFiles": [
-    "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
+    "Nuclear Recoil.md",
+    "Projects/Darkside-20k/Detectors/Veto.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
-    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
     "Projects/Darkside-20k/Detectors/PSD.md",
     "Projects/Darkside-20k/Detectors/Energy Determination.md",
-    "unlinked files output.md",
-    "Projects/Darkside-20k/Detectors/Veto.md",
-    "General Information/Logs.md",
-    "assets/photos/TPC Structure.png",
-    "Projects/Darkside-20k/Argon.md"
+    "Muons/Muon-LAr Interactions.md",
+    "assets/pdf/TDR_DarkSide-20k.pdf",
+    "Projects/Dark Matter Detectors.md",
+    "Projects/Darkside-20k/DarkSide-20k.md"
   ]
 }
