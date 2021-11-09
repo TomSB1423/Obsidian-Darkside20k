@@ -6,7 +6,7 @@
 -   Outer ProtoDUNE-like cryostat to contain temperature (LAr)
 -   Copper shell #question - <u>Where is this located?</u>
 	-   Acts as Faraday cage
-	-   Optically and electrically isolates the 
+	-   Optical and electric shield for reducing external noise from contaminating the detector signals
 -   Outer Argon Buffer (OAB)
 	-   All encased in an outer active volume of atmospheric argon
 	-   This is passive at the moment but want to install light detectors - not enough funding for this
