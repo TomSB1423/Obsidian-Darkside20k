@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "026a2ea01caf3559",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dca2d3316142398",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Project Structure.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "377ed562849bdcf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18e715052739843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b5382325651706b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d846f23b1ffb3310",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcaeacbdcd2b9837",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be20fe44a601b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44fe7b2fbf72c96d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44936264cb5fa557",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5dca2d3316142398",
+  "lastOpenFiles": [
+    "Project Structure.md"
+  ]
+}
