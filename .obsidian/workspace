@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "dd18550e8f223bbc",
+        "id": "22919ed97baafbb1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -93,17 +93,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dd18550e8f223bbc",
+  "active": "22919ed97baafbb1",
   "lastOpenFiles": [
     "Projects/Darkside-20k/Detectors/TPC.md",
+    "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
+    "assets/photos/TPC Structure.png",
     "Projects/Darkside-20k/Argon.md",
     "Projects/Dark Matter Detectors.md",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/DarkSide Collaboration.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
     "assets/pdf/1811.07912.pdf",
-    "Projects/DUNE.md",
-    "General Information/Introduction to Dark Matter.md",
-    "WIMPS/WIMP Interactions.md"
+    "Projects/DUNE.md"
   ]
 }
