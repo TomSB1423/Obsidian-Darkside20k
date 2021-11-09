@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Darkside-20k/DarkSide Collaboration.md",
-            "mode": "source"
+            "file": "Darkside-20k/DarkSide-20k.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Darkside-20k/DarkSide Collaboration.md",
+                "file": "Darkside-20k/DarkSide-20k.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
   },
   "active": "5dca2d3316142398",
   "lastOpenFiles": [
-    "Darkside-20k/DarkSide Collaboration.md",
     "Darkside-20k/DarkSide-20k.md",
+    "Darkside-20k/DarkSide Collaboration.md",
     "assets/pdf/TDR_DarkSide-20k.pdf",
     "assets/photos/dark matter experiments.png",
     "unlinked files output.md",
