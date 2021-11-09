@@ -34,7 +34,8 @@
     "cryostat",
     "ProtoDUNE",
     "electronegativity",
-    "scintillator"
+    "scintillator",
+    "shifter"
   ],
   "attachmentFolderPath": "Assets",
   "promptDelete": false
