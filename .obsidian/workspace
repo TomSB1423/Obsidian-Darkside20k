@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/DarkSide-20k.md",
+            "file": "Projects/Darkside-20k/Detectors/TPC.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/DarkSide-20k.md",
+                "file": "Projects/Darkside-20k/Detectors/TPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,22 +87,20 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "dd18550e8f223bbc",
   "lastOpenFiles": [
-    "Projects/Darkside-20k/DarkSide-20k.md",
-    "Projects/Darkside-20k/Argon.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
+    "Projects/Darkside-20k/Argon.md",
+    "Projects/Dark Matter Detectors.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Projects/Darkside-20k/DarkSide Collaboration.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
-    "Projects/Darkside-20k/Detectors/Dark Matter Detectors.md",
     "assets/pdf/1811.07912.pdf",
     "Projects/DUNE.md",
     "General Information/Introduction to Dark Matter.md",

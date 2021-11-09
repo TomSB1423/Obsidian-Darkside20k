@@ -1,7 +1,10 @@
 ## Why use Argon?
    
 
--   Economical, Argon-40 is most abundant
+-   Economical, Argon-40 is most abundant and not radioactive
+	-   However there are other sources of Argon - Ar-39 is found in abundance in atmospheric Argon
+	-   UAr (Underground Ar) used in [[TPC]] to avoid radiation
+	-   AAr (Atmospheric Ar) used in [[Veto]] as more economical and can mediate any radioactive decays using acrylic for TPC walls
 -   Liquid argon is advantageous as a sensitive medium for several reasons. 
 -   The fact that argon is a noble element and therefore has a vanishing electronegativity means that electrons produced by ionizing radiation will not be absorbed as they drift toward the detector readout. Argon also scintillates when an energetic charged particle passes by, releasing a number of scintillation photons that is proportional to the energy deposited in the argon by the passing particle. Liquid argon is also relatively inexpensive, making large-scale projects economically feasible. However, one of the primary motivations for using liquid argon as a sensitive medium is its density. Liquid argon is around one thousand times denser than the gas used in Nygren's TPC design, which increases the likelihood of a particle interacting in a detector by a factor of around one thousand. [TPC wiki article](https://en.wikipedia.org/wiki/Time_projection_chamber)
 -   Noble element - electrons are not absorbed → useful for conduction detection method

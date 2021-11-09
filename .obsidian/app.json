@@ -35,7 +35,8 @@
     "ProtoDUNE",
     "electronegativity",
     "scintillator",
-    "shifter"
+    "shifter",
+    "UAr"
   ],
   "attachmentFolderPath": "Assets",
   "promptDelete": false
