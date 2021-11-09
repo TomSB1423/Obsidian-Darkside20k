@@ -3,19 +3,34 @@
 
 ## Overall Structure
 
-- Outer ProtoDUNE-like cryostat
--   All encased in an outer active volume of atmospheric argon, called the Outer Argon Buffer (OAB)
--   Abandons organic liquid scintillator veto
-	-   Due to significant performance advantages
-	-   Removal of this means that no cryostat is needed
+-   Outer ProtoDUNE-like cryostat to contain temperature (LAr)
+-   Copper shell
+	-   Acts as Faraday cage
+-   Outer Argon Buffer (OAB)
+	-   All encased in an outer active volume of atmospheric argon
+	-   This is passive at the moment but want to install light detectors - not enough funding for this
+-   Passive Gd Acrylic Shell
+	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings
+	-   Suppresses neutron induced recoils
+-   Inner Active Veto (LAr)	
+	-   
+-   Acrylic TPC Wall & PDM and mechanics
+	-   
+-   TPC
+
 - Two detectors:
-	-   Inner detector
-		-   Liquid Argon Time Projection Chamber (LAr TPC)
-		-   Filled with UAr
-	-   Veto detector
+	- Inner detector
+		- Liquid Argon Time Projection Chamber (LAr TPC)
+		-  Filled with UAr
+	-  Veto detector
 		-   Made of a plastic shell, loaded with Gd, surrounding the inner detector, sandwiched between two active AAr layers
 
 
+![[Schematic view of DS-2k detector.png]]
+
+-   Abandons organic liquid scintillator veto
+	-   Due to significant performance advantages
+	-   Removal of this means that no cryostat is needed
 
 ## Detectors
 
