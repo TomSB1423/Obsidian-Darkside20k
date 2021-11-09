@@ -32,7 +32,9 @@
     "fiducial",
     "DarkSide",
     "cryostat",
-    "ProtoDUNE"
+    "ProtoDUNE",
+    "electronegativity",
+    "scintillator"
   ],
   "attachmentFolderPath": "Assets",
   "promptDelete": false

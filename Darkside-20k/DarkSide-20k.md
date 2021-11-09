@@ -22,5 +22,5 @@ The veto detector consists of three separate volumes:
 
 #TODO Write about TPC
 ### TPC
-- The LAr TPC operates in a two-phase mode, utilizing both the liquid and gas phases of argon
+- The LAr TPC operates in a two-phase mode, utilizing both the liquid and gas phases of [[argon]]
 - 
