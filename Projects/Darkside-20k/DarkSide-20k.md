@@ -22,7 +22,7 @@ A comprehensive list made from outside → inside:
 -   Inner Active Veto (LAr)	
 	-  Allows for reliable predictions of the number of neutron-induced recoils expected #question - <u>Is this correct?</u>
 -   Acrylic [[TPC]] Wall & PDM and mechanics
-	-   Again, acrylic mediates neutrons to avoid [[Nuclear Recoil]] mostly produced from the slightly radioactive LAr in the [[Veto]]. The nuclear recoils could be mistaken for [[WIMP interactions]]
+	-   Again, acrylic mediates neutrons to avoid [[Recoil]] mostly produced from the slightly radioactive LAr in the [[Veto]]. The nuclear recoils could be mistaken for [[WIMP interactions]]
 -   [[TPC]] (UAr - underground Argon → contains no Ar-39, only Ar-40 which is not radioactive)
 
 ![[Schematic view of DS-2k detector.png]]
