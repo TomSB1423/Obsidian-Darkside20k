@@ -44,7 +44,10 @@
     "fiducialization",
     "Cherenkov",
     "PMTs",
-    "Directionality"
+    "Directionality",
+    "Cosmogenic",
+    "ethermalization",
+    "thermalized"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false
