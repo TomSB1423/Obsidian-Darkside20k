@@ -23,8 +23,8 @@
 
 ## Measurements
 Two main types of interactions:
-- Nuclear [[Recoil]]
-- Also have Electron [[Recoil]]
+- Nuclear [[Recoils]]
+- Also have Electron [[Recoils]]
 
 ## References
 [[CERN-PH-EP-2010-047.pdf]]
