@@ -48,7 +48,8 @@
     "Cosmogenic",
     "ethermalization",
     "thermalized",
-    "deadtime"
+    "deadtime",
+    "Shockwave"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false
