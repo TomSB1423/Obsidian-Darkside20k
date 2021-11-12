@@ -47,7 +47,8 @@
     "Directionality",
     "Cosmogenic",
     "ethermalization",
-    "thermalized"
+    "thermalized",
+    "deadtime"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false

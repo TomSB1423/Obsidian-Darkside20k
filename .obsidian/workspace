@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/Detectors/Recoil.md",
+            "file": "Projects/Darkside-20k/Detectors/TPC.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#todo",
+                "query": "cheren",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/Detectors/Recoil.md",
+                "file": "Projects/Darkside-20k/Detectors/TPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,14 +95,14 @@
   },
   "active": "22919ed97baafbb1",
   "lastOpenFiles": [
-    "Projects/Darkside-20k/Detectors/Recoil.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
-    "Projects/Darkside-20k/DarkSide-20k.md",
-    "Projects/Darkside-20k/Detectors/PSD.md",
-    "Projects/Darkside-20k/Detectors/Energy Determination.md",
-    "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
+    "Projects/Darkside-20k/Detectors/Energy Determination.md",
+    "Projects/Darkside-20k/Detectors/PSD.md",
+    "Projects/Darkside-20k/Detectors/S1 & S2 Signals.md",
+    "Projects/Darkside-20k/Detectors/Recoil.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Projects/Darkside-20k/DarkSide Collaboration.md",
     "WIMPS/WIMP Interactions.md",
     "Muons/Muons.md"
   ]

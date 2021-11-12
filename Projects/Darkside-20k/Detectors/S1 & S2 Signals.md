@@ -23,4 +23,6 @@ Categorized into two groups:
 		
 Using both S1 & S2 means that a very good resolution can be obtained
 
-#TODO talk about background rejection, include Cherenkov light and time rejection, deadtime
+#TODO talk about background rejection, include Cherenkov light and time rejection, deadtime ^ede160
+-   Cherenkov background
+	-   Occurs when an electron recoil event is contaminated with Cherenkov light coming from a β/γ interaction in the surrounding detector materials (acrylic or PTFE), either resulting from multiple Compton scattering of a single particle or a separate particle interacting in time-coincidence with the first
