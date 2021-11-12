@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cheren",
+                "query": "#question",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,9 +86,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "5a81b33b1ca99c4b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
