@@ -1,5 +1,6 @@
 # What is Dark Matter?
 No one talks about specific particles -> no one really knows what they are looking for anymore.
+
 ## General Background
 -   Is not matter that we can see
 	 -   Not made up of baryons → as would be able to detect this by absorption of radiation
