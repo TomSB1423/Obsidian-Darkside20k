@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPS/WIMP Interactions.md",
+            "file": "Projects/Darkside-20k/Measurements/PSD.md",
             "mode": "source"
           }
         }
@@ -118,14 +118,14 @@
   "active": "155d3593bfc3a55a",
   "lastOpenFiles": [
     "Meeting 1,11,21.md",
+    "Projects/Darkside-20k/Measurements/PSD.md",
+    "Projects/Darkside-20k/Measurements/Recoils.md",
     "WIMPS/WIMP Interactions.md",
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "Projects/Darkside-20k/Measurements/PSD.md",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/Detectors/Argon.md",
     "General Information/Project Task.md",
     "unlinked files output.md",
-    "Projects/Darkside-20k/Detectors/Location Dependence.md",
-    "Muons/Muons.md"
+    "Projects/Darkside-20k/Detectors/Location Dependence.md"
   ]
 }
