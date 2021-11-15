@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e3ea950f84b1273c",
+        "id": "155d3593bfc3a55a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "unlinked files output.md",
-            "mode": "source"
+            "file": "WIMPS/WIMP Interactions.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unlinked files output.md",
+                "file": "WIMPS/WIMP Interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +102,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e3ea950f84b1273c",
+  "active": "155d3593bfc3a55a",
   "lastOpenFiles": [
+    "WIMPS/WIMP Interactions.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "General Information/Project Task.md",
+    "Projects/Darkside-20k/Detectors/Argon.md",
     "unlinked files output.md",
     "Projects/Darkside-20k/Detectors/Location Dependence.md",
     "Muons/Muons.md",
     "General Information/Introduction to Dark Matter.md",
     "General Information/Logs.md",
-    "WIMPS/WIMPs.md",
-    "WIMPS/WIMP Interactions.md",
-    "Projects/DUNE.md",
-    "Projects/Dark Matter Detectors.md",
-    "Projects/Darkside-20k/Measurements/Recoils.md"
+    "WIMPS/WIMPs.md"
   ]
 }
