@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting 1,11,21.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7f3b3fd02098ffda",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Projects/Darkside-20k/Measurements/PSD.md",
+            "file": "logs.md",
             "mode": "source"
           }
         }
@@ -59,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting 1,11,21.md",
+                "file": "logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +96,15 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "155d3593bfc3a55a",
   "lastOpenFiles": [
+    "logs.md",
     "Meeting 1,11,21.md",
     "Projects/Darkside-20k/Measurements/PSD.md",
     "Projects/Darkside-20k/Measurements/Recoils.md",
@@ -125,7 +113,6 @@
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/Detectors/Argon.md",
     "General Information/Project Task.md",
-    "unlinked files output.md",
-    "Projects/Darkside-20k/Detectors/Location Dependence.md"
+    "unlinked files output.md"
   ]
 }

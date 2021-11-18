@@ -53,5 +53,6 @@
     "scintillators"
   ],
   "attachmentFolderPath": "assets/photos",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }

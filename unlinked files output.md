@@ -1,4 +1,4 @@
 - [[Location Dependence]]
-- [[Logs]]
+- [[General Information/Logs]]
 - [[Project Task]]
 - [[Introduction to Dark Matter]]
