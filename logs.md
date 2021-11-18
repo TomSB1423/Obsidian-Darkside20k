@@ -20,19 +20,3 @@
 | Week 6 | 09/11/21 | 3     | Reading about muon interactions and simulation in Geant4                                                |                                                     |
 |        | 12/11/21 | 3     | Tying up knowledge - moving from OneNote to Obsidian                                                    |                                                     |
 | Week 7 | 17/11/21 | 2     | Reading Ayesha's papers mentioned in the meeting                                                        | Make notes on this & clean up Obsidian questions    |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
-|        |          |       |                                                                                                         |                                                     |
