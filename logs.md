@@ -19,4 +19,6 @@
 |        | 03/11/21 | 2     | Continue reading muon-LAr interactions, difference between OAB and IAB                                  |                                                     |
 | Week 6 | 09/11/21 | 3     | Reading about muon interactions and simulation in Geant4                                                |                                                     |
 |        | 12/11/21 | 3     | Tying up knowledge - moving from OneNote to Obsidian                                                    |                                                     |
-| Week 7 | 17/11/21 | 2     | Reading Ayesha's papers mentioned in the meeting                                                        | Make notes on this & clean up Obsidian questions    |
+| Week 7 | 17/11/21 | 2     | Reading Ayesha's papers mentioned in the meeting                                                        | Make notes on this                                  |
+|        | 19/11/21 | 2     | Clean up Obsidian questions                                                                             |                                                     |
+|        | 22/11/21 | 2     | Making notes on Argon recoils                                                                           |                                                     |
