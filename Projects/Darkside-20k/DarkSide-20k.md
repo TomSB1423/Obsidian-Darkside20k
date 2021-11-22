@@ -14,7 +14,7 @@ A comprehensive list made from outside → inside:
 	-   Another outer active volume of atmospheric argon
 	-   This is passive at the moment but want to install light detectors - not enough funding for this
 -   Passive Gd Acrylic Shell
-	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings #question - <u>Is this true? Where are the metal field shaping rings found?</u>
+	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings #question - <u>Is this true? Where are the metal field shaping rings found? Don't think so</u>
 	-   Gd-loaded Acrylic Shell (GdAS) moderates neutrons emitted from all of the detector materials, particularly from the ones which make-up and surround the LAr [[TPC]]
 	-   The Gd enhances neutron capture probability
 	-   Copper shell #question - <u>Where is this located?</u>

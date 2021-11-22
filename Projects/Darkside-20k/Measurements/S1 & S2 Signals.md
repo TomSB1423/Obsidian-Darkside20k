@@ -18,7 +18,7 @@ Categorized into two groups:
 	-   S1 + S2 = constant → due to conservation of energy
 	-   Introducing a stronger electric field means that there will be more charge produced → this would increase the S2 signal
 		-   As electrons cant recombine with argon after they are ionized and so get carried away with the electric field
-	-   Fiducialization that is typical of dual-phase detectors is not  possible without an S2 signal #question - <u>Why is this?</u>
+	-   Fiducialization that is typical of dual-phase detectors is not possible without an S2 signal
 		
 Using both S1 & S2 means that a very good resolution can be obtained
 

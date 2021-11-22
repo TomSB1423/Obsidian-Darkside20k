@@ -18,7 +18,7 @@ However 2/3 are impossible to measure.
 	- To measure this you would plot a graph of x: recoil energy, y: number of events
 3.  Material dependence - most practical signature to look for
 	- Nuclear scattering profile looks different on different materials
-		- This is nuclear recoil → we expect a distribution of scatters and will end up with a nuclear elastic scattering plot of y: Counts vs x: Recoil Energy. This would look different for every particle and over time you would see a spread of plots ( #question for each particle?):
+		- This is nuclear recoil → we expect a distribution of scatters and will end up with a nuclear elastic scattering plot of y: Counts vs x: Recoil Energy. This would look different for every particle and over time you would see a spread of plots:
 		
 	![[Counts vs Recoil Energy.png]]
 		
