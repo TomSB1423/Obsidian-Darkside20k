@@ -8,10 +8,11 @@ General structure:
 
 A comprehensive list made from outside → inside:
 -   Outer ProtoDUNE-like cryostat to contain temperature (LAr)
+	-   With passive argon buffer
+-   Acrylic shell
 -   Outer Argon Buffer (OAB)
-	-   All encased in an outer active volume of atmospheric argon
+	-   Another outer active volume of atmospheric argon
 	-   This is passive at the moment but want to install light detectors - not enough funding for this
-	-   #question - <u>What does this do?</u>
 -   Passive Gd Acrylic Shell
 	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings #question - <u>Is this true? Where are the metal field shaping rings found?</u>
 	-   Gd-loaded Acrylic Shell (GdAS) moderates neutrons emitted from all of the detector materials, particularly from the ones which make-up and surround the LAr [[TPC]]
@@ -19,11 +20,14 @@ A comprehensive list made from outside → inside:
 	-   Copper shell #question - <u>Where is this located?</u>
 		-   Acts as Faraday cage
 		-   Optical and electric shield for reducing external noise from contaminating the detector signals
+	-   Has SiPM both pointing in and out
+		-   looks at outer veto and inner veto
 -   Inner Active Veto (LAr)	
-	-  Allows for reliable predictions of the number of neutron-induced recoils expected #question - <u>Is this correct?</u>
+	-  Allows for reliable predictions of the number of neutron-induced recoils expected
 -   Acrylic [[TPC]] Wall & PDM and mechanics
 	-   Again, acrylic mediates neutrons to avoid [[Recoils]] mostly produced from the slightly radioactive LAr in the [[Veto]]. The nuclear recoils could be mistaken for [[WIMP interactions]]
 -   [[TPC]] (UAr - underground Argon → contains no Ar-39, only Ar-40 which is not radioactive)
+	-   SiPM on top and bottom
 
 ![[Schematic view of DS-2k detector.png]]
 

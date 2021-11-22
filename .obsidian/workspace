@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "logs.md",
+            "file": "Meeting 1,11,21.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs.md",
+                "file": "Meeting 1,11,21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +100,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "155d3593bfc3a55a",
   "lastOpenFiles": [
-    "logs.md",
     "Meeting 1,11,21.md",
-    "Projects/Darkside-20k/Measurements/PSD.md",
-    "Projects/Darkside-20k/Measurements/Recoils.md",
     "WIMPS/WIMP Interactions.md",
-    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
+    "Projects/Darkside-20k/Measurements/Recoils.md",
+    "Projects/Darkside-20k/Measurements/PSD.md",
     "Projects/Darkside-20k/DarkSide-20k.md",
+    "logs.md",
+    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
     "Projects/Darkside-20k/Detectors/Argon.md",
     "General Information/Project Task.md",
     "unlinked files output.md"

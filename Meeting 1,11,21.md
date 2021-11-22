@@ -1,4 +1,4 @@
-What is the aim of creating a catalogue of muon interactions?
+What is the aim of creating a cataloge of muon interactions?
 - For the interim report, mention examples of the interactions between muons and argon
 - only really interested in products that are long lived
 	- these could decay later and then decay producing a light flash, seemingly out of no where
@@ -12,7 +12,7 @@ WIMP interactions always have nuclear recoils
 If radioactive left over material have only beta and gamma emission then muons are not a big deal. However up to a point... we still have electron recoils (come generally from beta and gamma decays) this could be and example of light dark matter (pushing their energy threshold down)- But now there is no discrimination between electron recoil and background. Also gamma rays can go through the TPC acrylic and cause these electron recoils.
 
 
-S1 signal only releases 128nm no matter recombination method
+S1 signal only releases 128nm no matter recombination method (for argon)
 
 Look at scintillators in general
 
