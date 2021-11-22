@@ -1,5 +1,6 @@
 Briefly talked about Cherenkov radiation, how do we discriminate?
 
+Writing interim report:
 What is background
 	Electron and nuclear
 	Muons are expected to yield rare background
@@ -8,7 +9,7 @@ What is background
 Give reference to independent motivation from Xenon experiment with unresolved electron recoil excess
 Refer to DUNE
 
-Faraday cage is between passive cryostat and outerbuffer
+Faraday cage is between passive cryostat and outer buffer
 Neutrons can basically get anywhere in the detector as they are neutral and if they move fast enough.
 Ga when neutron absorbed releases photon and this is what the inner buffer shields from
-neutrinos interactions produce electron recoils - can distinguish from these up to a point, 
+neutrinos interactions produce electron recoils - can distinguish from these up to a point
