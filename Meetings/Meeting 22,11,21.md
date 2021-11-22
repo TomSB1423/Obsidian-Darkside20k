@@ -8,5 +8,7 @@ What is background
 Give reference to independent motivation from Xenon experiment with unresolved electron recoil excess
 Refer to DUNE
 
-Faraday cage is 
-Ga when 
+Faraday cage is between passive cryostat and outerbuffer
+Neutrons can basically get anywhere in the detector as they are neutral and if they move fast enough.
+Ga when neutron absorbed releases photon and this is what the inner buffer shields from
+neutrinos interactions produce electron recoils 

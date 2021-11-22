@@ -11,7 +11,7 @@ A comprehensive list made from outside → inside:
 	-   With passive argon buffer
 -   Acrylic shell
 -   Outer Argon Buffer (OAB)
-	-   Another outer active volume of atmospheric argon
+	-   Another outer active volume of underground argon
 	-   This is passive at the moment but want to install light detectors - not enough funding for this
 -   Passive Gd Acrylic Shell
 	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings #question - <u>Is this true? Where are the metal field shaping rings found? Don't think so</u>

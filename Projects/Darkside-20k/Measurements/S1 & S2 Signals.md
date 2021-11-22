@@ -3,10 +3,8 @@
 
 Categorized into two groups:
 -   S1 → Scintillation signal
-	-   #question - <u>Two components combined to create an S1 signal? What are they?</u>
 	-   Used for [[Energy Determination]] and for [[PSD]]	
 	-   [[PSD]] is derived from the ratio of prompt and delayed light fractions
-	-   In principle more energy going into S1 than S2 as takes less energy to produce S1 #question - <u>Why is this?</u>
 		-   This is due to...
 -   S2 → Ionization signal
 	-   Used for energy and 3D position determination
