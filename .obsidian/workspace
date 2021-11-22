@@ -7,8 +7,11 @@
         "id": "6ed6509e19b5c42a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "WIMPS/WIMPs.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WIMPS/WIMPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +105,8 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
+    "WIMPS/WIMPs.md",
+    "logs.md",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Meetings/Meeting 15,11,21.md",
     "Meetings/Meeting 22,11,21.md",
@@ -108,8 +114,6 @@
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
     "Projects/Darkside-20k/Measurements/Recoils.md",
     "Projects/Darkside-20k/Measurements/PSD.md",
-    "logs.md",
-    "Projects/Darkside-20k/Detectors/Argon.md",
-    "General Information/Project Task.md"
+    "Projects/Darkside-20k/Detectors/Argon.md"
   ]
 }
