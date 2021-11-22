@@ -6,9 +6,6 @@ Neutrons are the most likely candidate (highest cross-section) for recoil intera
 
 #TODO Sort this paragraph out below, still messy ⬇️
 Can be detected by exploiting two signals → defined as prompt & delayed signals: 
-#question - <u> Are prompt and delayed signals only produced by neutrons? Is there any inherent scintillation light produced in the muon collision, or is it just afterwards? </u>
-
-#question - <u> Would assume S2 would always be produced whenever a muon enters the TPC even if no interaction as there will be ionization occurring? Couldn't you use this information to determine that this was a muon and not a WIMP?</u>
 -   Prompt signal is produced during the ethermalization of the neutrons → neutrons loose energy by scattering off nuclei of the scintillator (mainly hydrogen), this normally produces a short signal w.r.t scattering on argon
 -   Delayed signal is due to neutron capture, the thermalized neutron can capture on isotope in the scintillator e.g B-10 → This produces light regardless of the energy of the neutron
 -   So there could be a delayed signal without a prompt signal

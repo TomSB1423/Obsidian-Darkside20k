@@ -6,4 +6,4 @@ The prompt decay time is typically a couple of nanoseconds, while the delayed de
 
 [Link 1](https://indico.in2p3.fr/event/10766/contributions/3106/attachments/2207/2728/DarkSide_LPNHE_November.pdf)
 
-There has been research into the medium used which effects the ability of PSD. PSD has been performed with plastics, however do not have the ability to distinguish neutron interaction from other collisions. [[Argon]] is then used as it has this ability. #question - <u>Though, not sure why this is?</u>
+There has been research into the medium used which effects the ability of PSD. PSD has been performed with plastics, however do not have the ability to distinguish neutron interaction from other collisions. [[Argon]] is then used as it has this ability.
