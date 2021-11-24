@@ -22,3 +22,4 @@
 | Week 7 | 17/11/21 | 2     | Reading Ayesha's papers mentioned in the meeting                                                        | Make notes on this                                  |
 |        | 19/11/21 | 2     | Clean up Obsidian questions                                                                             |                                                     |
 |        | 22/11/21 | 2     | Making notes on Argon recoils                                                                           |                                                     |
+|        | 24/11/21 | 1     | Looking at WIMP interaction cross-section                                                               |                                                     |

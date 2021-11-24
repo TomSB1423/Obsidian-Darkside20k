@@ -13,3 +13,5 @@ Faraday cage is between passive cryostat and outer buffer
 Neutrons can basically get anywhere in the detector as they are neutral and if they move fast enough.
 Ga when neutron absorbed releases photon and this is what the inner buffer shields from
 neutrinos interactions produce electron recoils - can distinguish from these up to a point
+
+Have a look at: https://physics.stackexchange.com/questions/410117/exclusion-limits-on-particle-dark-matter
