@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meetings/Meeting 22,11,21.md",
+            "file": "WIMPS/WIMP Interactions.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#question",
+                "query": "xenon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/Meeting 22,11,21.md",
+                "file": "WIMPS/WIMP Interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +105,15 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
+    "WIMPS/WIMP Interactions.md",
+    "Projects/Liquid xenon detectors.md",
+    "Meetings/Meeting 29,11,21.md",
     "Meetings/Meeting 22,11,21.md",
     "logs.md",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
     "Projects/Darkside-20k/DarkSide Collaboration.md",
     "Projects/Dark Matter Detectors.md",
-    "assets/photos/Counts vs Recoil Energy.png",
-    "assets/photos/Schematic view of DS-2k detector.png",
-    "WIMPS/WIMPs.md",
-    "Meetings/Meeting 15,11,21.md"
+    "assets/photos/Counts vs Recoil Energy.png"
   ]
 }
