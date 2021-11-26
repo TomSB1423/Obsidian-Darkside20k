@@ -29,6 +29,7 @@ A comprehensive list made from outside → inside:
 -   [[TPC]] (UAr - underground Argon → contains no Ar-39, only Ar-40 which is not radioactive)
 	-   SiPM on top and bottom
 
+Not actually up to date:
 ![[Schematic view of DS-2k detector.png]]
 
 -   Abandons organic liquid scintillator veto - I think this was either previously done in DUNE/DS-50?

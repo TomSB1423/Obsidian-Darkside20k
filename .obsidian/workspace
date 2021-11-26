@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPS/WIMP Interactions.md",
+            "file": "Projects/Darkside-20k/DarkSide-20k.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIMPS/WIMP Interactions.md",
+                "file": "Projects/Darkside-20k/DarkSide-20k.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +104,15 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
-    "WIMPS/WIMP Interactions.md",
-    "Projects/Liquid xenon detectors.md",
-    "Meetings/Meeting 29,11,21.md",
-    "Meetings/Meeting 22,11,21.md",
-    "logs.md",
     "Projects/Darkside-20k/DarkSide-20k.md",
-    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md",
+    "Projects/Darkside-20k/Detectors/TPC.md",
+    "Projects/Darkside-20k/Detectors/Location Dependence.md",
+    "Projects/Darkside-20k/Detectors/Argon.md",
+    "Projects/Darkside-20k/Measurements/Energy Determination.md",
+    "Projects/Darkside-20k/Measurements/PSD.md",
+    "Projects/Liquid xenon detectors.md",
+    "Projects/DUNE.md",
     "Projects/Dark Matter Detectors.md",
-    "assets/photos/Counts vs Recoil Energy.png"
+    "WIMPS/WIMP Interactions.md"
   ]
 }
