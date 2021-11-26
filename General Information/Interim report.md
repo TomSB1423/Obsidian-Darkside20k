@@ -17,9 +17,8 @@
 - What is dark matter and why is background important
 	- Hot, cold, WIMP, axion
 	- Low energy
-	- High sensitivity →
-	- 
-- Darkside and previous detector summary
+	- High sensitivity → solar neutrinos
+- [[Darkside-20k]] and previous detector summary
 - Motivation for experiment
 - Muon interactions with liquid argon
 
