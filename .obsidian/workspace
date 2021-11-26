@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/DarkSide-20k.md",
+            "file": "General Information/Interim report.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/DarkSide-20k.md",
+                "file": "General Information/Interim report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,8 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
+    "General Information/Interim report.md",
+    "logs.md",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "Projects/Darkside-20k/Detectors/Location Dependence.md",
@@ -111,8 +113,6 @@
     "Projects/Darkside-20k/Measurements/Energy Determination.md",
     "Projects/Darkside-20k/Measurements/PSD.md",
     "Projects/Liquid xenon detectors.md",
-    "Projects/DUNE.md",
-    "Projects/Dark Matter Detectors.md",
-    "WIMPS/WIMP Interactions.md"
+    "Projects/DUNE.md"
   ]
 }
