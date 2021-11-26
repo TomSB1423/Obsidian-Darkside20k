@@ -1,3 +1,4 @@
+## General Overview
 - Max length 10 pages → suggested 9 pages + references
 - No abstract
 - Main components:
@@ -19,6 +20,7 @@
 	- Low energy
 	- High sensitivity → solar neutrinos
 - [[Darkside-20k]] and previous detector summary
+	- How Warwick is involved with darkside #question 
 - Motivation for experiment
 	- More sensitive detector so need to account for everything
 	- Too much tritium in xenon could be an explanation

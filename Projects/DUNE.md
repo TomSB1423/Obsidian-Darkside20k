@@ -30,4 +30,4 @@ A detector for electron neutrinos which also looked at muon interactions with ar
 		-   Photonuclear interactions, a lowQ2 analogue to deep inelastic scattering, are less frequent
 
 # References
-[[1811.07912.pdf]]
+[[DUNE & muons.pdf]]

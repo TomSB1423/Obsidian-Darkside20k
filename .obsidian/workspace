@@ -6,10 +6,23 @@
       {
         "id": "6ed6509e19b5c42a",
         "type": "leaf",
+        "dimension": 53.18181818181819,
         "state": {
           "type": "pdf",
           "state": {
-            "file": "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf"
+            "file": "assets/pdf/TDR_DarkSide-20k (updated).pdf"
+          }
+        }
+      },
+      {
+        "id": "aec5526582cc8def",
+        "type": "leaf",
+        "dimension": 46.81818181818182,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Information/Interim report.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
+                "file": "General Information/Interim report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ed6509e19b5c42a",
+  "active": "aec5526582cc8def",
   "lastOpenFiles": [
-    "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
-    "assets/pdf/PhysRevC.99.055810.pdf",
-    "assets/pdf/TDR_DarkSide-20k.pdf",
-    "assets/pdf/1811.07912.pdf",
-    "assets/pdf/1707.08145.pdf",
+    "General Information/Interim report.md",
+    "assets/pdf/TDR_DarkSide-20k (updated).pdf",
+    "assets/pdf/Darkside-20k preliminary.pdf",
+    "assets/pdf/DUNE & muons.pdf",
     "assets/pdf/CERN-PH-EP-2010-047.pdf",
-    "assets/photos/TPC Structure.png",
-    "assets/photos/Schematic view of DS-2k detector.png",
-    "assets/photos/Meeting 221121 1.jpg.png",
-    "assets/photos/Meeting 091121 1.jpg"
+    "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
+    "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
+    "Meeting Notes/22,11,21.md",
+    "Meeting Notes/29,11,21.md",
+    "assets/pdf/PhysRevC.99.055810.pdf"
   ]
 }

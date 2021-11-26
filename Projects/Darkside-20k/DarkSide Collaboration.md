@@ -8,7 +8,7 @@
 	- Princeton University
 
 2. DarkSide-50
-	- 46kg argon target mass [[TDR_DarkSide-20k.pdf]]
+	- 46kg argon target mass [[TDR_DarkSide-20k (updated).pdf]]
 	-   Dual-phase argon TPC (time projection chamber) → uses E & B fields with a sensitive volume of gas/liquid to perform a 3D reconstruction of a particle trajectory of interaction.
 
 3. [[DarkSide-20k]]
