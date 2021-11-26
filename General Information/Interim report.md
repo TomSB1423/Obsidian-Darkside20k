@@ -7,14 +7,26 @@
 		- Why you're doing this
 		- Approach to what we are doing
 	- Summary of Work Done (max 2 pages)
-		- What we have done in the first term #question 
+		- What we have done in the first term
 	- Term 2 Workplan (max 1 page)
 		- What follows
 		- Timescales
 
 
 ## Project intro
+- What is dark matter and why is background important
+	- Hot, cold, WIMP, axion
+	- Low energy
+	- High sensitivity →
+	- 
+- Darkside and previous detector summary
+- Motivation for experiment
 - Muon interactions with liquid argon
-- What is background 
-- Darkside detector summary
-- 
+
+## Summary of Work Done
+#question 
+
+## Term 2 Workplan
+- Mention DUNE
+- Using ROOT framework and geant4 to create a catalogue of interactions
+- Use location physics to determine if the interaction products will cause any significance in reading detection

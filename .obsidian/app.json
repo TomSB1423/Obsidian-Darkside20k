@@ -50,7 +50,9 @@
     "thermalized",
     "deadtime",
     "Shockwave",
-    "scintillators"
+    "scintillators",
+    "catalogue",
+    "Workplan"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false,
