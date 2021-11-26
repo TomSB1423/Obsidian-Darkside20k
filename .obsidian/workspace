@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Interim report.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "43bb74b8ef6813cf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Meetings/Meeting 22,11,21.md",
+            "file": "Meetings/Meeting 15,11,21.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Interim report.md",
+                "file": "Meetings/Meeting 15,11,21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +105,15 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
-    "General Information/Interim report.md",
-    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Meetings/Meeting 15,11,21.md",
+    "Meetings/Meeting 29,11,21.md",
     "Meetings/Meeting 22,11,21.md",
-    "logs.md",
+    "Projects/Darkside-20k/Measurements/Recoils.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "Projects/Darkside-20k/Detectors/Location Dependence.md",
     "Projects/Darkside-20k/Detectors/Argon.md",
-    "Projects/Darkside-20k/Measurements/Energy Determination.md",
-    "Projects/Darkside-20k/Measurements/PSD.md",
-    "Projects/Liquid xenon detectors.md"
+    "General Information/Interim report.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "logs.md"
   ]
 }

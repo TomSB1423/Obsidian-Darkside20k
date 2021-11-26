@@ -20,6 +20,8 @@
 	- High sensitivity → solar neutrinos
 - [[Darkside-20k]] and previous detector summary
 - Motivation for experiment
+	- More sensitive detector so need to account for everything
+	- Too much tritium in xenon could be an explanation
 - Muon interactions with liquid argon
 
 ## Summary of Work Done

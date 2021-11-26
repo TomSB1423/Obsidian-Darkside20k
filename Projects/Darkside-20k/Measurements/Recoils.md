@@ -21,11 +21,11 @@ Neutrons that enter the LAr TPC come from primarily 4 sources:
 -   Radioactivity in outside environment suppressed by [[Veto]] shielding
 -   Cosmogenic interactions due to muons → suppressed by [[Veto]] shielding
 -   Spontaneous fission reactions → Usually release multiple neutrons and high energy gamma-rays which increase the probability of multiple interactions in either the TPC or the neutron [[Veto]]
--   (Alpha n) reactions in the detector materials → This comes from radioactive isotopes in the detector medium e.g U and Th decay chains. Planned on using a liquid scintillator doped with and isotope with high cross-section for thermal neutron capture. However there are safety concerns.
+-   (Alpha n) reactions in the detector materials → This comes from radioactive isotopes in the detector medium e.g U and Th decay chains. Planned on using a liquid scintillator doped with an isotope with high cross-section for thermal neutron capture. However there are safety concerns. Fiducial volume
 These sources of neutrons must be reduced.
 
 ## Electron
-Very similar to nuclear recoil, however iinstead of a nucleus, and electron is hit.
+Very similar to nuclear recoil, however instead of a nucleus, and electron is hit.
 -   Reduction methods successful in darkside-50
 -   Reduced by material screening (assume this to be veto), analysis cutting and PSD to identify between nuclear vs electron recoils
 -   Sources:
