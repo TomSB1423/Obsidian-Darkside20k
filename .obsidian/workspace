@@ -10,7 +10,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "assets/pdf/TDR_DarkSide-20k (updated).pdf"
+            "file": "assets/pdf/Nuclear recoils in argon.pdf"
           }
         }
       },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Interim report.md",
+            "file": "logs.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Interim report.md",
+                "file": "assets/pdf/Nuclear recoils in argon.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aec5526582cc8def",
+  "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
-    "General Information/Interim report.md",
-    "assets/pdf/TDR_DarkSide-20k (updated).pdf",
-    "assets/pdf/Darkside-20k preliminary.pdf",
+    "assets/pdf/Nuclear recoils in argon.pdf",
     "assets/pdf/DUNE & muons.pdf",
+    "assets/pdf/TDR_DarkSide-20k (updated).pdf",
+    "logs.md",
+    "General Information/Interim report.md",
+    "assets/pdf/Darkside-20k preliminary.pdf",
     "assets/pdf/CERN-PH-EP-2010-047.pdf",
     "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
     "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
-    "Meeting Notes/22,11,21.md",
-    "Meeting Notes/29,11,21.md",
-    "assets/pdf/PhysRevC.99.055810.pdf"
+    "Meeting Notes/22,11,21.md"
   ]
 }
