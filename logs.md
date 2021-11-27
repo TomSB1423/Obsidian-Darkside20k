@@ -22,16 +22,16 @@
 |         | 02/11/21 | 2     | Reading muon-LAr interactions                                                                           |                                                     |
 |         | 03/11/21 | 2     | Continue reading muon-LAr interactions, difference between OAB and IAB                                  |                                                     |
 | Week 6  |          |       |                                                                                                         |                                                     |
-|         | 08/11/21 | 1     |                                                                                                         |                                                     |
+|         | 08/11/21 | 1     | Meeting: Talking about what role muons actually have with Darkside (motivation behind project)          |                                                     |
 |         | 09/11/21 | 3     | Reading about muon interactions and simulation in Geant4                                                |                                                     |
 |         | 12/11/21 | 3     | Tying up knowledge - moving from OneNote to Obsidian                                                    |                                                     |
 | Week 7  |          |       |                                                                                                         |                                                     |
 |         | 15/11/21 | 1     | Meeting                                                                                                 |                                                     |
-|         | 17/11/21 | 2     | Reading Ayesha's papers mentioned in the meeting                                                        | Make notes on this                                  |
+|         | 17/11/21 | 3     | Reading Ayesha's papers mentioned in the meeting                                                        | Make notes on this                                  |
 |         | 19/11/21 | 2     | Clean up questions in workbook + sorted log book                                                        |                                                     |
 | Week 8  |          |       |                                                                                                         |                                                     |
 |         | 22/11/21 | 4     | Meeting + Making notes on Argon recoils                                                                 |                                                     |
 |         | 24/11/21 | 1     | Looking at WIMP interaction cross-section                                                               |                                                     |
-|         | 26/11/21 | 2     | Planning interim report + looking at why neutrino                                                                                  |                                                     |
+|         | 26/11/21 | 3     | Planning interim report + looking at why neutrino fog affects WIMP detection                            |                                                     |
 | Week 9  |          |       |                                                                                                         |                                                     |
 | Week 10 |          |       |                                                                                                         |                                                     |
