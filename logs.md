@@ -19,7 +19,7 @@
 |         | 30/10/21 | 3     | Re-reading the detector specs, but this time updated                                                    |                                                     |
 | Week 5  |          |       |                                                                                                         | Look at energy spectra of different types of decays |
 |         | 01/11/21 | 1     | Meeting: What happens to muons in the detector                                                          |                                                     |
-|         | 02/11/21 | 1     | Reading muon-LAr interactions                                                                           |                                                     |
+|         | 02/11/21 | 2     | Reading muon-LAr interactions                                                                           |                                                     |
 |         | 03/11/21 | 2     | Continue reading muon-LAr interactions, difference between OAB and IAB                                  |                                                     |
 | Week 6  |          |       |                                                                                                         |                                                     |
 |         | 08/11/21 | 1     |                                                                                                         |                                                     |
@@ -28,7 +28,7 @@
 | Week 7  |          |       |                                                                                                         |                                                     |
 |         | 15/11/21 | 1     | Meeting                                                                                                 |                                                     |
 |         | 17/11/21 | 2     | Reading Ayesha's papers mentioned in the meeting                                                        | Make notes on this                                  |
-|         | 19/11/21 | 2     | Clean up questions in workbook + sorted obsidian log book                                                                             |                                                     |
+|         | 19/11/21 | 2     | Clean up questions in workbook + sorted log book                                                        |                                                     |
 | Week 8  |          |       |                                                                                                         |                                                     |
 |         | 22/11/21 | 4     | Meeting + Making notes on Argon recoils                                                                 |                                                     |
 |         | 24/11/21 | 1     | Looking at WIMP interaction cross-section                                                               |                                                     |
