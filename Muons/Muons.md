@@ -34,6 +34,7 @@
 - Link to xenon experiment with excess of tritium ^9df396
 	- As DarkSide is more sensitive -> need to have good estimate for muon interactions
 	- To make sure we have an understanding of where things come from
-	- Bottom of page a
+	- Bottom of page about tritium?
 		- ![[Muons in DEAP and darkSide.pdf#page=51]]
+		- [[Overview of different detectors and tritium.pdf]]
 - Looking to understand all nuclear recoils as this is what we are looking for for a WIMP interaction -> WIMPs we are looking for have a classic signature for nuclear recoils?

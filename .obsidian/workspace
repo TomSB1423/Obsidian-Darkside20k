@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Muons/Muons.md",
+            "file": "logs.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Muons/Muons.md",
+                "file": "logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
+    "logs.md",
+    "Meeting Notes/29,11,21.md",
     "Muons/Muons.md",
     "assets/pdf/Muons in DEAP and darkSide.pdf",
-    "Meeting Notes/29,11,21.md",
     "Meeting Notes/22,11,21.md",
     "General Information/Interim report.md",
     "WIMPS/WIMP Interactions.md",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Dark Matter Detectors.md",
-    "General Information/Project Task.md",
-    "Meeting Notes/15,11,21.md"
+    "General Information/Project Task.md"
   ]
 }

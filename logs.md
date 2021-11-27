@@ -32,6 +32,6 @@
 | Week 8  |          |       |                                                                                                         |                                                     |
 |         | 22/11/21 | 4     | Meeting + Making notes on Argon recoils                                                                 |                                                     |
 |         | 24/11/21 | 1     | Looking at WIMP interaction cross-section                                                               |                                                     |
-|         | 26/11/21 | 2     | Planning interim report                                                                                 |                                                     |
+|         | 26/11/21 | 2     | Planning interim report + looking at why neutrino                                                                                  |                                                     |
 | Week 9  |          |       |                                                                                                         |                                                     |
 | Week 10 |          |       |                                                                                                         |                                                     |
