@@ -16,16 +16,18 @@
 Two columns vs one column? #question 
 
 ## Project intro
-- What is dark matter and why is background important
-	- Hot, cold, WIMP, axion [[Dark Matter Candidates.pdf]]
-	- Low energy
+- What is dark matter and why is background important [[Dark Matter Candidates.pdf]]
+	- Evidence: Uneven distribution for galaxy 
+	- Types: Hot, cold, WIMP, Axion 
+	- WIMP specifics + methods of detection [[WIMP Interactions]]
 	- High sensitivity → solar neutrinos
+	- Necessity of background suppression
 - [[Darkside-20k]] and previous detector summary
-	- How darkside approaches DM detection → [[WIMP Interactions]]
+	- How DarkSide approaches DM detection → [[TPC]], [[S1 & S2 Signals]], [[Argon]], [[Veto]]
 - Motivation for experiment
+	- Muon-induced spallation
 	- More sensitive detector so need to account for everything
 	- Too much tritium in xenon could be an explanation
-- Muon interactions with liquid argon
 
 ## Summary of Work Done
 #question 
