@@ -7,10 +7,9 @@
         "id": "6ed6509e19b5c42a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "General Information/Interim report.md",
-            "mode": "source"
+            "file": "assets/pdf/DUNE & muons.pdf"
           }
         }
       }
@@ -48,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Interim report.md",
+                "file": "assets/pdf/DUNE & muons.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,12 +103,12 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
+    "assets/pdf/DUNE & muons.pdf",
     "General Information/Interim report.md",
     "Meeting Notes/22,11,21.md",
     "Meeting Notes/29,11,21.md",
     "logs.md",
     "assets/pdf/Nuclear recoils in argon.pdf",
-    "assets/pdf/DUNE & muons.pdf",
     "assets/pdf/TDR_DarkSide-20k (updated).pdf",
     "assets/pdf/Darkside-20k preliminary.pdf",
     "assets/pdf/CERN-PH-EP-2010-047.pdf",
