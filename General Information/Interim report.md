@@ -17,7 +17,7 @@ Two columns vs one column? #question
 
 ## Project intro
 - What is dark matter and why is background important
-	- Hot, cold, WIMP, axion
+	- Hot, cold, WIMP, axion [[Dark Matter Candidates.pdf]]
 	- Low energy
 	- High sensitivity → solar neutrinos
 - [[Darkside-20k]] and previous detector summary
