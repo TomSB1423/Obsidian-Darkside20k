@@ -7,9 +7,10 @@
         "id": "6ed6509e19b5c42a",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assets/pdf/DUNE & muons.pdf"
+            "file": "Meeting Notes/29,11,21.md",
+            "mode": "source"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#question",
+                "query": "material",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/DUNE & muons.pdf",
+                "file": "Meeting Notes/29,11,21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +104,15 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
-    "assets/pdf/DUNE & muons.pdf",
-    "General Information/Interim report.md",
-    "Meeting Notes/22,11,21.md",
     "Meeting Notes/29,11,21.md",
-    "logs.md",
-    "assets/pdf/Nuclear recoils in argon.pdf",
-    "assets/pdf/TDR_DarkSide-20k (updated).pdf",
-    "assets/pdf/Darkside-20k preliminary.pdf",
-    "assets/pdf/CERN-PH-EP-2010-047.pdf",
-    "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf"
+    "Meeting Notes/22,11,21.md",
+    "General Information/Interim report.md",
+    "WIMPS/WIMP Interactions.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Projects/Dark Matter Detectors.md",
+    "Muons/Muons.md",
+    "General Information/Project Task.md",
+    "Meeting Notes/15,11,21.md",
+    "Meeting Notes/09,11,21.md"
   ]
 }

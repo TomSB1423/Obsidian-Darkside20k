@@ -21,7 +21,7 @@ Two columns vs one column? #question
 	- Low energy
 	- High sensitivity → solar neutrinos
 - [[Darkside-20k]] and previous detector summary
-	- How Warwick is involved with darkside #question 
+	- How darkside approaches DM detection → [[WIMP Interactions]]
 - Motivation for experiment
 	- More sensitive detector so need to account for everything
 	- Too much tritium in xenon could be an explanation
