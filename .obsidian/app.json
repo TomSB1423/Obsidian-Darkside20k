@@ -52,7 +52,8 @@
     "Shockwave",
     "scintillators",
     "catalogue",
-    "Workplan"
+    "Workplan",
+    "analyse"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false,

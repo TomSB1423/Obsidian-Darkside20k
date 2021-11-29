@@ -14,8 +14,8 @@
 		- Timescales
 
 Two columns vs one column? #question 
-
-## Project intro
+## Interim Report
+### Project intro
 - What is dark matter and why is background important [[Dark Matter Candidates.pdf]]
 	- Evidence: Uneven distribution for galaxy 
 	- Types: Hot, cold, WIMP, Axion 
@@ -29,10 +29,11 @@ Two columns vs one column? #question
 	- More sensitive detector so need to account for everything
 	- Too much tritium in xenon could be an explanation
 
-## Summary of Work Done
+### Summary of Work Done
 #question 
 
-## Term 2 Workplan
+### Term 2 Workplan
+- #question 
 - Mention DUNE
 - Using ROOT framework and geant4 to create a catalogue of interactions
 - Use location physics to determine if the interaction products will cause any significance in reading detection
