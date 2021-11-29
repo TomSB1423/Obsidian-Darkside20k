@@ -15,7 +15,7 @@
 
 Two columns vs one column? #question 
 ## Interim Report
-### Project intro
+### Project intro (7 pages)
 - What is dark matter and why is background important [[Dark Matter Candidates.pdf]]
 	- Evidence: Uneven distribution for galaxy 
 	- Types: Hot, cold, WIMP, Axion 
@@ -29,10 +29,10 @@ Two columns vs one column? #question
 	- More sensitive detector so need to account for everything
 	- Too much tritium in xenon could be an explanation
 
-### Summary of Work Done
+### Summary of Work Done (2 pages)
 #question 
 
-### Term 2 Workplan
+### Term 2 Workplan (1 page)
 - #question 
 - Mention DUNE
 - Using ROOT framework and geant4 to create a catalogue of interactions

@@ -34,4 +34,5 @@
 |         | 24/11/21 | 1     | Looking at WIMP interaction cross-section                                                               |                                                     |
 |         | 26/11/21 | 3     | Planning interim report + looking at why neutrino fog affects WIMP detection                            |                                                     |
 | Week 9  |          |       |                                                                                                         |                                                     |
+|         | 29/11/21 | 2     | Sorting questions + meeting about interim report                                                        |                                                     |
 | Week 10 |          |       |                                                                                                         |                                                     |

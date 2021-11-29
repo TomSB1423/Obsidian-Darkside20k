@@ -106,6 +106,7 @@
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
     "General Information/Interim report.md",
+    "logs.md",
     "Muons/Muons.md",
     "General Information/Project Task.md",
     "General Information/Introduction to Dark Matter.md",
@@ -113,7 +114,6 @@
     "Projects/Darkside-20k/Detectors/Argon.md",
     "Projects/Darkside-20k/Detectors/Location Dependence.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
-    "Projects/Darkside-20k/Detectors/Veto.md",
-    "Projects/Darkside-20k/Measurements/PSD.md"
+    "Projects/Darkside-20k/Detectors/Veto.md"
   ]
 }
