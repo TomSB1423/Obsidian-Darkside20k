@@ -27,7 +27,7 @@
 	-   Would be unlikely to be found in the detector
 
 
-## Muons in [[DarkSide-20k]]   
+## Motivation: Looking for muons in [[DarkSide-20k]]
 
 - No direct link between muons and WIMPs → muon collisions look different to WIMPs
 - Reason to consider muons induced background as too rare

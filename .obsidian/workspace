@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Project Task.md",
+            "file": "Muons/Muons.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Project Task.md",
+                "file": "Muons/Muons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
+    "Muons/Muons.md",
     "General Information/Project Task.md",
     "General Information/Introduction to Dark Matter.md",
     "General Information/Interim report.md",
@@ -113,7 +114,6 @@
     "Projects/Darkside-20k/Detectors/Location Dependence.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
-    "Projects/Darkside-20k/Measurements/PSD.md",
-    "Projects/Darkside-20k/Measurements/Recoils.md"
+    "Projects/Darkside-20k/Measurements/PSD.md"
   ]
 }
