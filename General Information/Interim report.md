@@ -35,9 +35,16 @@ Two columns vs one column? #question
 #question 
 Talk about studying dark matter
 chain of action
+first person
+bullet points?
 
 ### Term 2 Workplan (1 page)
 - #question 
 - Mention DUNE
 - Using ROOT framework and geant4 to create a catalogue of interactions
+	- production yields and uhhh something else -> look at dune
+	- look at which ones are relavsnt -> long lived radioactive isotope
+	- Which ones are dangerous -> looking at production yields in different parts of the detector
+	- What is le
 - Use location physics to determine if the interaction products will cause any significance in reading detection
+- Becomes more computational
