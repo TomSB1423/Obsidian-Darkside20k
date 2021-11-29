@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Interim report.md",
+            "file": "Meeting Notes/29,11,21.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Interim report.md",
+                "file": "Meeting Notes/29,11,21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
+    "Meeting Notes/29,11,21.md",
     "General Information/Interim report.md",
     "logs.md",
     "Muons/Muons.md",
@@ -113,7 +114,6 @@
     "WIMPS/WIMPs.md",
     "Projects/Darkside-20k/Detectors/Argon.md",
     "Projects/Darkside-20k/Detectors/Location Dependence.md",
-    "Projects/Darkside-20k/Detectors/TPC.md",
-    "Projects/Darkside-20k/Detectors/Veto.md"
+    "Projects/Darkside-20k/Detectors/TPC.md"
   ]
 }
