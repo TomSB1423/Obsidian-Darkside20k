@@ -26,6 +26,10 @@ Two columns vs one column? #question
 	- Necessity of background suppression
 - [[Darkside-20k]] and previous detector summary
 	- How DarkSide approaches DM detection → [[TPC]], [[S1 & S2 Signals]], [[Argon]], [[Veto]]
+	- Want to talk about electron and nuclear recoils 
+		- Darkside does not ignore electron recoils -> electron recoils are interesting at low energies
+		- 
+		- 
 - Motivation for experiment
 	- Muon-induced spallation
 	- More sensitive detector so need to account for everything
@@ -45,6 +49,6 @@ bullet points?
 	- production yields and uhhh something else -> look at dune
 	- look at which ones are relavsnt -> long lived radioactive isotope
 	- Which ones are dangerous -> looking at production yields in different parts of the detector
-	- What is le
+	- What is left in the TPC is going to be dangerous
 - Use location physics to determine if the interaction products will cause any significance in reading detection
 - Becomes more computational
