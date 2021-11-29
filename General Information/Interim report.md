@@ -28,8 +28,7 @@ Two columns vs one column? #question
 	- How DarkSide approaches DM detection → [[TPC]], [[S1 & S2 Signals]], [[Argon]], [[Veto]]
 	- Want to talk about electron and nuclear recoils 
 		- Darkside does not ignore electron recoils -> electron recoils are interesting at low energies
-		- 
-		- 
+		- Tritium produces electron recoils
 - Motivation for experiment
 	- Muon-induced spallation
 	- More sensitive detector so need to account for everything
