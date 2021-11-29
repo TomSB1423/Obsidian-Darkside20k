@@ -27,7 +27,7 @@ Two columns vs one column? #question
 - Motivation for experiment
 	- Muon-induced spallation
 	- More sensitive detector so need to account for everything
-	- Too much tritium in xenon could be an explanation
+	- Too much tritium in xenon could be an explanation (look for xenon in the title in the past two years, look for xenon excess of events, this is not DEAP experi)
 
 ### Summary of Work Done (2 pages)
 #question 
