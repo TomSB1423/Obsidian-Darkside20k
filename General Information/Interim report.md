@@ -17,9 +17,11 @@ Two columns vs one column? #question
 ## Interim Report
 ### Project intro (7 pages)
 - What is dark matter and why is background important [[Dark Matter Candidates.pdf]]
+	- Start with particle candidates of dark matter, motivation for existence
 	- Evidence: Uneven distribution for galaxy 
-	- Types: Hot, cold, WIMP, Axion 
-	- WIMP specifics + methods of detection [[WIMP Interactions]]
+			- Figure of this
+	- Types: Hot, cold, WIMP, Axion (don't go into too much depth of this)
+	- WIMP specifics + methods of detection, we are using direct detection [[WIMP Interactions]]
 	- High sensitivity → solar neutrinos
 	- Necessity of background suppression
 - [[Darkside-20k]] and previous detector summary
@@ -27,10 +29,12 @@ Two columns vs one column? #question
 - Motivation for experiment
 	- Muon-induced spallation
 	- More sensitive detector so need to account for everything
-	- Too much tritium in xenon could be an explanation (look for xenon in the title in the past two years, look for xenon excess of events, this is not DEAP experi)
+	- Too much tritium in xenon could be an explanation (look for xenon collaboration in the title in the past two years, look for xenon excess of events, this is not DEAP experiment for tritium)
 
-### Summary of Work Done (2 pages)
+### Summary of Work Done (2 pages, probably 1 page)
 #question 
+Talk about studying dark matter
+chain of action
 
 ### Term 2 Workplan (1 page)
 - #question 
