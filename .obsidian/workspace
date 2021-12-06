@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed6509e19b5c42a",
+        "id": "43b9923c26d88e64",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "assets/pdf/DUNE & muons.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/DUNE & muons.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,14 +92,13 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6ed6509e19b5c42a",
+  "active": "43b9923c26d88e64",
   "lastOpenFiles": [
     "assets/pdf/DUNE & muons.pdf",
     "Projects/DUNE.md",
