@@ -35,4 +35,6 @@
 |         | 26/11/21 | 3     | Planning interim report + looking at why neutrino fog affects WIMP detection                            |                                                     |
 | Week 9  |          |       |                                                                                                         |                                                     |
 |         | 29/11/21 | 2     | Sorting questions + meeting about interim report                                                        |                                                     |
+|         | 01/11/21 | 2     | Started to write paragraphs of interim report                                                           |                                                     |
 | Week 10 |          |       |                                                                                                         |                                                     |
+|         | 06/11/21 | 2     | Meeting                                                                                                        |                                                     |

@@ -6,4 +6,4 @@ The objective for this project is to simulate and analyse isotope production in 
 
 ------------------------
 
-Motivation behind this project stems from the fact that an excess of ~100 atoms of tritium was found in the DEAP experiment by SNOLAB? Due to the huge increase in sensitivity in the DarkSide detector, we try to predict any causes for this tritium and other impurities. See [[Muons#^9df396]]
+Motivation behind this project stems from the fact that an excess of ~100 atoms of tritium was found in the XENON experiment? Due to the huge increase in sensitivity in the DarkSide detector, we try to predict any causes for this tritium and other impurities. See [[Muons#^9df396]]
