@@ -7,8 +7,11 @@
         "id": "1c1c1fa35817f7c8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Meeting Notes/Week 10.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meeting Notes/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,19 +100,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "1c1c1fa35817f7c8",
   "lastOpenFiles": [
+    "Meeting Notes/Week 10.md",
+    "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
+    "logs.md",
+    "General Information/Interim report.md",
     "conflict-files-obsidian-git.md",
     "assets/pdf/DUNE & muons.pdf",
     "Projects/DUNE.md",
     "Projects/Darkside-20k/Measurements/PSD.md",
-    "General Information/Interim report.md",
     "Projects/Dark Matter Detectors.md",
-    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md",
-    "Projects/Darkside-20k/Detectors/Location Dependence.md",
-    "Projects/Darkside-20k/Detectors/TPC.md"
+    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md"
   ]
 }
