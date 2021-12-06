@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "General Information/Interim report.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -106,14 +106,14 @@
   "active": "6ed6509e19b5c42a",
   "lastOpenFiles": [
     "General Information/Interim report.md",
-    "assets/pdf/Overview of different detectors and tritium.pdf",
-    "Muons/Muons.md",
-    "assets/pdf/Muons in DEAP and darkSide.pdf",
+    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
+    "Projects/Darkside-20k/DarkSide Collaboration.md",
+    "Projects/Darkside-20k/Measurements/PSD.md",
+    "Projects/Darkside-20k/Detectors/Location Dependence.md",
+    "Projects/Darkside-20k/Detectors/TPC.md",
+    "Meeting Notes/Week 10.md",
     "Meeting Notes/Week 9.md",
-    "Projects/Darkside-20k/Detectors/Argon.md",
-    "General Information/Project Task.md",
-    "Meeting Notes/Week 1-5.md",
-    "Meeting Notes/Week 6.md",
-    "Meeting Notes/Week 7.md"
+    "assets/pdf/Overview of different detectors and tritium.pdf",
+    "Muons/Muons.md"
   ]
 }
