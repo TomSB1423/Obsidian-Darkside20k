@@ -7,9 +7,10 @@
         "id": "1c1c1fa35817f7c8",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf"
+            "file": "Meeting Notes/Week 10.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
+                "file": "Meeting Notes/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +105,8 @@
   },
   "active": "1c1c1fa35817f7c8",
   "lastOpenFiles": [
-    "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
     "Meeting Notes/Week 10.md",
+    "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
     "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
     "logs.md",
     "General Information/Interim report.md",
