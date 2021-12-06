@@ -2,7 +2,7 @@
 | ------- | -------- | ----- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | Week 1  |          |       |                                                                                                         |                                                     |
 |         | 08/10/21 | 1     | Created intro, read script, started to research around topic                                            |                                                     |
-|         | 10/10/21 | 3     | Continued research around dark matter, looking into DarkDide experiments                                |                                                     |
+|         | 10/10/21 | 3     | Continued research around dark matter, looking into DarkSide experiments                                |                                                     |
 | Week 2  |          |       |                                                                                                         |                                                     |
 |         | 11/10/21 | 2     | Meeting: Ayesha and project supervisor (Yorck Ramachers).                                               |                                                     |
 |         | 13/10/21 | 1     | Read up to page 10 of the linked project paper                                                          |                                                     |
@@ -22,7 +22,7 @@
 |         | 02/11/21 | 2     | Reading muon-LAr interactions                                                                           |                                                     |
 |         | 03/11/21 | 2     | Continue reading muon-LAr interactions, difference between OAB and IAB                                  |                                                     |
 | Week 6  |          |       |                                                                                                         |                                                     |
-|         | 08/11/21 | 1     | Meeting: Talking about what role muons actually have with Darkside (motivation behind project)          |                                                     |
+|         | 08/11/21 | 1     | Meeting: Talking about what role muons actually have with DarkSide (motivation behind project)          |                                                     |
 |         | 09/11/21 | 3     | Reading about muon interactions and simulation in Geant4                                                |                                                     |
 |         | 12/11/21 | 3     | Tying up knowledge - moving from OneNote to Obsidian                                                    |                                                     |
 | Week 7  |          |       |                                                                                                         |                                                     |
@@ -35,6 +35,9 @@
 |         | 26/11/21 | 3     | Planning interim report + looking at why neutrino fog affects WIMP detection                            |                                                     |
 | Week 9  |          |       |                                                                                                         |                                                     |
 |         | 29/11/21 | 2     | Sorting questions + meeting about interim report                                                        |                                                     |
-|         | 01/11/21 | 2     | Started to write paragraphs of interim report                                                           |                                                     |
+|         | 01/12/21 | 2     | Reading about Tritium excess in XENON1T experiment                                                      |                                                     |
+|         | 03/12/21 | 2     | Started to write paragraphs of interim report                                                           |                                                     |
+|         | 05/12/21 | 1     | Getting head round nuclear & electron recoil and PSD with S1 & S2 signals                               |                                                     |
 | Week 10 |          |       |                                                                                                         |                                                     |
-|         | 06/11/21 | 2     | Meeting                                                                                                        |                                                     |
+|         | 06/12/21 | 2     | Meeting                                                                                                 |                                                     |
+|         |          |       |                                                                                                         |                                                     |

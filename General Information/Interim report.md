@@ -27,7 +27,7 @@ Two columns vs one column? #question
 - [[Darkside-20k]] and previous detector summary
 	- How DarkSide approaches DM detection → [[TPC]], [[S1 & S2 Signals]], [[Argon]], [[Veto]]
 	- Want to talk about electron and nuclear recoils 
-		- Darkside does not ignore electron recoils -> electron recoils are interesting at low energies
+		- DarkSide does not ignore electron recoils -> electron recoils are interesting at low energies
 		- Tritium produces electron recoils
 - Motivation for experiment
 	- Muon-induced spallation
@@ -36,14 +36,12 @@ Two columns vs one column? #question
 	- Too much tritium in xenon could be an explanation (look for xenon collaboration in the title in the past two years, look for xenon excess of events)
 
 ### Summary of Work Done (2 pages, probably 1 page)
-#question 
 Talk about studying dark matter
 chain of action
 first person
 bullet points?
 
 ### Term 2 Workplan (1 page)
-- #question 
 - Mention DUNE
 - Using ROOT framework and geant4 to create a catalogue of interactions
 	- production yields and uhhh something else -> look at dune
