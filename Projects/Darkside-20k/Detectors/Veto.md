@@ -5,3 +5,5 @@ The veto detector consists of three separate volumes:
 - An outer active volume of atmospheric argon, called the Outer Argon Buffer (OAB).
 - All of the inner surfaces of the Veto, including the external walls of the TPC and the walls of the vertical sectors, will be covered with reflector foils coated with wavelength shifter (TPB), so that the VUV argon scintillation light is shifted to longer wavelengths where the LAr is very transparent.
 	- Then trapped for multiple reflections until it reaches a SiPM
+
+AAr beta decay never reaches the TPC

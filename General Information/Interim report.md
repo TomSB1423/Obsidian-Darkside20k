@@ -40,6 +40,8 @@ Talk about studying dark matter
 chain of action
 first person
 bullet points?
+milestones
+up to week 7 / week 8
 
 ### Term 2 Workplan (1 page)
 - Mention DUNE
