@@ -31,6 +31,7 @@ Two columns vs one column? #question
 		- Tritium produces electron recoils
 - Motivation for experiment
 	- Muon-induced spallation
+	- Where are muons produced - talk about muon secondaries
 	- More sensitive detector so need to account for everything
 	- Too much tritium in xenon could be an explanation (look for xenon collaboration in the title in the past two years, look for xenon excess of events)
 
@@ -46,7 +47,7 @@ bullet points?
 - Mention DUNE
 - Using ROOT framework and geant4 to create a catalogue of interactions
 	- production yields and uhhh something else -> look at dune
-	- look at which ones are relavsnt -> long lived radioactive isotope
+	- look at which ones are relevant -> long lived radioactive isotope
 	- Which ones are dangerous -> looking at production yields in different parts of the detector
 	- What is left in the TPC is going to be dangerous
 - Use location physics to determine if the interaction products will cause any significance in reading detection
