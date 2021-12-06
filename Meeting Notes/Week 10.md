@@ -6,6 +6,7 @@ S2 signals:
 	Electrons that start drifting up from source due to electric field
 	Vertical electron drift -> this is also a photon flash, not current signal as would traditionally be
 	Much larger due to electron cascade acting like an amplifier
+	gives a 2D readout from the plane
 Electron recoils:
 	More electrons?
 	Smaller Photons?
