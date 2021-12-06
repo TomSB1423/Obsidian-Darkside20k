@@ -7,9 +7,10 @@
         "id": "a528171ac3141ed5",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assets/pdf/xenon1t excess.pdf"
+            "file": "Projects/Darkside-20k/Detectors/Argon.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/xenon1t excess.pdf",
+                "file": "Projects/Darkside-20k/Detectors/Argon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +104,15 @@
   },
   "active": "a528171ac3141ed5",
   "lastOpenFiles": [
-    "assets/pdf/xenon1t excess.pdf",
-    "assets/pdf/PhysRevC.99.055810.pdf",
-    "assets/pdf/DUNE & muons.pdf",
-    "assets/pdf/TDR_DarkSide-20k (updated).pdf",
+    "Projects/Darkside-20k/Detectors/Argon.md",
+    "Projects/Darkside-20k/Detectors/Location Dependence.md",
+    "assets/photos/dark matter experiments.png",
+    "assets/photos/Counts vs Recoil Energy.png",
+    "logs.md",
     "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
     "Meeting Notes/Week 10.md",
-    "General Information/Interim report.md",
-    "Paolo Agnes - pagnes_DMUK21.pdfpage=15.md",
     "assets/pdf/Overview of different detectors and tritium.pdf",
-    "assets/pdf/Nuclear recoils in argon.pdf"
+    "assets/photos/Meeting 091121 1.jpg",
+    "assets/photos/Meeting 221121 1.jpg.png"
   ]
 }
