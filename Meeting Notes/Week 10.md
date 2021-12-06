@@ -15,7 +15,6 @@ Nuclear recoils:
 	More photons?
 	less electrons?
 
-
 Dual Phase TPC [[Paolo Agnes - pagnes_DMUK21.pdf#page=4]]
 	2 discrimination methods:
 		PSD - looking at decay constant of S1
@@ -24,3 +23,4 @@ Dual Phase TPC [[Paolo Agnes - pagnes_DMUK21.pdf#page=4]]
 Gamma rays release from every neutron capture in Ga acrylic 
 	Can learn about neutron background - this means a neutron will have been stopped
 	
+#TODO Take a look at NEXO project about muons and their xenon experiment - double beta decay
