@@ -7,9 +7,10 @@
         "id": "1c1c1fa35817f7c8",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assets/pdf/DS_20k_Nov_2021.pdf"
+            "file": "Meeting Notes/Week 10.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/DS_20k_Nov_2021.pdf",
+                "file": "Meeting Notes/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,12 +104,12 @@
   },
   "active": "1c1c1fa35817f7c8",
   "lastOpenFiles": [
+    "Meeting Notes/Week 10.md",
     "assets/pdf/DS_20k_Nov_2021.pdf",
     "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
     "assets/pdf/DS_20k_DesignReport_INFN_v3.0.pdf",
     "assets/pdf/TDR_DarkSide-20k (updated).pdf",
     "General Information/Interim report.md",
-    "Meeting Notes/Week 10.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
     "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
     "logs.md",
