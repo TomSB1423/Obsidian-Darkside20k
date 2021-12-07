@@ -7,10 +7,9 @@
         "id": "1c1c1fa35817f7c8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "General Information/Interim report.md",
-            "mode": "source"
+            "file": "assets/pdf/DS_20k_Nov_2021.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Interim report.md",
+                "file": "assets/pdf/DS_20k_Nov_2021.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +103,15 @@
   },
   "active": "1c1c1fa35817f7c8",
   "lastOpenFiles": [
+    "assets/pdf/DS_20k_Nov_2021.pdf",
+    "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
+    "assets/pdf/DS_20k_DesignReport_INFN_v3.0.pdf",
+    "assets/pdf/TDR_DarkSide-20k (updated).pdf",
     "General Information/Interim report.md",
     "Meeting Notes/Week 10.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
     "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
-    "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
     "logs.md",
-    "conflict-files-obsidian-git.md",
-    "assets/pdf/DUNE & muons.pdf",
-    "Projects/DUNE.md",
-    "Projects/Darkside-20k/Measurements/PSD.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
