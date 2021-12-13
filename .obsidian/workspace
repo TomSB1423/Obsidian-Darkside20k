@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "logs.md",
-            "mode": "source"
+            "file": "General Information/Interim report.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs.md",
+                "file": "General Information/Interim report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "12e5f2e338a53bae",
   "lastOpenFiles": [
+    "General Information/Interim report.md",
     "logs.md",
     "Meeting Notes/Week 10.md",
-    "Meeting Notes/Week 9.md",
-    "General Information/Interim report.md"
+    "Meeting Notes/Week 9.md"
   ]
 }
