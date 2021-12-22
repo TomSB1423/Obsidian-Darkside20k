@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Week 9.md",
+            "file": "General Information/Introduction to Dark Matter.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Week 9.md",
+                "file": "General Information/Introduction to Dark Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +96,8 @@
   },
   "active": "12e5f2e338a53bae",
   "lastOpenFiles": [
-    "Meeting Notes/Week 9.md",
     "General Information/Introduction to Dark Matter.md",
+    "Meeting Notes/Week 9.md",
     "Dark Matter.md",
     "Projects/Dark Matter Detectors.md",
     "WIMPS/WIMP Interactions.md",

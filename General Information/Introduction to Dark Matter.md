@@ -50,3 +50,5 @@ Look at [[Dark Matter Detectors]], [[Dark Matter Candidates.pdf]]
 [what is dark energy](https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy)
   
 [annurev-astro-081710-102514](https://www.annualreviews.org/doi/10.1146/annurev-astro-081710-102514)
+
+[Origins of Dark Matter](https://www.forbes.com/sites/startswithabang/2019/02/22/the-wimp-miracle-is-dead-as-dark-matter-experiments-come-up-empty-again/?sh=b01b7346dbc6)
