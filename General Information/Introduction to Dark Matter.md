@@ -8,6 +8,8 @@ No one talks about specific particles -> no one really knows what they are looki
 -   The matter that we can see does not create enough gravitational pull to explain the universes expansion
 -   Made the conclusion that it only interacts gravitationally
 -   For example that galaxies would fly apart/not form due to their rotation (Kepler's second law)
+- Gravitational lensing
+	- Deflects light, the more mass the greater deflection
 -   By fitting a theoretical model of the composition of the universe to the combined set of cosmological observations, scientists have come up with the composition that we described above, ~68% dark energy, ~27% dark matter, ~5% normal matter.
 -   Does not come from planets/stars/clouds of normal matter
 -   Not galaxy-sized black holes → Do not see enough gravitational lensing to suggest the 25% dark matter

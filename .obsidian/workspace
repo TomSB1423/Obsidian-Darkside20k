@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "General Information/Introduction to Dark Matter.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "General Information/Introduction to Dark Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,9 @@
   },
   "active": "12e5f2e338a53bae",
   "lastOpenFiles": [
-    "Untitled.md",
+    "General Information/Introduction to Dark Matter.md",
+    "Dark Matter.md",
+    "Projects/Dark Matter Detectors.md",
     "WIMPS/WIMP Interactions.md",
     "WIMPS/WIMPs.md",
     "General Information/Interim report.md",
