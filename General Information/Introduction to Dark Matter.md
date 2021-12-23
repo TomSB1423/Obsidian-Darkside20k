@@ -52,3 +52,5 @@ Look at [[Dark Matter Detectors]], [[Dark Matter Candidates.pdf]]
 [annurev-astro-081710-102514](https://www.annualreviews.org/doi/10.1146/annurev-astro-081710-102514)
 
 [Origins of Dark Matter](https://www.forbes.com/sites/startswithabang/2019/02/22/the-wimp-miracle-is-dead-as-dark-matter-experiments-come-up-empty-again/?sh=b01b7346dbc6)
+
+[Good summary of types of dark matter](https://www.youtube.com/watch?v=915Vky7r_gk&t=3s&ab_channel=ArvinAsh)
