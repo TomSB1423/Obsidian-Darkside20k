@@ -20,7 +20,8 @@ Two columns vs one column? #question
 	- Start with particle candidates of dark matter, motivation for existence
 		- Basically need to outline the specific properties of dark matter
 	- Evidence: Uneven distribution for galaxy 
-			- Figure of this
+		- Figure of this
+	- Gravitational lensing
 	- Types: Hot, cold, WIMP, Axion (don't go into too much depth of this)
 	- WIMP specifics + methods of detection, we are using direct detection [[WIMP Interactions]]
 	- High sensitivity → solar neutrinos
