@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "12e5f2e338a53bae",
+        "id": "e13d3a5ae44b69c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12e5f2e338a53bae",
+  "active": "e13d3a5ae44b69c0",
   "lastOpenFiles": [
     "General Information/Interim report.md",
+    "assets/pdf/Dark Matter Candidates.pdf",
+    "assets/pdf/Dark Matter Candidates.pdf.pdf",
     "Projects/Liquid xenon detectors.md",
     "Projects/DUNE.md",
     "Projects/Dark Matter Detectors.md",
     "Meeting Notes/Week 9.md",
     "General Information/Introduction to Dark Matter.md",
     "WIMPS/WIMPs.md",
-    "Dark Matter.md",
-    "WIMPS/WIMP Interactions.md",
-    "logs.md"
+    "Dark Matter.md"
   ]
 }
