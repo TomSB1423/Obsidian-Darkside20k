@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Week 9.md",
+            "file": "General Information/Interim report.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Week 9.md",
+                "file": "General Information/Interim report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +92,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "12e5f2e338a53bae",
   "lastOpenFiles": [
+    "General Information/Interim report.md",
+    "Projects/Liquid xenon detectors.md",
+    "Projects/DUNE.md",
+    "Projects/Dark Matter Detectors.md",
     "Meeting Notes/Week 9.md",
     "General Information/Introduction to Dark Matter.md",
     "WIMPS/WIMPs.md",
     "Dark Matter.md",
-    "Projects/Dark Matter Detectors.md",
     "WIMPS/WIMP Interactions.md",
-    "General Information/Interim report.md",
-    "logs.md",
-    "Meeting Notes/Week 10.md"
+    "logs.md"
   ]
 }
