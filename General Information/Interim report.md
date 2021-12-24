@@ -18,6 +18,7 @@ Two columns vs one column? #question
 ### Project intro (7 pages)
 - What is dark matter and why is background important [[Dark Matter Candidates.pdf]]
 	- Start with particle candidates of dark matter, motivation for existence
+		- Basically need to outline the specific properties of dark matter
 	- Evidence: Uneven distribution for galaxy 
 			- Figure of this
 	- Types: Hot, cold, WIMP, Axion (don't go into too much depth of this)
