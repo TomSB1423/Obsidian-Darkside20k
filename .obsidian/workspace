@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPS/WIMP Interactions.md",
+            "file": "WIMPS/WIMPs.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "miracle",
+                "query": "indirect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIMPS/WIMP Interactions.md",
+                "file": "WIMPS/WIMPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
   },
   "active": "e13d3a5ae44b69c0",
   "lastOpenFiles": [
+    "WIMPS/WIMPs.md",
     "WIMPS/WIMP Interactions.md",
     "General Information/Interim report.md",
     "assets/pdf/Dark Matter Candidates.pdf",
@@ -105,7 +107,6 @@
     "Projects/DUNE.md",
     "Projects/Dark Matter Detectors.md",
     "Meeting Notes/Week 9.md",
-    "General Information/Introduction to Dark Matter.md",
-    "WIMPS/WIMPs.md"
+    "General Information/Introduction to Dark Matter.md"
   ]
 }
