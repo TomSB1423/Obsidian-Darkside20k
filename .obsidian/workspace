@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPS/WIMPs.md",
+            "file": "General Information/Notes whilst writing interim.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIMPS/WIMPs.md",
+                "file": "General Information/Notes whilst writing interim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "e13d3a5ae44b69c0",
   "lastOpenFiles": [
-    "WIMPS/WIMPs.md",
-    "General Information/Interim report.md",
     "General Information/Notes whilst writing interim.md",
+    "General Information/Introduction to Dark Matter.md",
+    "General Information/Interim report.md",
+    "WIMPS/WIMPs.md",
     "WIMPS/WIMP Interactions.md",
     "assets/pdf/Dark Matter Candidates.pdf",
     "assets/pdf/Dark Matter Candidates.pdf.pdf",
     "Projects/Liquid xenon detectors.md",
     "Projects/DUNE.md",
-    "Projects/Dark Matter Detectors.md",
-    "Meeting Notes/Week 9.md"
+    "Projects/Dark Matter Detectors.md"
   ]
 }
