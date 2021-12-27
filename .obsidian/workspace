@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e13d3a5ae44b69c0",
+        "id": "29446361c5102081",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Introduction to Dark Matter.md",
-            "mode": "source"
+            "file": "Meeting Notes/Week 8.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "direct detection",
+                "query": "detector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Introduction to Dark Matter.md",
+                "file": "Meeting Notes/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e13d3a5ae44b69c0",
+  "active": "29446361c5102081",
   "lastOpenFiles": [
+    "Meeting Notes/Week 8.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Meeting Notes/Week 6.md",
+    "Meeting Notes/Week 7.md",
+    "Meeting Notes/Week 9.md",
+    "assets/pdf/TDR_DarkSide-20k (updated).pdf",
     "General Information/Introduction to Dark Matter.md",
     "General Information/Notes whilst writing interim.md",
     "General Information/Interim report.md",
-    "WIMPS/WIMPs.md",
-    "WIMPS/WIMP Interactions.md",
-    "assets/pdf/Dark Matter Candidates.pdf",
-    "assets/pdf/Dark Matter Candidates.pdf.pdf",
-    "Projects/Liquid xenon detectors.md",
-    "Projects/DUNE.md",
-    "Projects/Dark Matter Detectors.md"
+    "WIMPS/WIMPs.md"
   ]
 }
