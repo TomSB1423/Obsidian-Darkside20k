@@ -16,6 +16,7 @@ However 2/3 are impossible to measure.
 	- Would expect this to change by a few percent
 	- Impossible to measure as way too little, also would only occur once a year
 	- To measure this you would plot a graph of x: recoil energy, y: number of events
+
 3.  Material dependence - most practical signature to look for
 	- Nuclear scattering profile looks different on different materials
 		- This is nuclear recoil → we expect a distribution of scatters and will end up with a nuclear elastic scattering plot of y: Counts vs x: Recoil Energy. This would look different for every particle and over time you would see a spread of plots:
