@@ -13,9 +13,8 @@ Look at [[Week 8]]
 -   Acrylic shell
 -   Outer Argon Buffer (OAB)
 	-   Another outer active volume of underground argon
-	-   This is passive at the moment but want to install light detectors - not enough funding for this
+	-   This is passive at the moment but want to install light detectors - not enough funding for this - i think this is wrong now... funding has allowed light detectors to be installed here
 -   Passive Gd Acrylic Shell
-	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings #question - <u>Is this true? Where are the metal field shaping rings found? Don't think so</u>
 	-   Gd-loaded Acrylic Shell (GdAS) moderates neutrons emitted from all of the detector materials, particularly from the ones which make-up and surround the LAr [[TPC]]
 	-   The Gd enhances neutron capture probability
 	-   Copper shell #question - <u>Where is this located?</u>
@@ -29,10 +28,14 @@ Look at [[Week 8]]
 	-   Again, acrylic mediates neutrons to avoid [[Recoils]] mostly produced from the slightly radioactive LAr in the [[Veto]]. The nuclear recoils could be mistaken for [[WIMP interactions]]
 -   [[TPC]] (UAr - underground Argon → contains no Ar-39, only Ar-40 which is not radioactive)
 	-   SiPM on top and bottom
-
+---
 Not actually up to date:
 ![[Schematic view of DS-2k detector.png]]
 
+---
+- Copper faraday cage? Where is this?
+	-   Helps with keeping E-field very homogeneous -> thin film metal field shaping rings #question - <u>Is this true? Where are the metal field shaping rings found? Don't think so</u>
+	-   
 -   Abandons organic liquid scintillator veto - I think this was either previously done in DUNE/DS-50?
 	-   Due to significant performance advantages
 	-   Removal of this means that no cryostat is needed
