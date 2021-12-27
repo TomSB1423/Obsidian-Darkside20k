@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Interim report.md",
+            "file": "WIMPS/WIMPs.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "indirect",
+                "query": "direct detection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Interim report.md",
+                "file": "WIMPS/WIMPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
   },
   "active": "e13d3a5ae44b69c0",
   "lastOpenFiles": [
+    "WIMPS/WIMPs.md",
     "General Information/Interim report.md",
     "General Information/Notes whilst writing interim.md",
-    "WIMPS/WIMPs.md",
     "WIMPS/WIMP Interactions.md",
     "assets/pdf/Dark Matter Candidates.pdf",
     "assets/pdf/Dark Matter Candidates.pdf.pdf",

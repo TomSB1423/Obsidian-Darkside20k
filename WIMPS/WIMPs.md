@@ -17,4 +17,8 @@
 	-   However due to the high energies, it means that these detectors inhibit a loss in sensitivity - above a few hundred GeV/c^2
 
 
+ ### Indirect Detection Example
+ 
+ 
+ ### Direct Detection Example
  
