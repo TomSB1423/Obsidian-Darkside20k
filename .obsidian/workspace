@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Notes whilst writing interim.md",
+                "file": "General Information/Introduction to Dark Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b50b6e8a623c01e",
+  "active": "ab472943bc6dd35e",
   "lastOpenFiles": [
-    "General Information/Notes whilst writing interim.md",
     "General Information/Introduction to Dark Matter.md",
+    "WIMPS/WIMPs.md",
+    "General Information/Notes whilst writing interim.md",
     "General Information/Interim report.md",
     "WIMPS/WIMP Interactions.md",
     "Meeting Notes/Week 6.md",
     "Meeting Notes/Week 1-5.md",
     "Meeting Notes/Week 8.md",
     "Meeting Notes/Week 7.md",
-    "WIMPS/WIMPs.md",
     "assets/pdf/TDR_DarkSide-20k (updated).pdf"
   ]
 }
