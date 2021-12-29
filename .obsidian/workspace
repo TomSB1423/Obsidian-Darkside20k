@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPS/WIMP Interactions.md",
+            "file": "General Information/Notes whilst writing interim.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIMPS/WIMP Interactions.md",
+                "file": "General Information/Notes whilst writing interim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "29446361c5102081",
   "lastOpenFiles": [
+    "General Information/Notes whilst writing interim.md",
     "WIMPS/WIMP Interactions.md",
+    "WIMPS/WIMPs.md",
     "General Information/Interim report.md",
     "assets/pdf/TDR_DarkSide-20k (updated).pdf",
     "assets/pdf/Darkside-20k preliminary.pdf",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Meeting Notes/Week 8.md",
     "assets/photos/Meeting 221121 1.jpg.png",
-    "assets/photos/Schematic view of DS-2k detector.png",
-    "assets/photos/TPC Structure.png",
-    "Meeting Notes/Week 6.md"
+    "assets/photos/Schematic view of DS-2k detector.png"
   ]
 }
