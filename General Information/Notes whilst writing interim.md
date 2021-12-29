@@ -12,7 +12,6 @@
 - Scintillator
 - Resolve the directionality of a recoil
 - powerful metric for discriminating WIMP recoils from terrestrial background - copied!
-- unambiguous proof of the DM origin
 - anisotropy/isotropy
 
 
