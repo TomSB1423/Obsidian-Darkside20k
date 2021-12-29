@@ -27,3 +27,5 @@ However 2/3 are impossible to measure.
 	- Once we know the signal for WIMP-like events in Argon, we can extrapolate this data and then look for it in Xenon. If we find that the mass is the same then we can hypothesis that these WIMP-like events are in fact WIMPs.
 		- We would then extrapolate the data to see if the rate matches the mass needed/predicted in the galaxy
 		- This would show strong evidence for WIMPs
+
+"The most obvious feature of the differential event rate is the exponential suppression with higher recoil energy. To observe this characteristic spectrum, we must have a detector that can accurately measure the nuclear recoil energy down to a threshold of only a few keV."
