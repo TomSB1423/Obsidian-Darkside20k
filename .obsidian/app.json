@@ -54,7 +54,8 @@
     "catalogue",
     "Workplan",
     "Workplan",
-    "OneNote"
+    "OneNote",
+    "directionality"
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false,

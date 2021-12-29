@@ -10,8 +10,10 @@
 - non-luminous
 - promising candidate is the WIMP
 - Scintillator
-- o resolve the directionality of a recoil
-- powerful me
+- Resolve the directionality of a recoil
+- powerful metric for discriminating WIMP recoils from terrestrial background - copied!
+- 
+- 
 
 
 ## Questions that arise
