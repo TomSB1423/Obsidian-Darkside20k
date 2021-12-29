@@ -57,4 +57,4 @@ Look at [[Dark Matter Detectors]], [[Dark Matter Candidates.pdf]]
 
 Nice flow of intro to dark matter - [[Stern_Nick_Stern_Senior_Thesis_Final.pdf]] defo use this
 
-Also not bas - [[1607.08157.pdf]]
+Also not bad - [[1607.08157.pdf]] & [[1209.3339.pdf]]
