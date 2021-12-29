@@ -15,33 +15,26 @@
         }
       },
       {
-        "id": "7bcb83caaf1c202d",
-        "type": "split",
-        "children": [
-          {
-            "id": "ab472943bc6dd35e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Information/Introduction to Dark Matter.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "9d8de499f7e62419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Information/Notes whilst writing interim.md",
-                "mode": "source"
-              }
-            }
+        "id": "7b50b6e8a623c01e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Information/Notes whilst writing interim.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "ab472943bc6dd35e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Information/Introduction to Dark Matter.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -125,11 +118,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d8de499f7e62419",
+  "active": "7b50b6e8a623c01e",
   "lastOpenFiles": [
     "General Information/Notes whilst writing interim.md",
-    "General Information/Interim report.md",
     "General Information/Introduction to Dark Matter.md",
+    "General Information/Interim report.md",
     "WIMPS/WIMP Interactions.md",
     "Meeting Notes/Week 6.md",
     "Meeting Notes/Week 1-5.md",
