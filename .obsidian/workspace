@@ -7,9 +7,10 @@
         "id": "29446361c5102081",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assets/pdf/TDR_DarkSide-20k (updated).pdf"
+            "file": "General Information/Interim report.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/TDR_DarkSide-20k (updated).pdf",
+                "file": "General Information/Interim report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +97,8 @@
   },
   "active": "29446361c5102081",
   "lastOpenFiles": [
+    "General Information/Interim report.md",
+    "WIMPS/WIMP Interactions.md",
     "assets/pdf/TDR_DarkSide-20k (updated).pdf",
     "assets/pdf/Darkside-20k preliminary.pdf",
     "Projects/Darkside-20k/DarkSide-20k.md",
@@ -103,8 +106,6 @@
     "assets/photos/Meeting 221121 1.jpg.png",
     "assets/photos/Schematic view of DS-2k detector.png",
     "assets/photos/TPC Structure.png",
-    "Meeting Notes/Week 6.md",
-    "Meeting Notes/Week 7.md",
-    "Meeting Notes/Week 9.md"
+    "Meeting Notes/Week 6.md"
   ]
 }
