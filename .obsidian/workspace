@@ -26,12 +26,12 @@
         }
       },
       {
-        "id": "ab472943bc6dd35e",
+        "id": "2a998f76a6712472",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Introduction to Dark Matter.md",
+            "file": "Projects/Darkside-20k/DarkSide-20k.md",
             "mode": "source"
           }
         }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4dbc2e97e2489e74",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Interim report.md",
+                "file": "Projects/Darkside-20k/DarkSide-20k.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29446361c5102081",
+  "active": "2a998f76a6712472",
   "lastOpenFiles": [
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Projects/Darkside-20k/DarkSide Collaboration.md",
     "General Information/Interim report.md",
     "General Information/Introduction to Dark Matter.md",
     "WIMPS/WIMPs.md",
@@ -127,8 +128,6 @@
     "WIMPS/WIMP Interactions.md",
     "Meeting Notes/Week 6.md",
     "Meeting Notes/Week 1-5.md",
-    "Meeting Notes/Week 8.md",
-    "Meeting Notes/Week 7.md",
-    "assets/pdf/TDR_DarkSide-20k (updated).pdf"
+    "Meeting Notes/Week 8.md"
   ]
 }
