@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/Measurements/PSD.md",
+            "file": "Projects/Darkside-20k/Detectors/Argon.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/Measurements/PSD.md",
+                "file": "Projects/Darkside-20k/Detectors/Argon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "2a998f76a6712472",
   "lastOpenFiles": [
+    "Projects/Darkside-20k/Detectors/Argon.md",
     "Projects/Darkside-20k/Measurements/PSD.md",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "General Information/Interim report.md",
@@ -127,7 +128,6 @@
     "WIMPS/WIMPs.md",
     "General Information/Notes whilst writing interim.md",
     "WIMPS/WIMP Interactions.md",
-    "Meeting Notes/Week 6.md",
-    "Meeting Notes/Week 1-5.md"
+    "Meeting Notes/Week 6.md"
   ]
 }
