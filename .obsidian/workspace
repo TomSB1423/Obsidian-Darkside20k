@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/Detectors/TPC.md",
+            "file": "Meeting Notes/Week 7.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/Detectors/TPC.md",
+                "file": "Meeting Notes/Week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "29446361c5102081",
   "lastOpenFiles": [
+    "Meeting Notes/Week 7.md",
+    "Meeting Notes/Week 9.md",
+    "Meeting Notes/Week 8.md",
+    "Meeting Notes/Week 6.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "Projects/Darkside-20k/Detectors/Location Dependence.md",
     "Projects/Darkside-20k/Measurements/PSD.md",
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
     "General Information/Interim report.md",
-    "General Information/Introduction to Dark Matter.md",
-    "Projects/Darkside-20k/Detectors/Argon.md",
-    "Projects/Darkside-20k/Detectors/Veto.md",
-    "Projects/Darkside-20k/DarkSide-20k.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md"
+    "General Information/Introduction to Dark Matter.md"
   ]
 }
