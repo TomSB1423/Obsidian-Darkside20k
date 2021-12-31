@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tpc",
+                "query": "sensors",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
