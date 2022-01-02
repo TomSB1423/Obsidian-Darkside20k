@@ -12,6 +12,7 @@
 - Resolve the directionality of a recoil
 - powerful metric for discriminating WIMP recoils from terrestrial background - copied!
 - anisotropy/isotropy
+- emphasis on "“instrumental background-free” experiment"
 
 
 ## Questions that arise
