@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/DarkSide-20k.md",
+            "file": "Projects/Darkside-20k/Detectors/Veto.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "veto",
+                "query": "gd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/DarkSide-20k.md",
+                "file": "Projects/Darkside-20k/Detectors/Veto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +119,8 @@
   },
   "active": "29446361c5102081",
   "lastOpenFiles": [
-    "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
     "WIMPS/WIMP Interactions.md",
     "General Information/Notes whilst writing interim.md",
     "Meeting Notes/Week 10.md",
