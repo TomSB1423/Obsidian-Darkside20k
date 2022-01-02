@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/Detectors/Veto.md",
+            "file": "Projects/Darkside-20k/DarkSide-20k.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cascade",
+                "query": "veto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/Detectors/Veto.md",
+                "file": "Projects/Darkside-20k/DarkSide-20k.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
   },
   "active": "29446361c5102081",
   "lastOpenFiles": [
+    "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
     "WIMPS/WIMP Interactions.md",
     "General Information/Notes whilst writing interim.md",
@@ -127,7 +129,6 @@
     "Projects/Darkside-20k/Measurements/PSD.md",
     "General Information/Interim report.md",
     "General Information/Introduction to Dark Matter.md",
-    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "Meeting Notes/Week 7.md"
+    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md"
   ]
 }
