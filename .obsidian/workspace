@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Project Task.md",
+            "file": "Meeting Notes/Week 8.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Project Task.md",
+                "file": "Meeting Notes/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "29446361c5102081",
   "lastOpenFiles": [
+    "Meeting Notes/Week 8.md",
     "General Information/Project Task.md",
     "General Information/Introduction to Dark Matter.md",
     "General Information/Interim report.md",
@@ -127,7 +128,6 @@
     "WIMPS/WIMP Interactions.md",
     "General Information/Notes whilst writing interim.md",
     "Meeting Notes/Week 10.md",
-    "Projects/Darkside-20k/Detectors/TPC.md",
-    "Projects/Darkside-20k/Measurements/PSD.md"
+    "Projects/Darkside-20k/Detectors/TPC.md"
   ]
 }
