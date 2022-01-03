@@ -5,7 +5,7 @@
 	-   Positron excess in cosmic rays - suggested to be evidence of dark matter annihilation
 -   Alpha Magnetic Spectrometer (AMS)
 -   Fermi Large Area Telescope (LAT)
-	-   Shown that emission from from the galactic centre cant be described by background models - suggested to be dark matter annihilation
+	-   Shown that emission from from the galactic center cant be described by background models - suggested to be dark matter annihilation
 -   Cherenkov Telescope Array (CTA)
 	-   Sensitive to high energy photons from the inner Milky Way and dwarf galaxies due to thermally annihilating dark matter particles up to 10 TeV/c2
 -   PINGU extension to ICECUBE
