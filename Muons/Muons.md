@@ -32,7 +32,7 @@
 - No direct link between muons and WIMPs → muon collisions look different to WIMPs
 - Reason to consider muons induced background as too rare
 - Link to xenon experiment with excess of tritium ^9df396
-	- As DarkSide is more sensitive -> need to have good estimate for muon interactions
+	- As DarkSide is6 more sensitive -> need to have good estimate for muon interactions
 	- To make sure we have an understanding of where things come from
 	- Bottom of page about tritium?
 		- ![[Muons in DEAP and darkSide.pdf#page=51]] <- Don't think this is related - instead look for xenon collaboration experiment

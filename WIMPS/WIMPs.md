@@ -1,7 +1,6 @@
-   
-## Methods of WIMP searches
+  ## Methods of WIMP searches
 1)   Direct detection in shielded underground detectors on earth
-2)   Indirect detection with satellites, balloons, and ground-based telescopes looking for signals of dark matter annihilation -> usually in galaxy centres where lots of dark matter is thought to exist
+2)   Indirect detection with satellites, balloons, and ground-based telescopes looking for signals of dark matter annihilation -> usually in galaxy centers where lots of dark matter is thought to exist
 -   PAMELA satellite-borne experiment
 	-   Positron excess in cosmic rays - suggested to be evidence of dark matter annihilation
 -   Alpha Magnetic Spectrometer (AMS)
