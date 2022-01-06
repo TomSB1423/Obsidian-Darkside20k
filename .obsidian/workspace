@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "29446361c5102081",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "General Information/Interim report.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "7b50b6e8a623c01e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPS/WIMP Interactions.md",
+            "file": "General Information/Interim report.md",
             "mode": "source"
           }
         }
@@ -90,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIMPS/WIMP Interactions.md",
+                "file": "General Information/Interim report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +108,7 @@
   },
   "active": "7b50b6e8a623c01e",
   "lastOpenFiles": [
+    "General Information/Interim report.md",
     "WIMPS/WIMP Interactions.md",
     "General Information/Introduction to Dark Matter.md",
     "assets/pdf/1607.08157.pdf",
@@ -126,7 +116,6 @@
     "Projects/Darkside-20k/DarkSide Collaboration.md",
     "WIMPS/WIMPs.md",
     "Muons/Muons.md",
-    "General Information/Interim report.md",
     "General Information/Project Task.md",
     "General Information/Notes whilst writing interim.md"
   ]
