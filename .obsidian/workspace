@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Introduction to Dark Matter.md",
+            "file": "WIMPS/WIMP Interactions.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Introduction to Dark Matter.md",
+                "file": "WIMPS/WIMP Interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,11 +119,11 @@
   },
   "active": "7b50b6e8a623c01e",
   "lastOpenFiles": [
+    "WIMPS/WIMP Interactions.md",
     "General Information/Introduction to Dark Matter.md",
     "assets/pdf/1607.08157.pdf",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/DarkSide Collaboration.md",
-    "WIMPS/WIMP Interactions.md",
     "WIMPS/WIMPs.md",
     "Muons/Muons.md",
     "General Information/Interim report.md",
