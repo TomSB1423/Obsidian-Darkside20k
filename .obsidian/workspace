@@ -7,9 +7,10 @@
         "id": "848b199c67dae68d",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf"
+            "file": "Projects/Darkside-20k/Measurements/Recoils.md",
+            "mode": "source"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#question",
+                "query": "electron recoil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
+                "file": "Projects/Darkside-20k/Measurements/Recoils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +106,15 @@
   },
   "active": "848b199c67dae68d",
   "lastOpenFiles": [
+    "Projects/Darkside-20k/Measurements/Recoils.md",
+    "Projects/Darkside-20k/Detectors/TPC.md",
+    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
+    "Muons/Muons.md",
+    "logs.md",
+    "General Information/Interim report.md",
+    "assets/pdf/1209.3339.pdf",
     "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
     "assets/pdf/TDR_DarkSide-20k (updated).pdf",
-    "assets/pdf/Overview of different detectors and tritium.pdf",
-    "assets/pdf/Paolo Agnes - pagnes_DMUK21.pdf",
-    "assets/pdf/Neutrino floor.pdf",
-    "assets/pdf/Nuclear recoils in argon.pdf",
-    "assets/pdf/DUNE & muons.pdf",
-    "assets/pdf/howTPCworks.pdf",
-    "assets/pdf/Křížek2018_Article_TenArgumentsAgainstTheProclaim.pdf",
-    "assets/pdf/Muons in DEAP and darkSide.pdf"
+    "assets/pdf/Overview of different detectors and tritium.pdf"
   ]
 }
