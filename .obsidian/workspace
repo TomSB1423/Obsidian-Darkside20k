@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/Measurements/Recoils.md",
-            "mode": "source"
+            "file": "Meeting Notes/Week 8.md",
+            "mode": "preview"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/Measurements/Recoils.md",
+                "file": "Meeting Notes/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +105,15 @@
   },
   "active": "848b199c67dae68d",
   "lastOpenFiles": [
+    "Meeting Notes/Week 8.md",
+    "Meeting Notes/Week 9.md",
+    "Meeting Notes/Week 6.md",
+    "Meeting Notes/Week 1-5.md",
     "Projects/Darkside-20k/Measurements/Recoils.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
     "Muons/Muons.md",
     "logs.md",
-    "General Information/Interim report.md",
-    "assets/pdf/1209.3339.pdf",
-    "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
-    "assets/pdf/TDR_DarkSide-20k (updated).pdf",
-    "assets/pdf/Overview of different detectors and tritium.pdf"
+    "General Information/Interim report.md"
   ]
 }
