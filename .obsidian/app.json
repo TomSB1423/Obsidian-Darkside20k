@@ -59,5 +59,7 @@
   ],
   "attachmentFolderPath": "assets/photos",
   "promptDelete": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

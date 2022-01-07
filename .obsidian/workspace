@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPS/WIMPs.md",
-            "mode": "source"
+            "file": "General Information/Notes whilst writing interim.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -48,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIMPS/WIMPs.md",
+                "file": "General Information/Notes whilst writing interim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "848b199c67dae68d",
   "lastOpenFiles": [
+    "General Information/Notes whilst writing interim.md",
+    "General Information/Interim report.md",
     "WIMPS/WIMPs.md",
     "Meeting Notes/Week 8.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "General Information/Notes whilst writing interim.md",
     "Meeting Notes/Week 9.md",
     "Meeting Notes/Week 6.md",
     "Meeting Notes/Week 1-5.md",
-    "Projects/Darkside-20k/Measurements/Recoils.md",
-    "Muons/Muons.md"
+    "Projects/Darkside-20k/Measurements/Recoils.md"
   ]
 }
