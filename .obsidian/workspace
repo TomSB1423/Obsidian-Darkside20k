@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Week 8.md",
-            "mode": "preview"
+            "file": "WIMPS/WIMPs.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electron recoil",
+                "query": "cherenkov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Week 8.md",
+                "file": "WIMPS/WIMPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +106,15 @@
   },
   "active": "848b199c67dae68d",
   "lastOpenFiles": [
+    "WIMPS/WIMPs.md",
     "Meeting Notes/Week 8.md",
+    "Projects/Darkside-20k/Detectors/TPC.md",
+    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
+    "General Information/Notes whilst writing interim.md",
     "Meeting Notes/Week 9.md",
     "Meeting Notes/Week 6.md",
     "Meeting Notes/Week 1-5.md",
     "Projects/Darkside-20k/Measurements/Recoils.md",
-    "Projects/Darkside-20k/Detectors/TPC.md",
-    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "Muons/Muons.md",
-    "logs.md",
-    "General Information/Interim report.md"
+    "Muons/Muons.md"
   ]
 }
