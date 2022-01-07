@@ -7,9 +7,11 @@
         "id": "848b199c67dae68d",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assets/pdf/Neutrino floor.pdf"
+            "file": "General Information/Notes whilst writing interim.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/Neutrino floor.pdf",
+                "file": "General Information/Notes whilst writing interim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +106,7 @@
   },
   "active": "848b199c67dae68d",
   "lastOpenFiles": [
+    "General Information/Notes whilst writing interim.md",
     "assets/pdf/Neutrino floor.pdf",
     "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
     "assets/pdf/1607.08157.pdf",
@@ -111,7 +114,6 @@
     "assets/pdf/Dark Matter Candidates.pdf.pdf",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/Detectors/Argon.md",
-    "General Information/Notes whilst writing interim.md",
     "General Information/Interim report.md",
     "WIMPS/WIMPs.md"
   ]
