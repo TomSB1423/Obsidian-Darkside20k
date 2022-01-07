@@ -7,11 +7,9 @@
         "id": "848b199c67dae68d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Projects/Darkside-20k/DarkSide-20k.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf"
           }
         }
       }
@@ -49,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/DarkSide-20k.md",
+                "file": "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +104,15 @@
   },
   "active": "848b199c67dae68d",
   "lastOpenFiles": [
+    "assets/pdf/DarrenPrice_DMUK_DarkSide20k.pdf",
+    "assets/pdf/1607.08157.pdf",
+    "assets/pdf/Dark Matter Candidates.pdf",
+    "assets/pdf/Dark Matter Candidates.pdf.pdf",
     "Projects/Darkside-20k/DarkSide-20k.md",
     "Projects/Darkside-20k/Detectors/Argon.md",
     "General Information/Notes whilst writing interim.md",
     "General Information/Interim report.md",
     "WIMPS/WIMPs.md",
-    "Meeting Notes/Week 8.md",
-    "Projects/Darkside-20k/Detectors/TPC.md",
-    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "Meeting Notes/Week 9.md",
-    "Meeting Notes/Week 6.md"
+    "Meeting Notes/Week 8.md"
   ]
 }
