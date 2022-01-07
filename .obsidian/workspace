@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Notes whilst writing interim.md",
+            "file": "Projects/Darkside-20k/DarkSide-20k.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cherenkov",
+                "query": "cage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Notes whilst writing interim.md",
+                "file": "Projects/Darkside-20k/DarkSide-20k.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,8 @@
   },
   "active": "848b199c67dae68d",
   "lastOpenFiles": [
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Projects/Darkside-20k/Detectors/Argon.md",
     "General Information/Notes whilst writing interim.md",
     "General Information/Interim report.md",
     "WIMPS/WIMPs.md",
@@ -113,8 +116,6 @@
     "Projects/Darkside-20k/Detectors/TPC.md",
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
     "Meeting Notes/Week 9.md",
-    "Meeting Notes/Week 6.md",
-    "Meeting Notes/Week 1-5.md",
-    "Projects/Darkside-20k/Measurements/Recoils.md"
+    "Meeting Notes/Week 6.md"
   ]
 }
