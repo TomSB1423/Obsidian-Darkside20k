@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/DarkSide Collaboration.md",
+                "file": "General Information/Notes whilst writing interim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b50b6e8a623c01e",
+  "active": "2a998f76a6712472",
   "lastOpenFiles": [
+    "General Information/Notes whilst writing interim.md",
     "Projects/Darkside-20k/DarkSide Collaboration.md",
     "General Information/Interim report.md",
     "WIMPS/WIMP Interactions.md",
@@ -116,7 +117,6 @@
     "Projects/Darkside-20k/DarkSide-20k.md",
     "WIMPS/WIMPs.md",
     "Muons/Muons.md",
-    "General Information/Project Task.md",
-    "General Information/Notes whilst writing interim.md"
+    "General Information/Project Task.md"
   ]
 }
