@@ -4,6 +4,7 @@
 - Indirect vs direct detection
 	- https://arxiv.org/pdf/1507.03800.pdf
 	- [Indirect detection refers to astrophysical signals?](https://physics.stackexchange.com/questions/587038/direct-and-in-direct-measurments)
+- Might be worth taking a look at the cross section, also maybe take figure on p35/38: https://s3.cern.ch/inspire-prod-files-e/e4a72b7ea77289ca3eaa2e4d4f7184e3
 
 ## Words to use
 - non-luminous
