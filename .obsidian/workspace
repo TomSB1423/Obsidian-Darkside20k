@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Interim report.md",
+            "file": "Meeting Notes/Week 9.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wimp miracle",
+                "query": "miracle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Interim report.md",
+                "file": "Meeting Notes/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +109,11 @@
   },
   "active": "7b50b6e8a623c01e",
   "lastOpenFiles": [
+    "Meeting Notes/Week 9.md",
     "General Information/Interim report.md",
     "General Information/Project Task.md",
     "General Information/Notes whilst writing interim.md",
     "Projects/Darkside-20k/DarkSide Collaboration.md",
-    "Meeting Notes/Week 9.md",
     "conflict-files-obsidian-git.md",
     "WIMPS/WIMP Interactions.md",
     "General Information/Introduction to Dark Matter.md",
