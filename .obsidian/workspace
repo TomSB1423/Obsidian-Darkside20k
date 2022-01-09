@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "miracle",
+                "query": "excluded",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,6 +110,7 @@
   "active": "7b50b6e8a623c01e",
   "lastOpenFiles": [
     "Meeting Notes/Week 9.md",
+    "Projects/Liquid xenon detectors.md",
     "General Information/Interim report.md",
     "General Information/Project Task.md",
     "General Information/Notes whilst writing interim.md",
@@ -117,7 +118,6 @@
     "conflict-files-obsidian-git.md",
     "WIMPS/WIMP Interactions.md",
     "General Information/Introduction to Dark Matter.md",
-    "assets/pdf/1607.08157.pdf",
-    "Projects/Darkside-20k/DarkSide-20k.md"
+    "assets/pdf/1607.08157.pdf"
   ]
 }
