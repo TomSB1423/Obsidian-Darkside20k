@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Week 7.md",
+            "file": "Meeting Notes/Week 9.md",
             "mode": "source"
           }
         }
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Week 7.md",
+                "file": "Meeting Notes/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +108,15 @@
   },
   "active": "7b50b6e8a623c01e",
   "lastOpenFiles": [
-    "Meeting Notes/Week 7.md",
     "Meeting Notes/Week 9.md",
+    "Meeting Notes/Week 8.md",
+    "Meeting Notes/Week 7.md",
     "Projects/Liquid xenon detectors.md",
     "General Information/Interim report.md",
     "General Information/Project Task.md",
     "General Information/Notes whilst writing interim.md",
     "Projects/Darkside-20k/DarkSide Collaboration.md",
     "conflict-files-obsidian-git.md",
-    "WIMPS/WIMP Interactions.md",
-    "General Information/Introduction to Dark Matter.md"
+    "WIMPS/WIMP Interactions.md"
   ]
 }
