@@ -16,4 +16,6 @@ neutrinos interactions produce electron recoils - can distinguish from these up 
 
 Have a look at: https://physics.stackexchange.com/questions/410117/exclusion-limits-on-particle-dark-matter
 
-![[Meeting 221121 1.jpg.png]]
+![[Detector Geometry Image.png|700]]
+
+![[Meeting 221121 1.png|300]]

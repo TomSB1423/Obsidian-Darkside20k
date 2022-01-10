@@ -55,6 +55,6 @@ Look at [[Dark Matter Detectors]], [[Dark Matter Candidates.pdf]]
 
 [Good summary of types of dark matter](https://www.youtube.com/watch?v=915Vky7r_gk&t=3s&ab_channel=ArvinAsh)
 
-Nice flow of intro to dark matter - [[Stern_Nick_Stern_Senior_Thesis_Final.pdf]] defo use this
+Nice flow of intro to dark matter - [[Thesis Nuclear Recoil Direction LUX.pdf]] defo use this
 
-Also not bad - [[1607.08157.pdf]] & [[1209.3339.pdf]]
+Also not bad - [[Directional detection of DM.pdf]] & [[Annual Modulation of DM.pdf]]

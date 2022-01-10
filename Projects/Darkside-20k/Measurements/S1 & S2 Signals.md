@@ -1,5 +1,5 @@
 # Signals in the Detector
-#note Careful when writing up as most came directly from [[Darkside-20k preliminary.pdf]]
+#note Careful when writing up as most came directly from [[Darkside-20k first.pdf]]
 
 Categorized into two groups:
 -   S1 → Scintillation signal

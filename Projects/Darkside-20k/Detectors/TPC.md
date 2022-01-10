@@ -1,7 +1,7 @@
 ## TPC (Time Projection Chamber)
 - TPC delivers three-dimensional track information 
 - The UAr TPC operates in a two-phase mode, utilizing both the liquid and gas phases of [[Argon]]
-- An acrylic vessel will be used to confine the UAr rather than a metallic vessel, since acrylic is extremely pure, with a residual neutron background estimated to be as low as <10−3 100 t yr^−1 [[TDR_DarkSide-20k (updated).pdf]]
+- An acrylic vessel will be used to confine the UAr rather than a metallic vessel, since acrylic is extremely pure, with a residual neutron background estimated to be as low as <10−3 100 t yr^−1 [[DarkSide-20k Prelim.pdf]]
 -   Uses e&B fields to reconstruct the particles trajectory or interaction
 -   Can detect both the scintillation light and the ionization electrons produced by recoiling nuclei due to properties of [[Argon]]
 -   Need high detection efficiency for nuclear recoil events
@@ -19,7 +19,10 @@
 -  Homogeneous electric field running along the axis of the cylinder established between anode and cathode plates on top and bottom of the chamber
 	-   There are independent electric fields between the grid and anode which creates the fields to extract the electrons into the gas and accelerate them to create a secondary scintillation called electroluminescence which gives S2 signal
 
-![[TPC Structure.png]]
+![[TPC Structure.png|500]]
+
+Current TPC geometry (as of [[DarkSide-20k Prelim.pdf]]):
+![[TPC Geometry.png|700]]
 
 ## Measurements
 Two main types of interactions:
@@ -27,4 +30,4 @@ Two main types of interactions:
 - Also have Electron [[Recoils]]
 
 ## References
-[[CERN-PH-EP-2010-047.pdf]]
+[[TPC in depth.pdf]]

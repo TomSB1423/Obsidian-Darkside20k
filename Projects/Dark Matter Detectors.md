@@ -7,7 +7,7 @@
 -   Liquid argon detectors
 	-   [[DarkSide Collaboration]]
 
-![[dark matter experiments.png]]
+![[Dark matter experiments.png]]
 Not sure where this image is from ^
 
 Also have [[DUNE]] (Deep Underground Neutron Experiment) although this isn't a dark matter detector - it is similar to our project task

@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "5909771ad5bf36b6",
+    "id": "026a2ea01caf3559",
     "type": "split",
     "children": [
       {
-        "id": "7b50b6e8a623c01e",
+        "id": "1978b684add45b33",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "logs.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9cb61fac939bd30f",
+    "id": "377ed562849bdcf6",
     "type": "split",
     "children": [
       {
-        "id": "679f0dab3465ef70",
+        "id": "b18e715052739843",
         "type": "tabs",
         "children": [
           {
-            "id": "af5287fc3125d52e",
+            "id": "8b5382325651706b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +35,12 @@
             }
           },
           {
-            "id": "761c740d89858024",
+            "id": "d846f23b1ffb3310",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "aim",
+                "query": "cage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,18 +53,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362
+    "width": 344
   },
   "right": {
-    "id": "4dbc2e97e2489e74",
+    "id": "dcaeacbdcd2b9837",
     "type": "split",
     "children": [
       {
-        "id": "cf0fe3fdb5f5ed30",
+        "id": "7be20fe44a601b94",
         "type": "tabs",
         "children": [
           {
-            "id": "577b58a0eb2faa63",
+            "id": "44fe7b2fbf72c96d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -80,7 +81,15 @@
             }
           },
           {
-            "id": "627ad4099b37ee9b",
+            "id": "44936264cb5fa557",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a81b33b1ca99c4b",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -95,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b50b6e8a623c01e",
+  "active": "1978b684add45b33",
   "lastOpenFiles": [
     "logs.md",
-    "Meeting Notes/Week 9.md",
-    "Meeting Notes/Week 8.md",
-    "Meeting Notes/Week 7.md",
-    "Projects/Liquid xenon detectors.md",
-    "General Information/Interim report.md",
-    "General Information/Project Task.md",
-    "General Information/Notes whilst writing interim.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md",
-    "conflict-files-obsidian-git.md"
+    "README.md",
+    "unlinked files output.md",
+    "Untitled.md",
+    "assets/photos/Meeting 221121 1.png",
+    "assets/photos/TPC Structure.png",
+    "assets/photos/TPC Geometry.png",
+    "assets/photos/Meeting 091121 1.jpg",
+    "assets/photos/Dark matter experiments.png",
+    "Projects/Darkside-20k/Detectors/TPC.md"
   ]
 }

@@ -1,4 +1,4 @@
-Distinguishing between electron/nuclear recoil with S1 and S2 signals: [[DarrenPrice_DMUK_DarkSide20k.pdf#page=6]]
+Distinguishing between electron/nuclear recoil with S1 and S2 signals: [[DarrenPrice intro ppt.pdf#page=6]]
 S1 signals:
 	Photon flash
 	Recombination at source
@@ -15,7 +15,7 @@ Nuclear recoils:
 	More photons?
 	less electrons?
 
-Dual Phase TPC [[Paolo Agnes - pagnes_DMUK21.pdf#page=4]]
+Dual Phase TPC [[Paolo Agnes intro ppt.pdf#page=4]]
 	2 discrimination methods:
 		PSD - looking at decay constant of S1
 		Ratio of S1 & S2

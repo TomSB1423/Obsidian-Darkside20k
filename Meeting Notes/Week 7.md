@@ -17,5 +17,5 @@ S1 signal only releases 128nm no matter recombination method (for argon)
 
 Look at scintillators in general
 
-- In principle more energy going into S1 than S2 as takes less energy to produce S1, why?
-	- 
+In principle more energy going into S1 than S2 as takes less energy to produce S1, why?
+	Knowledge not really needed
