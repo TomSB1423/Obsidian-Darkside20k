@@ -5,6 +5,7 @@
 	- https://arxiv.org/pdf/1507.03800.pdf
 	- [Indirect detection refers to astrophysical signals?](https://physics.stackexchange.com/questions/587038/direct-and-in-direct-measurments)
 - Might be worth taking a look at the cross section, also maybe take figure on p35/38: https://s3.cern.ch/inspire-prod-files-e/e4a72b7ea77289ca3eaa2e4d4f7184e3
+- Very nice thesis on DS-50 and a bit of DS-20k: https://escholarship.org/content/qt5p7086cx/qt5p7086cx_noSplash_5151f65c91440239beca314e11ab43b9.pdf
 
 ## Words to use
 - non-luminous
