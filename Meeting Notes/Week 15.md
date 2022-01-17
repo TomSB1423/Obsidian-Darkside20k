@@ -5,7 +5,7 @@
 - Electron recoil for low energy WIMPS
 - Mainly looking for beta decay as alpha decay not likey as isotopes have low mass
 - Then once identified the main isotopes to look for simulate again with same geometry however now with that isotope distributed as expected and see is significant to WIMP detection
-- batch selection: slorm? (SCRTP wiki)
+- batch selection: slurm? (SCRTP wiki)
 	- sq command - lists every schedule on all command
 
 
