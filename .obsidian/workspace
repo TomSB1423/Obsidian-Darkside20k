@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 275
   },
   "right": {
     "id": "dcaeacbdcd2b9837",
@@ -107,6 +107,7 @@
   "active": "1978b684add45b33",
   "lastOpenFiles": [
     "Meeting Notes/Week 16.md",
+    "Meeting Notes/Week 15.md",
     "logs.md",
     "README.md",
     "unlinked files output.md",
@@ -114,7 +115,6 @@
     "assets/photos/Meeting 221121 1.png",
     "assets/photos/TPC Structure.png",
     "assets/photos/TPC Geometry.png",
-    "assets/photos/Meeting 091121 1.jpg",
-    "assets/photos/Dark matter experiments.png"
+    "assets/photos/Meeting 091121 1.jpg"
   ]
 }
