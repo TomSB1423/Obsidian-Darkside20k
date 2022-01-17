@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "logs.md",
+            "file": "Term 2 Logs.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs.md",
+                "file": "Term 2 Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,16 +97,16 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "1978b684add45b33",
   "lastOpenFiles": [
-    "logs.md",
+    "Term 2 Logs.md",
+    "Term 1 Logs.md",
     "README.md",
     "unlinked files output.md",
     "Untitled.md",
@@ -114,7 +114,6 @@
     "assets/photos/TPC Structure.png",
     "assets/photos/TPC Geometry.png",
     "assets/photos/Meeting 091121 1.jpg",
-    "assets/photos/Dark matter experiments.png",
-    "Projects/Darkside-20k/Detectors/TPC.md"
+    "assets/photos/Dark matter experiments.png"
   ]
 }
