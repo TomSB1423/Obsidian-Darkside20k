@@ -6,7 +6,6 @@
 	- Look at production yields per muon
 	- Could normalise to the mass of the volume -> per kg of argon, but not too useful as this is constant
 		- Could relate to Argo experiment
-	- 
 
 - Root TChain inherits from TTree
 	- Look up specific examples -> best way of learning

@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -107,6 +107,7 @@
   "active": "1978b684add45b33",
   "lastOpenFiles": [
     "Meeting Notes/Week 16.md",
+    "Meeting Notes/Term 2 Logs.md",
     "Meeting Notes/Week 15.md",
     "logs.md",
     "README.md",
@@ -114,7 +115,6 @@
     "Untitled.md",
     "assets/photos/Meeting 221121 1.png",
     "assets/photos/TPC Structure.png",
-    "assets/photos/TPC Geometry.png",
-    "assets/photos/Meeting 091121 1.jpg"
+    "assets/photos/TPC Geometry.png"
   ]
 }
