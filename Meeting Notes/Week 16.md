@@ -1,2 +1,12 @@
 - Writing our own ROOT files
-- 
+	- Identify isotopes
+	- Classify into long lived and short lived ~ look at experiment definition
+- Root TChain inherits from TTree
+	- Look up specific examples -> best way of learning
+- Root also has a visual method -> `StartViewer()`
+	- Though will want to write about code rather than viewer in the report
+- Simulations so far are purely production simulations
+	- Write ions produced from muon decays to disk
+	- No tracking of the history
+- Time information is useful in determining if dangerous or not
+	- 
