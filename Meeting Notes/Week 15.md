@@ -9,5 +9,19 @@ Then once identified the main isotopes to look for simulate again with same geom
 batch selection: slorm (SCRTP wiki)
 	sq command - lists every schedule on all command
 
-Teams instructions:
-![[Pasted image 20220117110809.png | 1000]]
+
+Recommends sticking with C++
+
+Can find simulation outputs at `/storage/epp2/phsdaq/MuOnArgon/`
+- `batch` contains an example ROOT script
+
+In order to use root:
+- Load modules
+	- `module use /warwick/epp/modules`
+	- `module load linuxbrew/supernemo`
+- Start ROOT:
+	- `root`
+- Load the Script:
+	- `.L analyseRootOutput`
+- Call methods:
+- `fullSummary("fnames.txt")`
