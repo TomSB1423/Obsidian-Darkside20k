@@ -21,6 +21,6 @@ In order to use root:
 - Start ROOT:
 	- `root`
 - Load the Script:
-	- `.L analyseRootOutput`
+	- `.L analyseRootOutput.C`
 - Call methods:
 - `fullSummary("fnames.txt")`
