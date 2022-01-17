@@ -10,3 +10,4 @@ batch selection: slorm (SCRTP wiki)
 	sq command - lists every schedule on all command
 
 Teams instructions:
+![[Pasted image 20220117110809.png | 1000]]
