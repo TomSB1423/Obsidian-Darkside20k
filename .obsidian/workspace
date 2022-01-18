@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Week 15.md",
+            "file": "Meeting Notes/Term 2 Logs.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Week 15.md",
+                "file": "Meeting Notes/Term 2 Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,19 +96,17 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "1978b684add45b33",
   "lastOpenFiles": [
+    "Meeting Notes/Term 2 Logs.md",
     "Meeting Notes/Week 15.md",
     "Meeting Notes/Week 16.md",
-    "Meeting Notes/Term 2 Logs.md",
     "logs.md",
     "README.md",
     "unlinked files output.md",
