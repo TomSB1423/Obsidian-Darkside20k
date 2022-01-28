@@ -9,8 +9,8 @@
 |         | 18/01/22 |   2   | Working on example root file, sent query to Yorck                                              |                             |
 | Week 3  |          |       |                                                                                                |                             |
 |         | 24/01/22 |   1   | Meeting                                                                                        |                             |
-|         | 28/01/22 |   3   | Working on editing ROOT files in order to generate a list of all isotopes produced             |                             |
-|         |          |       |                                                                                                |                             |
+|         | 28/01/22 |   5   | Working on editing ROOT files in order to generate a list of all isotopes produced             |                             |
+|         | 29/01/22 |   2   | Looking at TChain & TCanvas classes                                                            |                             |
 |         |          |       |                                                                                                |                             |
 | Week 4  |          |       |                                                                                                |                             |
 |         |          |       |                                                                                                |                             |

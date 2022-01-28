@@ -6,3 +6,4 @@
 
 Very useful website -> all isotopes chart: https://wwwndc.jaea.go.jp/CN14/index.html
 For finding isotopes with Z&N number: https://physics.stackexchange.com/questions/116889/computer-parsable-table-of-nuclides & https://github.com/jhykes/nuclide-data
+

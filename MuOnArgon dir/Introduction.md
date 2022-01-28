@@ -16,11 +16,6 @@
             ├── 3629991_10.out
 			...
 
-#question What is the difference between logs and data?
-#question What does the Score mean when using TChain?
-#question How to draw the TPC detector volume using TCanvas -> https://root.cern.ch/doc/master/classTGeometry.html
-
-
 ## Example log file:
 ![[assets/photos/example_log.txt]]
 
