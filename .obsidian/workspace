@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1978b684add45b33",
+        "id": "85ed587ecc34852d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Meeting Notes/Week 16.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cage",
+                "query": "argon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Week 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1978b684add45b33",
+  "active": "85ed587ecc34852d",
   "lastOpenFiles": [
-    "Meeting Notes/Week 16.md",
+    "Meeting Notes/Term 2/Week 3.md",
+    "Projects/Darkside-20k/Detectors/Argon.md",
+    "MuOnArgon dir/Introduction.md",
+    "Meeting Notes/Term 2/Week 2.md",
+    "Meeting Notes/Term 2/Week 1.md",
+    "Meeting Notes/Term 1/Term 2 Logs.md",
+    "Meeting Notes/Term 1/Term 1 Logs.md",
     "conflict-files-obsidian-git.md",
-    "Meeting Notes/Week 15.md",
-    "Meeting Notes/Term 2 Logs.md",
     "logs.md",
-    "README.md",
-    "unlinked files output.md",
-    "Untitled.md",
-    "assets/photos/Meeting 221121 1.png",
-    "assets/photos/TPC Structure.png"
+    "README.md"
   ]
 }
