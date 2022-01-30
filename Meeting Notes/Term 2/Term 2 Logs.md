@@ -11,7 +11,7 @@
 |         | 24/01/22 |   1   | Meeting                                                                                        |                             |
 |         | 28/01/22 |   5   | Working on editing ROOT files in order to generate a list of all isotopes produced             |                             |
 |         | 29/01/22 |   2   | Looking at TChain & TCanvas classes                                                            |                             |
-|         |          |       |                                                                                                |                             |
+|         | 30/01/22 |   1   | Added output to file with ROOT & working on location (if counted in TPC or not)                |                             |
 | Week 4  |          |       |                                                                                                |                             |
 |         |          |       |                                                                                                |                             |
 |         |          |       |                                                                                                |                             |
