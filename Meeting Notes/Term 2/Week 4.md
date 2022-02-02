@@ -14,7 +14,7 @@ Table generated:
 	- EventAction -> Data saved to disc, have a look at details
 
 
-## Quea
+## Questions
 - #question What is the difference between logs and data?
 	- logs are just print statments
 - #question What does the Score mean when using TChain?
@@ -34,3 +34,6 @@ Table generated:
 
 
 Into to ROOT: [[https://www.phenix.bnl.gov/phenix/WWW/publish/tlthomas/GettingStarted.htm]]
+
+## TODO
+- [] Get detector location working
