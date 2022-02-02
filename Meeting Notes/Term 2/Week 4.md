@@ -35,5 +35,11 @@ Table generated:
 
 Into to ROOT: [[https://www.phenix.bnl.gov/phenix/WWW/publish/tlthomas/GettingStarted.htm]]
 
-## TODO
-- [] Get detector location working
+## TODO:
+- [ ] Look at DUNE paper - read all of it again
+	- [ ] Make list of main points covered in paper
+- [ ] Get detector location output working
+	- [ ] Investigate different products dependent on location
+- [ ] Play around with TBrowser & Histograms
+- [ ] Get detector yield per muon & per day
+	- [ ] 
