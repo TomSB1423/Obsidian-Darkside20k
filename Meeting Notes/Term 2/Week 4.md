@@ -9,4 +9,5 @@ Table generated:
 - #question Can we go over why both electron and nuclear recoils are important?
 - #question What are volume codes?
 ![[Pasted image 20220130225905.png|300]]
-- 
+- How to histogram
+	- `chScore->Draw("IonA")``
