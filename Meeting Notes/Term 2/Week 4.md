@@ -30,4 +30,16 @@ Table generated:
 - These are the `VCode` in ROOT
 - How to histogram
 	- Pass string (Some commands) or  TCut object
-	- `chScore->Draw("IonA")``
+	- `chScore->Draw("IonA")`
+
+
+Into to ROOT: [[https://www.phenix.bnl.gov/phenix/WWW/publish/tlthomas/GettingStarted.htm]]
+
+## TODO:
+- [ ] Look at DUNE paper - read all of it again
+	- [ ] Make list of main points covered in paper
+- [ ] Get detector location output working
+	- [ ] Investigate different products dependent on location
+- [ ] Play around with TBrowser & Histograms
+- [ ] Get detector yield per muon & per day
+	- [ ] 
