@@ -14,7 +14,7 @@ Table generated:
 	- EventAction -> Data saved to disc, have a look at details
 
 
-## Quea
+## Questions
 - #question What is the difference between logs and data?
 	- logs are just print statments
 - #question What does the Score mean when using TChain?
