@@ -1,2 +1,3 @@
 - #question Can we go over why both electron and nuclear recoils are important?
-	- 
+- Tried opening GDML file however got segmentation fault
+	- https://root-forum.cern.ch/t/error-when-visualizing-geometry-in-gdml-format-with-tgeomanager/19580
