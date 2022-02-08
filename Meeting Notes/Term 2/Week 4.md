@@ -16,7 +16,7 @@ Table generated:
 
 ## Questions
 - #question What is the difference between logs and data?
-	- logs are just print statments
+	- logs are just print statements
 - #question What does the Score mean when using TChain?
 	- Just the name of the object
 - #question How to draw the TPC detector volume using TCanvas -> https://root.cern.ch/doc/master/classTGeometry.html
@@ -26,8 +26,8 @@ Table generated:
 - #question How to identify volume hit location in
 	- VCode
 - #question What are volume codes?
+	- These are the `VCode` in ROOT
 ![[Pasted image 20220130225905.png|300]]
-- These are the `VCode` in ROOT
 - How to histogram
 	- Pass string (Some commands) or  TCut object
 	- `chScore->Draw("IonA")`
