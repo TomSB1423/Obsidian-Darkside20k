@@ -42,4 +42,3 @@ Into to ROOT: [[https://www.phenix.bnl.gov/phenix/WWW/publish/tlthomas/GettingSt
 	- [ ] Investigate different products dependent on location
 - [ ] Play around with TBrowser & Histograms
 - [ ] Get detector yield per muon & per day
-	- [ ] 
