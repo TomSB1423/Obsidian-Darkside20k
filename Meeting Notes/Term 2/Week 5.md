@@ -11,4 +11,6 @@
 	- ![[Pasted image 20220208182705.png|900]]
 	- Only one count in total though?
 	- However lots of calcium and potassium
-	- Loads made as 
+	- Loads made as delayed rather than prompt
+		- ![[Pasted image 20220208184123.png|400]]
+		- 
