@@ -4,6 +4,6 @@
 	- However tried again and got:
 	- ![[Pasted image 20220208145423.png|900]]
 
-- Found this [site](https://root.cern/doc/master/classROOT_1_1RDataFrame.html) for intro to histograms
+- Found this [better site](https://root.cern/doc/master/classTTree.html#ac4016b174665a086fe16695aad3356e2) & [site](https://root.cern/doc/master/classROOT_1_1RDataFrame.html) for intro to histograms
 - 
 	
