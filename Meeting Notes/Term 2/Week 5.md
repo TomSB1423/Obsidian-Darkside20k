@@ -7,6 +7,8 @@
 - Found this [better site](https://root.cern/doc/master/classTTree.html#ac4016b174665a086fe16695aad3356e2) & [site](https://root.cern/doc/master/classROOT_1_1RDataFrame.html) for intro to histograms
 - Trying to work out how to draw two plots on the same histogram
 	- ![[Pasted image 20220208180105.png|500]]
-	- 
-	- 
-	
+- How is there scandium as a delayed event inside the TPC?
+	- ![[Pasted image 20220208182705.png|900]]
+	- Only one count in total though?
+	- However lots of calcium and potassium
+	- Loads made as 
