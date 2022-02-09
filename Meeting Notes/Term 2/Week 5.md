@@ -28,6 +28,8 @@
 
 
 ## Meeting
-- #question Can we go over why both electron and nuclear recoils are important?
-- #question Point 3. about scandium and potassium
-- 
+- Can we go over why both electron and nuclear recoils are important?
+- Point 3. about scandium and potassium
+- TGeoManager
+	- Are different "modes" to view the geometry
+	- Manipulate world volume with a mouse
