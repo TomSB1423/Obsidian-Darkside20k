@@ -9,13 +9,13 @@
 |         | 18/01/22 |   2   | Working on example root file, sent query to Yorck                                              |                             |
 | Week 3  |          |       |                                                                                                |                             |
 |         | 24/01/22 |   1   | Meeting                                                                                        |                             |
-|         | 28/01/22 |   5   | Working on editing ROOT files in order to generate a list of all isotopes produced             |                             |
+|         | 28/01/22 |   4   | Working on editing ROOT files in order to generate a list of all isotopes produced             |                             |
 |         | 29/01/22 |   2   | Looking at TChain & TCanvas classes                                                            |                             |
 |         | 30/01/22 |   1   | Added output to file with ROOT & working on location (if counted in TPC or not)                |                             |
 | Week 4  |          |       |                                                                                                |                             |
-|         |          |       |                                                                                                |                             |
-|         |          |       |                                                                                                |                             |
-|         |          |       |                                                                                                |                             |
+|         | 02/02/22 |   2   | Played around with histograms trying to do multi-plots                                         |                             |
+|         | 03/02/22 |   2   | Tried opening GDML file but only got a cube, so worked on TPC prompt/delayed events            |                             |
+|         | 04/02/22 |   2   | Reading DUNE paper again and seeing how my results match theirs                                |                             |
 | Week 5  |          |       |                                                                                                |                             |
 |         |          |       |                                                                                                |                             |
 |         |          |       |                                                                                                |                             |
