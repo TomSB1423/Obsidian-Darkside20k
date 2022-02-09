@@ -33,3 +33,5 @@
 - TGeoManager
 	- Are different "modes" to view the geometry
 	- Manipulate world volume with a mouse
+	- Can draw wireframe
+	- only need to draw the sensitive volume to hits
