@@ -28,7 +28,7 @@
 
 
 ## Meeting
-- Can we go over why both electron and nuclear recoils are important?
+
 - Point 3. about scandium and potassium
 - TGeoManager
 	- Are different "modes" to view the geometry
@@ -41,8 +41,11 @@ T vector of mass numbers
 
 
 - New trajectory is factor 10 less (10^7) than for before
-	- End product is always an ion
-	- Start is a muon
+	- End product is always an ion & Start is a muon
+	- Will have lots of particle produced
 	- Fixed eventId is the same for every row
-	- Draw points for interaction locations and draw a line
-	- 
+	- Plot this
+		- Draw points for interaction locations and draw a line
+		- Don't plot all of them
+		- Try going only one step back in the decay
+	-  [Particle data code](https://pdg.lbl.gov/) - muon = 13
