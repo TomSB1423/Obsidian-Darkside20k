@@ -38,3 +38,11 @@
 
 
 T vector of mass numbers 
+
+
+- New trajectory is factor 10 less (10^7) than for before
+	- End product is always an ion
+	- Start is a muon
+	- Fixed eventId is the same for every row
+	- Draw points for interaction locations and draw a line
+	- 
