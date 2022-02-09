@@ -37,6 +37,7 @@
 	- only need to draw the sensitive volume to hits
 
 
+Print to screen if high mass appear
 T vector of mass numbers 
 
 
@@ -44,8 +45,11 @@ T vector of mass numbers
 	- End product is always an ion & Start is a muon
 	- Will have lots of particle produced
 	- Fixed eventId is the same for every row
-	- Plot this
+	- Plot this (try using TGeoManager)
 		- Draw points for interaction locations and draw a line
 		- Don't plot all of them
 		- Try going only one step back in the decay
 	-  [Particle data code](https://pdg.lbl.gov/) - muon = 13
+	- Test this works
+		- Print Z, A and PDG and this should be consistent over all
+	
