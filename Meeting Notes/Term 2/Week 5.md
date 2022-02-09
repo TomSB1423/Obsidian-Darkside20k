@@ -35,3 +35,6 @@
 	- Manipulate world volume with a mouse
 	- Can draw wireframe
 	- only need to draw the sensitive volume to hits
+
+
+T vector of mass numbers 
