@@ -5,3 +5,5 @@
 
 ## Meeting
 - Can we go over why both electron and nuclear recoils are important?
+- What conclusions can we draw from these results
+- 
