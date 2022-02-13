@@ -42,7 +42,7 @@ T vector of mass numbers
 
 
 - New trajectory is factor 10 less (10^7) than for before
-	- End product is always an ion & Start is a muon
+	- End product is always an ion & start is a muon
 	- Will have lots of particle produced
 	- Fixed eventId is the same for every row
 	- Plot this (try using TGeoManager)
