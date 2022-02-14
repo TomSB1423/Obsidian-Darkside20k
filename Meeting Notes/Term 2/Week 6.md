@@ -7,4 +7,4 @@
 ## Meeting
 - Can we go over why both electron and nuclear recoils are important?
 - What conclusions can we draw from these results
-- 
+- What is the difference between a track and their daughter track in the ROOT files
