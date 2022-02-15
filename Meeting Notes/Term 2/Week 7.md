@@ -1,6 +1,6 @@
 ## Work Done
 ### Tables generated:
-- [Complete isotope volume + counts](https://imgur.com/a/wuS3Uxf)
+- [Complete isotope volume + counts](https://imgur.com/a/iUBAEtp)
 - Prompt TPC - not too much an issue as are ignored due to deadtime
 	- [Prompt TPC counts](https://imgur.com/a/u417TAB)
 - Look for beta decay + excess yields
