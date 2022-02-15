@@ -13,3 +13,6 @@
 ### Conclusions
 - Found no Tritium anywhere! -> speak to Yorck about this
 - No Isomeric transition for any decay -> no high energy gamma rays released anywhere
+	- But could it just be possible that an ion is created and recombination creates a gamma ray?
+	- Nothing to worry about in the outer buffer?
+- 
