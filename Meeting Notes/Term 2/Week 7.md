@@ -8,7 +8,7 @@
 - Look for high energy gamma in outer buffers:
 	- [Buffers (prompt + delayed)](https://imgur.com/a/mkr9Toa)
 
-![[Pasted image 20220215160316.png|600]]
+![[WC-Format.pdf]]
 
 ### Conclusions
 - Found no Tritium anywhere! -> speak to Yorck about this
