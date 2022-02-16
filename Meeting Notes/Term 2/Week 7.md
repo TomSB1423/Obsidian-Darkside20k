@@ -26,5 +26,8 @@
 	- ![[Pasted image 20220216144940.png|900]]
 		- Are these high or not?
 	- Looking for excess yields
-		- Lots of potassium
-		- 
+		- Lots of potassium, 10% production yield -> but this is stable
+- 5
+
+# Meeting
+- What would be a good way to narrow down the tables, production yields?
