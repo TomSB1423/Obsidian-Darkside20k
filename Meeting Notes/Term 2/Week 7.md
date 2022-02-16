@@ -21,3 +21,4 @@
 - Total counts pretty much split into thirds over 3 different volumes:
 	- ![[Pasted image 20220208184210.png|400]]
 - By using 3 volumes and ignoring all prompt events can excluded ~84.11% of events ($1-(27.7\% * 57.2\%)$)
+- Buffers high qvalues:
