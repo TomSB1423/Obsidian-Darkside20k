@@ -24,4 +24,6 @@
 	- ![[Pasted image 20220208184210.png|400]]
 - Buffers high q-values:
 	- ![[Pasted image 20220216144940.png|900]]
-	- 
+		- Are these high or not?
+	- Looking for excess yields
+		- Notice that all 
