@@ -12,7 +12,12 @@
 
 ### Conclusions
 - Found no Tritium anywhere! -> speak to Yorck about this
+	- Other physics models -> currently use Shielding model
 - No Isomeric transition for any decay -> no high energy gamma rays released anywhere
 	- But could it just be possible that an ion is created and recombination creates a gamma ray?
-	- Nothing to worry about in the outer buffer?
-- 
+	- Does this mean nothing to worry about in the outer buffer?
+- Delayed vs prompt split
+	- ![[Pasted image 20220208184123.png|400]]
+- Total counts pretty much split into thirds over 3 different volumes:
+	- ![[Pasted image 20220208184210.png|400]]
+- By using 3 volumes and ignoring all prompt events can excluded ~84.11% of events ($1-(27.7\% * 57.2\%)$)
