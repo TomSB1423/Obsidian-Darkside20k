@@ -33,7 +33,7 @@
 - Subsequent geant4 simulations were run with different physics models
 
 # Results
-- What errors do we have?
+- Ask Yorck what errors do we have?
 - Look at DUNE
 - Show table & comment on relative abundances
 	- Only highest yields
@@ -42,7 +42,10 @@
 	- Prompt doesn't mean anything
 	- delayed
 	- percentage rejected
+
+### Tritium production
 - No tritium produced
 	- Insight into xenon1 experiment - might not be from muons
 	- So extra simulations run with different physics models
-	- 
+
+# Conclusions
