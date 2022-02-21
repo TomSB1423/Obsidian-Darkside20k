@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "right": {
     "id": "dcaeacbdcd2b9837",
@@ -102,15 +101,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "85ed587ecc34852d",
   "lastOpenFiles": [
     "Meeting Notes/Term 2/Week 7.md",
+    "Meeting Notes/Term 2/Week 6.md",
     "Meeting Notes/Term 2/Week 4.md",
     "Meeting Notes/Term 2/Week 5.md",
-    "Meeting Notes/Term 2/Week 6.md",
     "conflict-files-obsidian-git.md",
     "Meeting Notes/Term 2/Term 2 Logs.md",
     "Meeting Notes/Term 2/Week 3.md",
