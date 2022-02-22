@@ -19,6 +19,7 @@
 [[WC-Format.pdf]]
 
 ### Conclusions
+
 - Found no Tritium anywhere! -> speak to Yorck about this
   - Other physics models -> currently use Shielding model
 - No Isomeric transition for any decay -> no high energy gamma rays released anywhere
@@ -45,7 +46,7 @@
   ![[Pasted image 20220221141637.png]]
 
 - $1*10^{16} ns$ is about the upper limit in half life for anything reasonable
-- Could think about plotting theoretical decay spectras of different important isotopes
+- Could think about plotting theoretical decay spectra of different important isotopes
 -
 
 # Meeting
@@ -54,3 +55,14 @@
   - How to classify production yield? Is it the total volume, or just TPC?
 - Organise a time to go through interim report
 - Why do we ignore neutrino background?
+
+
+#### Suggestions
+- Look for activity -> look this formula up
+	- Also production yield per year
+- Work out how many years the simulation was using 1x10^7 muons and their flux
+	- I should also hand over the muon flux underground at Gran Sasso: (3.477+-0.002)10^-4 m^-2 s^-1 GERDA collaboration, Astropart. Phys. 84 (2016) 29 The simulation muon source area is a circle with radius 10 m, i.e. 314.159 m^2 area, giving you 3.447e6 muons per year, our 1e8 simulated hence correspond to 29.01 years.
+- less than 1 event per year on nuclear recoils
+- Select isotopes for next week
+- A further simulation can select dangerous isotopes, evenly distribute them over the TPC and then run a simulation for gamma rays writing their energy deposition to disk and seeing which contribute to WIMP signals
+- Look up low background errors
