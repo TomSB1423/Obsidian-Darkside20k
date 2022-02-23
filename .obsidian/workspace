@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Darkside-20k/Detectors/TPC.md",
+            "file": "Meeting Notes/Term 2/Week 8.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Darkside-20k/Detectors/TPC.md",
+                "file": "Meeting Notes/Term 2/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +106,10 @@
   },
   "active": "85ed587ecc34852d",
   "lastOpenFiles": [
+    "Meeting Notes/Term 2/Week 8.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "General Information/Project Task.md",
     "Projects/Liquid xenon detectors.md",
-    "Meeting Notes/Term 2/Week 8.md",
     "Meeting Notes/Term 2/Week 7.md",
     "Meeting Notes/Term 2/Week 4.md",
     "Projects/Darkside-20k/Measurements/Recoils.md",
