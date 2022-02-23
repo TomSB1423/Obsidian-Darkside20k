@@ -7,7 +7,7 @@ General structure:
 - Inner [[TPC]]
 
 A comprehensive list made from outside → inside:
-Look at [[Week 8]]
+Look at [[Meeting Notes/Term 1/Week 8]]
 -   Outer ProtoDUNE-like cryostat to contain temperature (LAr)
 	-   With passive argon buffer
 -   Acrylic shell

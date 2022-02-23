@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Term 2/Week 7.md",
+            "file": "Meeting Notes/Term 2/Week 8.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Term 2/Week 7.md",
+                "file": "Meeting Notes/Term 2/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "85ed587ecc34852d",
   "lastOpenFiles": [
+    "Meeting Notes/Term 2/Week 8.md",
     "Meeting Notes/Term 2/Week 7.md",
     "Meeting Notes/Term 2/Week 4.md",
     "Projects/Darkside-20k/Measurements/Recoils.md",
@@ -114,7 +115,6 @@
     "Meeting Notes/Term 2/Week 5.md",
     "General Information/Final Project Plan.md",
     "Projects/Darkside-20k/Measurements/PSD.md",
-    "conflict-files-obsidian-git.md",
-    "Meeting Notes/Term 2/Week 6.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
