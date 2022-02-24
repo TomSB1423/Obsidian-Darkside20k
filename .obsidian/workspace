@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Meeting Notes/Term 2/Week 7.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c0360b76ddee61a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Meeting Notes/Term 2/Week 8.md",
             "mode": "source",
             "source": false
@@ -104,13 +116,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85ed587ecc34852d",
+  "active": "c0360b76ddee61a7",
   "lastOpenFiles": [
     "Meeting Notes/Term 2/Week 8.md",
+    "Meeting Notes/Term 2/Week 7.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "General Information/Project Task.md",
     "Projects/Liquid xenon detectors.md",
-    "Meeting Notes/Term 2/Week 7.md",
     "Meeting Notes/Term 2/Week 4.md",
     "Projects/Darkside-20k/Measurements/Recoils.md",
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
