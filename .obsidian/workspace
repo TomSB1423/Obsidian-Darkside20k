@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Term 2/Week 8.md",
+                "file": "Meeting Notes/Term 2/Week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c0360b76ddee61a7",
+  "active": "85ed587ecc34852d",
   "lastOpenFiles": [
-    "Meeting Notes/Term 2/Week 8.md",
     "Meeting Notes/Term 2/Week 7.md",
+    "Meeting Notes/Term 2/Week 8.md",
+    "Meeting Notes/Term 2/Week 6.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "General Information/Project Task.md",
     "Projects/Liquid xenon detectors.md",
     "Meeting Notes/Term 2/Week 4.md",
     "Projects/Darkside-20k/Measurements/Recoils.md",
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "Meeting Notes/Term 2/Term 2 Logs.md",
-    "Meeting Notes/Term 2/Week 5.md"
+    "Meeting Notes/Term 2/Term 2 Logs.md"
   ]
 }
