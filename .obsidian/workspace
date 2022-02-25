@@ -7,9 +7,11 @@
         "id": "85ed587ecc34852d",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assets/pdf/DarkSide-20k technical.pdf"
+            "file": "Meeting Notes/Term 2/Week 5.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/DarkSide-20k technical.pdf",
+                "file": "Meeting Notes/Term 2/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +118,15 @@
   },
   "active": "85ed587ecc34852d",
   "lastOpenFiles": [
+    "Meeting Notes/Term 2/Week 5.md",
+    "Meeting Notes/Term 2/Week 7.md",
+    "Meeting Notes/Term 2/Week 6.md",
     "assets/pdf/DarkSide-20k technical.pdf",
     "Projects/Darkside-20k/Detectors/Argon.md",
     "Projects/Darkside-20k/Detectors/Location Dependence.md",
     "Projects/Darkside-20k/Detectors/TPC.md",
     "Projects/Darkside-20k/Detectors/Veto.md",
     "Projects/Darkside-20k/Measurements/PSD.md",
-    "Projects/Darkside-20k/Measurements/Recoils.md",
-    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md",
-    "Projects/Darkside-20k/DarkSide-20k.md"
+    "Projects/Darkside-20k/Measurements/Recoils.md"
   ]
 }
