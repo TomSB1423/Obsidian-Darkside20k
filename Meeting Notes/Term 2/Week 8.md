@@ -3,6 +3,8 @@
 ![[Pasted image 20220223153223.png]]
 
 # Meeting
-- Can you do counts per muon? -> there are radioactive isotopes produced
-- Does decays in the TPC cause another prompt/delayed cycle?
+- Does decays in the TPC cause another prompt/delayed cycle or is it only buffers?
+- What is the range of energies we look for? both electron & nuclear recoil
+- What is "no cuts"?
+- 
 
