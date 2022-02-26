@@ -8,5 +8,5 @@
 - What is "no cuts"?
 - Is this correct? How much liquid argon is in the experiment?
 	- The UAr is contained within a sealed titanium vessel, and immersed within a bath of 700 t of 2655 atmospheric liquid argon, AAr
-- 
+- Any recommendations on selecting gammas and varies on intensity
 
