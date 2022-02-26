@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Term 2/Week 5.md",
+            "file": "Projects/Darkside-20k/DarkSide Collaboration.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Term 2/Week 5.md",
+                "file": "Projects/Darkside-20k/DarkSide Collaboration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "85ed587ecc34852d",
   "lastOpenFiles": [
+    "Projects/Darkside-20k/DarkSide Collaboration.md",
+    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
+    "Projects/Darkside-20k/DarkSide-20k.md",
+    "Projects/Dark Matter Detectors.md",
+    "Projects/DUNE.md",
+    "WIMPS/WIMPs.md",
+    "WIMPS/WIMP Interactions.md",
     "Meeting Notes/Term 2/Week 5.md",
     "Meeting Notes/Term 2/Week 7.md",
-    "Meeting Notes/Term 2/Week 6.md",
-    "assets/pdf/DarkSide-20k technical.pdf",
-    "Projects/Darkside-20k/Detectors/Argon.md",
-    "Projects/Darkside-20k/Detectors/Location Dependence.md",
-    "Projects/Darkside-20k/Detectors/TPC.md",
-    "Projects/Darkside-20k/Detectors/Veto.md",
-    "Projects/Darkside-20k/Measurements/PSD.md",
-    "Projects/Darkside-20k/Measurements/Recoils.md"
+    "Meeting Notes/Term 2/Week 6.md"
   ]
 }
