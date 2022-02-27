@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "29676b963756554e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Information/Final Project Plan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Term 2/Week 8.md",
+                "file": "General Information/Final Project Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +116,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85ed587ecc34852d",
+  "active": "29676b963756554e",
   "lastOpenFiles": [
+    "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 8.md",
     "Meeting Notes/Term 2/Week 7.md",
     "Projects/Darkside-20k/DarkSide Collaboration.md",
@@ -114,7 +127,6 @@
     "Projects/Dark Matter Detectors.md",
     "Projects/DUNE.md",
     "WIMPS/WIMPs.md",
-    "WIMPS/WIMP Interactions.md",
-    "Meeting Notes/Term 2/Week 5.md"
+    "WIMPS/WIMP Interactions.md"
   ]
 }
