@@ -23,6 +23,8 @@
 #### WIMP Signatures
 - Are there any more signatures?
 
+### Sensitivity Prospects
+
 ### DarkSide Collaboration
 - Just expand on each section
 
@@ -33,7 +35,7 @@
 - Subsequent geant4 simulations were run with different physics models
 
 # Results
-- Ask Yorck what errors do we have?
+- 
 - Look at DUNE
 - Show table & comment on relative abundances
 	- Only highest yields
