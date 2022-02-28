@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29676b963756554e",
+        "id": "965be1f467de415c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Final Project Plan.md",
+            "file": "Meeting Notes/Term 2/Week 8.md",
             "mode": "source",
             "source": false
           }
         }
-      },
-      {
-        "id": "2e80d42f5f126c74",
-        "type": "split",
-        "children": [
-          {
-            "id": "efe7e675619b3ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Notes/Term 2/Week 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "965be1f467de415c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Notes/Term 2/Week 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
