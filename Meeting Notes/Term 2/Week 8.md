@@ -13,4 +13,7 @@
 - deposit background in the energy region of interest, from threshold to maybe 100 keV
 - Can all prompt isotopes be ignored
 
-- Using figures from the internet in your report?
+- Using figures from the internet in your report
+
+
+- Obviously nuclear reactions to create heavier exotic isotopes
