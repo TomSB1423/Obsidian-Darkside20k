@@ -15,8 +15,8 @@
 - What is the range of energies we look for? both electron & nuclear recoil
 	- 
 - Are we interested in beta decay because of the free electron? -> is this the S2 signal or an S1 too?
+	- 
 - deposit background in the energy region of interest, from threshold to maybe 100 keV
-- Can all prompt isotopes be ignored
 
 - Using figures from the internet in your report
 
