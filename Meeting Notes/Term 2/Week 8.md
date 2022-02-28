@@ -15,8 +15,7 @@
 - What is the range of energies we look for? both electron & nuclear recoil
 	- 
 - Are we interested in beta decay because of the free electron? -> is this the S2 signal or an S1 too?
-	- 
-- deposit background in the energy region of interest, from threshold to maybe 100 keV
+	- nope ionises Argon
 
 - Using figures from the internet in your report
 
@@ -33,3 +32,7 @@
 - Critical assessment of your own research
 
 - Do yields per muon
+
+- Beta decay ionises argon which looks like a WIMP signal - look at ionisation energy of argon
+
+- Geant4 has an agreement of factor ~2 if factor 10 out then something not right
