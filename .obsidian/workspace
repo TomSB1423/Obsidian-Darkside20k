@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "965be1f467de415c",
+        "id": "85ed587ecc34852d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "region",
+                "query": "#question",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341
+    "width": 275
   },
   "right": {
     "id": "dcaeacbdcd2b9837",
@@ -97,24 +97,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "965be1f467de415c",
+  "active": "85ed587ecc34852d",
   "lastOpenFiles": [
     "Meeting Notes/Term 2/Week 8.md",
     "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 7.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md",
-    "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "Projects/Darkside-20k/DarkSide-20k.md",
-    "Projects/Dark Matter Detectors.md",
-    "Projects/DUNE.md",
-    "WIMPS/WIMPs.md",
-    "WIMPS/WIMP Interactions.md"
+    "General Information/Introduction to Dark Matter.md",
+    "General Information/Interim report Plan.md",
+    "Meeting Notes/Term 2/Week 6.md",
+    "Meeting Notes/Term 2/Week 5.md",
+    "General Information/Project Task.md",
+    "Meeting Notes/Term 2/Week 4.md",
+    "MuOnArgon dir/Introduction.md"
   ]
 }
