@@ -42,4 +42,10 @@ Number of unstable isotopes: 54
 
 
 # Meeting
-- How to represent EC, IT, and beta followed by neutron/alpha particle
+- How to represent EC, IT, and beta followed by neutron/alpha particle in table:
+- 
+- Tried plotting energy distribution:
+	- ![[Pasted image 20220302183832.png|500]]
+	- ![[Pasted image 20220302183913.png|500]]
+- 
+- 

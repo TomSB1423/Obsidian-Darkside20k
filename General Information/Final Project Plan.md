@@ -78,9 +78,6 @@
   - ![[Pasted image 20220208184210.png|400]]
 
 - Look at DUNE
-- Show table & comment on relative abundances
-	- Only highest yields
-- muon spallation caused heavier isotopes to form
 - Analysis of Background rejection
 	- Prompt doesn't mean anything
 	- delayed
