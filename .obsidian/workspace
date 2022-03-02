@@ -16,12 +16,14 @@
         }
       },
       {
-        "id": "8ccc83b219a9d863",
+        "id": "88e0c864874db647",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "assets/pdf/WC-Format.pdf"
+            "file": "Meeting Notes/Term 2/Week 9.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/pdf/WC-Format.pdf",
+                "file": "Meeting Notes/Term 2/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +116,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ccc83b219a9d863",
+  "active": "88e0c864874db647",
   "lastOpenFiles": [
+    "Meeting Notes/Term 2/Week 9.md",
     "assets/pdf/WC-Format.pdf",
     "Meeting Notes/Term 2/Week 7.md",
     "Meeting Notes/Term 2/Week 6.md",
@@ -124,7 +127,6 @@
     "Meeting Notes/Term 2/Week 2.md",
     "Meeting Notes/Term 2/Week 1.md",
     "Meeting Notes/Term 2/Week 3.md",
-    "General Information/Final Project Plan.md",
-    "Meeting Notes/Term 2/Week 9.md"
+    "General Information/Final Project Plan.md"
   ]
 }
