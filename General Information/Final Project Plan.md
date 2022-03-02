@@ -67,10 +67,10 @@
 - Found no Tritium anywhere
   - Tritium physics might not be included in geant4 as you need to build the material yourself
   - By default tritium does not decay
-  - Or perhaps alternatively 
-- No Isomeric transition for any decay -> no high energy gamma rays released anywhere
-  - But could it just be possible that an ion is created and recombination creates a gamma ray?
-  - Does this mean nothing to worry about in the outer buffer?
+  - Or perhaps alternatively it has all been used up
+- Gamma rays are going to be produced in buffer
+	- But need to run another genat4 simulation
+	- Would think this would introduce more false detections
 - By using 3 volumes and ignoring all prompt events can excluded ~84.11% of events ($1-(27.7\% * 57.2\%)$)
   - Delayed vs prompt split
     - ![[Pasted image 20220208184123.png|400]]
@@ -85,10 +85,5 @@
 	- Prompt doesn't mean anything
 	- delayed
 	- percentage rejected
-
-### Tritium production
-- No tritium produced
-	- Insight into xenon1 experiment - might not be from muons
-	- So extra simulations run with different physics models
 
 # Conclusions

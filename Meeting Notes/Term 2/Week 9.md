@@ -39,5 +39,7 @@ Number of unstable isotopes: 54
 - ![[Pasted image 20220301161344.png|500]]
 - Didn't make any difference - > Same number of isotopes produced & counts did not change at all
 - Started writing the report & making results tables
+
+
 # Meeting
 - How to represent EC, IT, and beta followed by neutron/alpha particle
