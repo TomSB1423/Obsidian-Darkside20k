@@ -14,6 +14,16 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "8ccc83b219a9d863",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "assets/pdf/WC-Format.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -49,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Final Project Plan.md",
+                "file": "assets/pdf/WC-Format.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3379244e56348593",
+  "active": "8ccc83b219a9d863",
   "lastOpenFiles": [
+    "assets/pdf/WC-Format.pdf",
+    "Meeting Notes/Term 2/Week 7.md",
+    "Meeting Notes/Term 2/Week 6.md",
+    "Meeting Notes/Term 2/Week 5.md",
+    "Meeting Notes/Term 2/Week 4.md",
+    "Meeting Notes/Term 2/Week 2.md",
+    "Meeting Notes/Term 2/Week 1.md",
+    "Meeting Notes/Term 2/Week 3.md",
     "General Information/Final Project Plan.md",
-    "Meeting Notes/Term 2/Week 9.md",
-    "Meeting Notes/Term 2/Week 8.md",
-    "Projects/Darkside-20k/DarkSide Collaboration.md",
-    "Projects/Darkside-20k/DarkSide-20k.md",
-    "Projects/Dark Matter Detectors.md",
-    "Meeting Notes/Term 1/Week 1-5.md",
-    "Meeting Notes/Term 1/Term 1 Logs.md",
-    "Meeting Notes/Term 1/Week 10.md",
-    "Meeting Notes/Term 1/Week 9.md"
+    "Meeting Notes/Term 2/Week 9.md"
   ]
 }
