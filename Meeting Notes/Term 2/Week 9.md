@@ -47,5 +47,7 @@ Number of unstable isotopes: 54
 - Tried plotting energy distribution:
 	- ![[Pasted image 20220302183832.png|500]]
 	- ![[Pasted image 20220302183913.png|500]]
-- 
+- What is muangle
+	- ![[Pasted image 20220302210513.png|500]]
+	- 
 - 
