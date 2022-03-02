@@ -61,9 +61,13 @@
 	- Delayed in TPC
 	- Buffers
 - Compare models
-	- All agree within factor 2 for all isotopes less than
+	- All agree within factor 2 for all isotopes $A<21$ but then differ when looking at higher mass 
+	- Can be confident that muons create lots of isotopes and some may be heavier that argon itself
+	- uncertain about how exotic heavy though
 - Found no Tritium anywhere
-  - Other physics models -> currently use Shielding model
+  - Tritium physics might not be included in geant4 as you need to build the material yourself
+  - By default tritium does not decay
+  - Or perhaps alternatively 
 - No Isomeric transition for any decay -> no high energy gamma rays released anywhere
   - But could it just be possible that an ion is created and recombination creates a gamma ray?
   - Does this mean nothing to worry about in the outer buffer?
