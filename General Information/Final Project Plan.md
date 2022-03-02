@@ -33,18 +33,25 @@
 - Geant4 simulation generates ROOT output
 - Analysed using root and python
 - Subsequent geant4 simulations were run with different physics models
-	- Shielding
-		- Hadronic Component
-	- FTFP_BERT is recommended for collider physics applications
+	- Shielding -> Shielding is recommended for applications for neutron transport.
 		- Hadronic Component
 			- Inelastic models
-			- ### Inelastic cross sections
-			- ### Elastic models
-			- ### Elastic cross sections
-			- ### Capture and stopping#
-		- ## Electromagnetic Component
-		- ## Decay Component
-		- ## Neutron tracking cut
+			- Inelastic cross sections
+			- Elastic models
+			- Elastic cross sections
+			- Capture and stopping
+		- Electromagnetic Component
+		- Decay Component
+	- FTFP_BERT is recommended for collider physics applications. Differs from shielding in elastic cross sections and differing decay components implemented. FTFP also integrates a neutron tracking cut.
+		- Hadronic Component
+			- Inelastic models
+			- Inelastic cross sections
+			- Elastic models
+			- Elastic cross sections
+			- Capture and stopping#
+		- Electromagnetic Component
+		- Decay Component
+		- Neutron tracking cut
 
 
 # Results
@@ -53,6 +60,8 @@
 	- Prompt in TPC
 	- Delayed in TPC
 	- Buffers
+- Compare models
+	- All agree within factor 2 for all isotopes less than
 - Found no Tritium anywhere
   - Other physics models -> currently use Shielding model
 - No Isomeric transition for any decay -> no high energy gamma rays released anywhere
