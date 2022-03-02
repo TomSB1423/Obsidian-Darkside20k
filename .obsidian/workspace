@@ -4,22 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "965be1f467de415c",
+        "id": "3379244e56348593",
         "type": "leaf",
-        "dimension": 46.317739694302915,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Meeting Notes/Term 2/Week 9.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "48fc8a434793f15b",
-        "type": "leaf",
-        "dimension": 53.682260305697085,
         "state": {
           "type": "markdown",
           "state": {
@@ -119,7 +105,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48fc8a434793f15b",
+  "active": "3379244e56348593",
   "lastOpenFiles": [
     "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 9.md",

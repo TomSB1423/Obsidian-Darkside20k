@@ -33,6 +33,19 @@
 - Geant4 simulation generates ROOT output
 - Analysed using root and python
 - Subsequent geant4 simulations were run with different physics models
+	- Shielding
+		- Hadronic Component
+	- FTFP_BERT is recommended for collider physics applications
+		- Hadronic Component
+			- Inelastic models
+			- ### Inelastic cross sections
+			- ### Elastic models
+			- ### Elastic cross sections
+			- ### Capture and stopping#
+		- ## Electromagnetic Component
+		- ## Decay Component
+		- ## Neutron tracking cut
+
 
 # Results
 - Intro
