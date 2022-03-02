@@ -48,7 +48,7 @@
 			- Inelastic cross sections
 			- Elastic models
 			- Elastic cross sections
-			- Capture and stopping#
+			- Capture and stopping
 		- Electromagnetic Component
 		- Decay Component
 		- Neutron tracking cut
