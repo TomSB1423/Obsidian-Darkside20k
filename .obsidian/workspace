@@ -6,10 +6,24 @@
       {
         "id": "965be1f467de415c",
         "type": "leaf",
+        "dimension": 46.317739694302915,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Meeting Notes/Term 2/Week 9.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "48fc8a434793f15b",
+        "type": "leaf",
+        "dimension": 53.682260305697085,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Information/Final Project Plan.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "region",
+                "query": "alpha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Term 2/Week 9.md",
+                "file": "General Information/Final Project Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +119,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "965be1f467de415c",
+  "active": "48fc8a434793f15b",
   "lastOpenFiles": [
+    "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 9.md",
     "Meeting Notes/Term 2/Week 8.md",
     "Projects/Darkside-20k/DarkSide Collaboration.md",
@@ -114,7 +130,6 @@
     "Meeting Notes/Term 1/Week 1-5.md",
     "Meeting Notes/Term 1/Term 1 Logs.md",
     "Meeting Notes/Term 1/Week 10.md",
-    "Meeting Notes/Term 1/Week 9.md",
-    "Meeting Notes/Term 1/Week 6.md"
+    "Meeting Notes/Term 1/Week 9.md"
   ]
 }
