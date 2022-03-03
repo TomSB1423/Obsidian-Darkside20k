@@ -31,6 +31,8 @@
 # Methodology
 - Use parts of interim report + DUNE paper
 - Geant4 simulation generates ROOT output
+- Data kept
+	- 
 - Analysed using root and python
 - Subsequent geant4 simulations were run with different physics models
 	- Shielding -> Shielding is recommended for applications for neutron transport.
