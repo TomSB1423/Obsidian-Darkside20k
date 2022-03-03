@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Term 2/Week 9.md",
+            "file": "Meeting Notes/Term 2/Week 8.md",
             "mode": "source",
             "source": false
           }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341,
-    "collapsed": true
+    "width": 341
   },
   "right": {
     "id": "dcaeacbdcd2b9837",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Final Project Plan.md",
+                "file": "Meeting Notes/Term 2/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3379244e56348593",
+  "active": "88e0c864874db647",
   "lastOpenFiles": [
-    "General Information/Final Project Plan.md",
-    "Meeting Notes/Term 2/Week 9.md",
     "Meeting Notes/Term 2/Week 8.md",
     "Meeting Notes/Term 2/Week 7.md",
-    "assets/pdf/WC-Format.pdf",
+    "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 6.md",
     "Meeting Notes/Term 2/Week 5.md",
     "Meeting Notes/Term 2/Week 4.md",
+    "Meeting Notes/Term 2/Week 3.md",
     "Meeting Notes/Term 2/Week 2.md",
-    "Meeting Notes/Term 2/Week 1.md"
+    "Meeting Notes/Term 2/Week 1.md",
+    "Meeting Notes/Term 2/Week 9.md"
   ]
 }

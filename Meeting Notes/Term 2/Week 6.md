@@ -9,7 +9,7 @@
 - What conclusions can we draw from these results
 - What is the difference between a track and their daughter track in the ROOT files
 - Q-value is max energy available for decay
-- Edep dosen't really man anything
+- Edep dosen't really mean anything
 - Muon energy spectrum "stiffens" as we get lower and lower
 - Start looking for long lived dangerous isotopes
 	- Tritium
