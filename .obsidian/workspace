@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "6dd007b017062540",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Meeting Notes/Term 2/Week 5.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Final Project Plan.md",
+                "file": "Meeting Notes/Term 2/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,16 +116,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3379244e56348593",
+  "active": "6dd007b017062540",
   "lastOpenFiles": [
+    "Meeting Notes/Term 2/Week 5.md",
+    "Meeting Notes/Term 2/Week 2.md",
+    "Meeting Notes/Term 2/Week 3.md",
+    "Meeting Notes/Term 2/Week 4.md",
     "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 8.md",
     "Meeting Notes/Term 2/Week 7.md",
     "Meeting Notes/Term 2/Week 6.md",
-    "Meeting Notes/Term 2/Week 5.md",
-    "Meeting Notes/Term 2/Week 4.md",
-    "Meeting Notes/Term 2/Week 3.md",
-    "Meeting Notes/Term 2/Week 2.md",
     "Meeting Notes/Term 2/Week 1.md",
     "Meeting Notes/Term 2/Week 9.md"
   ]
