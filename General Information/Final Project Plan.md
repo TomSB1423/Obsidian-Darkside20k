@@ -36,7 +36,7 @@
 		- ROOT
 	- Muon simulation -> $10^8$ muons, define flux using $10m^2$ 
 		- I should also hand over the muon flux underground at Gran Sasso: (3.477+-0.002)10^-4 m^-2 s^-1 GERDA collaboration, Astropart. Phys. 84 (2016) 29 The simulation muon source area is a circle with radius 10 m, i.e. 314.159 m^2 area, giving you 3.447e6 muons per year, our 1e8 simulated hence correspond to 29.01 years.
-		- Using shielding model with user defined cut -> speed up time
+		- Using shielding model
 		- Addition physics list simulation in case of different products
 		- Further trajectory simulation -> $10^7$ muons
 	- Analysis
