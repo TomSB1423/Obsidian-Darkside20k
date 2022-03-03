@@ -29,7 +29,7 @@
 - Just expand on each section
 
 # Methodology
-- Process
+- **Process:**
 	- Use of Geant4
 	- Geometry production
 		- GDML file
@@ -42,7 +42,7 @@
 	- Analysis
 		- Classified long and short lived isotopes, unstable
 		- Production yields
-		- mode of decay -> mainly beta
+		- mode of decay -> mainly beta/gamma
 		- 
 	
 	- Comparison to DUNE
