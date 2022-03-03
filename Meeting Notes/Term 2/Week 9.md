@@ -50,4 +50,4 @@ Number of unstable isotopes: 54
 - What is muangle
 	- ![[Pasted image 20220302210513.png|500]]
 	- 
-- 
+- How much memory does the simulation output use?
