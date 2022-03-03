@@ -100,6 +100,7 @@
 	- delayed
 	- percentage rejected
 - Tried doubling deadtime -> didnt do anything
+- "Calculations checked against those in Ref. [17] predict 1.6 events from this source in the full DarkSide-20k exposure." From: [[Darkside-20k first.pdf]]
 
 # Conclusions
 ****
