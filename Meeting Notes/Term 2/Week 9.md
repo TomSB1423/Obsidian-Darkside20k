@@ -51,3 +51,6 @@ Number of unstable isotopes: 54
 	- ![[Pasted image 20220302210513.png|500]]
 -  Found Be 4-8 which ALPHA decays?!
 - How much memory does the simulation output use?
+- What to do when decays like this?
+	- ![[Pasted image 20220303201504.png|500]]
+- 
