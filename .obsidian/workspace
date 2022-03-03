@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Final Project Plan.md",
+            "file": "General Information/Project Task.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Final Project Plan.md",
+                "file": "General Information/Project Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "3379244e56348593",
   "lastOpenFiles": [
+    "General Information/Project Task.md",
     "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 5.md",
     "Meeting Notes/Term 2/Week 2.md",
@@ -126,7 +127,6 @@
     "Meeting Notes/Term 2/Week 8.md",
     "Meeting Notes/Term 2/Week 7.md",
     "Meeting Notes/Term 2/Week 6.md",
-    "Meeting Notes/Term 2/Week 1.md",
-    "Meeting Notes/Term 2/Week 9.md"
+    "Meeting Notes/Term 2/Week 1.md"
   ]
 }
