@@ -15,7 +15,7 @@
 - What is the range of energies we look for? both electron & nuclear recoil
 	- 
 - Are we interested in beta decay because of the free electron? -> is this the S2 signal or an S1 too?
-	- nope ionises Argon
+	- it ionises Argon and causes an energy deposition the ns1 and s2 signal
 
 
 
