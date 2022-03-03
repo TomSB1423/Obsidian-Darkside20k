@@ -99,6 +99,7 @@
 	- Prompt doesn't mean anything
 	- delayed
 	- percentage rejected
+- Tried doubling deadtime -> didnt do anything
 
 # Conclusions
 ****
