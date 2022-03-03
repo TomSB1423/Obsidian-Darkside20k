@@ -29,7 +29,7 @@
 - Just expand on each section
 
 # Methodology
-- **Process:**
+- **Simulation Process:**
 	- Use of Geant4
 	- Geometry production
 		- GDML file
@@ -39,13 +39,20 @@
 		- Using shielding model
 		- Addition physics list simulation in case of different products
 		- Further trajectory simulation -> $10^7$ muons
-	- Analysis
-		- Classified long and short lived isotopes, unstable
-		- Production yields
-		- mode of decay -> mainly beta/gamma
-		- 
+- **Analysis**:
+	- Open data in python
+	- Added decay modes to each isotope
+	- Calculate production per year
+	- Separate into stable and unstable
+	- Filter by realistic halflife -> all greater than 1 year excluded
+	- Used API to identify isotopes that have an intensity > 0.5 with a mean beta decay energy between 0-200 keV
+	- Looked for location specific decays:
+		- Buffer -> any beta/gamma
+		- TPC
+			- Prompt -> ignored unless half life greater than dead time
+			
 	
-	- Comparison to DUNE
+- Comparison to DUNE
 - Use parts of interim report + DUNE paper
 - Geant4 simulation generates ROOT output
 - Analysed using root and python
