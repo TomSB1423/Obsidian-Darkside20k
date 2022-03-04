@@ -51,5 +51,9 @@ Number of unstable isotopes: 54
 - How much memory does the simulation output use -> so I can quote in report?
 - What to do when decays like this?
 	- ![[Pasted image 20220303201504.png|500]]
-- Importance of electron recoils
-	- 
+- Importance of electron recoils -> this is what I understand:
+	- WIMPs cause mainly nuclear recoils in the range 30-200keV but also limited electron recoils in the range 4-50keV
+	- Determine sensitivity of nuclear recoil searches as discrimination between NRecoil and ERecoil is not perfect
+	- Neutrinos are much more likely to ERecoil than NRecoil so we discard all ERecoils? Or do we partially discard parts of the ERecoil spectra?
+	- **Main question is does DarkSide specifically look for WIMP energy depositions in NRecoil or ERecoil or both?**
+- 
