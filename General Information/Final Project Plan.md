@@ -79,6 +79,26 @@
 
 
 # Results
+- **Plan:**
+- Introduce muon spallation and a summary of all isotopes produced
+- ![[Pasted image 20220304130352.png|300]]
+- Location specifics of where isotopes are produced
+- ![[Pasted image 20220208184210.png|300]]
+-  ![[Pasted image 20220208184123.png|300]]
+	- Buffers -> gamma
+	- Rest of detector -> Not really an issue
+	- **Table Image**
+	- TPC
+		- Prompt -> any with long half life
+		- Delayed -> beta and gamma
+			- Comment on no tritium
+	- ![[Pasted image 20220304130914.pngZ300]]
+	- 
+	- Compare models
+
+
+
+
 - Quite good: https://www.sheffield.ac.uk/polopoly_fs/1.426340!/file/PHY326-2014-15-18.pdf
 - Intro
 - Table
