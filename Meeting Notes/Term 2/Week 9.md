@@ -42,15 +42,14 @@ Number of unstable isotopes: 54
 
 
 # Meeting
-- How to represent EC, IT, and beta followed by neutron/alpha particle in table:
-- 
 - Tried plotting energy distribution:
 	- ![[Pasted image 20220302183832.png|500]]
 	- ![[Pasted image 20220302183913.png|500]]
 - What is muangle
 	- ![[Pasted image 20220302210513.png|500]]
--  Found Be 4-8 which ALPHA decays?!
-- How much memory does the simulation output use?
+-  Found Be 4-8 and this ALPHA decays?! Is this expected?
+- How much memory does the simulation output use -> so I can quote in report?
 - What to do when decays like this?
 	- ![[Pasted image 20220303201504.png|500]]
-- 
+- Importance of electron recoils
+	- 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Term 1/Week 7.md",
+            "file": "Meeting Notes/Term 2/Week 9.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electron recoil",
+                "query": "recoil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Term 1/Week 7.md",
+                "file": "Meeting Notes/Term 2/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +106,15 @@
   },
   "active": "3379244e56348593",
   "lastOpenFiles": [
+    "Meeting Notes/Term 2/Week 9.md",
+    "Projects/Darkside-20k/Measurements/Recoils.md",
     "Meeting Notes/Term 1/Week 7.md",
     "Meeting Notes/Term 2/Week 6.md",
-    "Projects/Darkside-20k/Measurements/Recoils.md",
     "Muons/Muons.md",
     "General Information/Interim report Plan.md",
     "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 8.md",
     "Meeting Notes/Term 2/Week 7.md",
-    "Meeting Notes/Term 2/Week 9.md",
     "Meeting Notes/Term 2/Week 5.md"
   ]
 }

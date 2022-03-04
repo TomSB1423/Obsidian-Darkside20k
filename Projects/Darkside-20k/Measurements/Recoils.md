@@ -16,7 +16,6 @@ Can be detected by exploiting two signals → defined as prompt & delayed signal
 
 # Methods of Recoil
 ## Nuclear
-#### Via Neutrons:
 Neutrons that enter the LAr TPC come from primarily 4 sources:
 -   Radioactivity in outside environment suppressed by [[Veto]] shielding
 -   Cosmogenic interactions due to muons → suppressed by [[Veto]] shielding
