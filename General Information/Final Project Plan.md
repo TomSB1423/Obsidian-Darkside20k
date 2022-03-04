@@ -92,12 +92,9 @@
 		- Prompt -> any with long half life
 		- Delayed -> beta and gamma
 			- Comment on no tritium
-	- ![[Pasted image 20220304130914.pngZ300]]
-	- 
+			- Tried doubling deadtime -> didnt do anything
+	- ![[Pasted image 20220304130914.png|300]]
 	- Compare models
-
-
-
 
 - Quite good: https://www.sheffield.ac.uk/polopoly_fs/1.426340!/file/PHY326-2014-15-18.pdf
 - Intro
