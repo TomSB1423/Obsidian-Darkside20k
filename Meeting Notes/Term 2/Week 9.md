@@ -56,4 +56,4 @@ Number of unstable isotopes: 54
 	- Determine sensitivity of nuclear recoil searches as discrimination between NRecoil and ERecoil is not perfect
 	- Neutrinos are much more likely to ERecoil than NRecoil so we discard all ERecoils? Or do we partially discard parts of the ERecoil spectra?
 	- **Main question is does DarkSide specifically look for WIMP energy depositions in NRecoil or ERecoil or both?**
-- 
+- Do q-values actually mean anything or is it just beta/gamma decay energy?
