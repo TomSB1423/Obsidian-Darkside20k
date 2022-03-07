@@ -1,4 +1,5 @@
 # Work Done
+Writing the report
 - Tried doubling the deadtime to see effect on counts per volume:
 ```
 Buffers:
@@ -57,3 +58,4 @@ Number of unstable isotopes: 54
 	- **Main question is does DarkSide specifically look for WIMP energy depositions in NRecoil or ERecoil or both?**
 - Do q-values actually mean anything or is it just beta/gamma decay energy?
 - What about energy deposition vs radioactive decay?
+	- Lots of delayed so EDep can be a WIMP like event?
