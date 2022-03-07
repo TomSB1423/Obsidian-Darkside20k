@@ -64,3 +64,8 @@ Number of unstable isotopes: 54
 - Have you included the fiducial volumes?
 	- Or can I just multiply all TPC volumes with a ratio
 - What else to write
+
+
+Source of Be
+	Enormous energy photons
+	But likely a neutron -> as can move around for longer distances
