@@ -59,25 +59,24 @@ Number of unstable isotopes: 54
 - Do q-values actually mean anything or is it just beta/gamma decay energy?
 - What about energy deposition vs radioactive decay?
 	- Lots of delayed so EDep can be a WIMP like event?
-- No simulation of the outer 700t of UAr -> wouldnt this provide some shielding?
+- No simulation of the outer 700t of UAr -> wouldn't this provide some shielding?
 - Why is it just tritium that you are searching for? -> surely it is other isotopes too?
 - Have you included the fiducial volumes?
 	- Or can I just multiply all TPC volumes with a ratio
-	- Dont ned to
+	- Don't need to
 - What else to write
 
 
-Source of Be
-	Enormous energy photons
-	But likely a neutron -> as can move around for longer distances and therefore generate a delayed
-	Neutrons "thermalise" as they diffuse
-	Neutrons have a 2ms cut
-	Alpha particles can actually give nuclear recoils
-	Others only mimic WIMP events at low energy
+- Source of Be
+	- Enormous energy photons but likely a neutron -> as can move around for longer distances and therefore generate a delayed
+	- Neutrons "thermalize" as they diffuse
+	- Neutrons have a 2ms cut
+	- Alpha particles can actually give nuclear recoils
+	- Others only mimic WIMP events at low energy
 
-Talk about electron recoils for low energy wimps
-	Beta decay important for background for electron recoils
-	Discrimination between electron and nucelar is hard at low energy
-	No S1 signal at low energy for ERecoil
-	Threshhols for NR is 30keV
-	neutrino scatteri
+- Talk about electron recoils for low energy wimps
+	- Beta decay important for background for electron recoils
+	- Discrimination between electron and nuclear is hard at low energy
+	- No S1 signal at low energy for ERecoil
+	- Threshold for NR is 30keV
+	- neutrino scattering
