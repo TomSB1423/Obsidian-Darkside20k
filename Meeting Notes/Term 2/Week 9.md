@@ -68,4 +68,8 @@ Number of unstable isotopes: 54
 
 Source of Be
 	Enormous energy photons
-	But likely a neutron -> as can move around for longer distances
+	But likely a neutron -> as can move around for longer distances and therefore generate a delayed
+	Neutrons "thermalise" as they diffuse
+	Neutrons have a 2ms cut
+	Alpha particles can actually give nuclear recoils
+	Others only mimic WIMP events at low energy
