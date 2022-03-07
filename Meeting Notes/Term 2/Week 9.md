@@ -59,3 +59,5 @@ Number of unstable isotopes: 54
 - Do q-values actually mean anything or is it just beta/gamma decay energy?
 - What about energy deposition vs radioactive decay?
 	- Lots of delayed so EDep can be a WIMP like event?
+- No simulation of the outer 700t of UAr -> wouldnt this provide some shielding?
+- 
