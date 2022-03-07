@@ -74,3 +74,5 @@ Source of Be
 	Neutrons have a 2ms cut
 	Alpha particles can actually give nuclear recoils
 	Others only mimic WIMP events at low energy
+
+Talk about electron rec
