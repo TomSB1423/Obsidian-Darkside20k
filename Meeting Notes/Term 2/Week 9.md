@@ -61,3 +61,5 @@ Number of unstable isotopes: 54
 	- Lots of delayed so EDep can be a WIMP like event?
 - No simulation of the outer 700t of UAr -> wouldnt this provide some shielding?
 - Why is it just tritium that you are searching for? -> surely it is other isotopes too?
+- Have you included the fiducial volumes?
+	- Or can I just multiply all TPC volumes with a ratio
