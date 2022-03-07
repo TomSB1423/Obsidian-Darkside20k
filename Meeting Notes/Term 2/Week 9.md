@@ -75,4 +75,9 @@ Source of Be
 	Alpha particles can actually give nuclear recoils
 	Others only mimic WIMP events at low energy
 
-Talk about electron rec
+Talk about electron recoils for low energy wimps
+	Beta decay important for background for electron recoils
+	Discrimination between electron and nucelar is hard at low energy
+	No S1 signal at low energy for ERecoil
+	Threshhols for NR is 30keV
+	neutrino scatteri
