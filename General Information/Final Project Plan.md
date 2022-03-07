@@ -106,10 +106,7 @@
 	- All agree within factor 2 for all isotopes $A<21$ but then differ when looking at higher mass 
 	- Can be confident that muons create lots of isotopes and some may be heavier that argon itself
 	- uncertain about how exotic heavy though
-- Found no Tritium anywhere
-  - Tritium physics might not be included in geant4 as you need to build the material yourself
-  - By default tritium does not decay
-  - Or perhaps alternatively it has all been used up
+- Found tritium produced
 - Gamma rays are going to be produced in buffer
 	- But need to run another genat4 simulation
 	- Would think this would introduce more false detections

@@ -60,4 +60,4 @@ Number of unstable isotopes: 54
 - What about energy deposition vs radioactive decay?
 	- Lots of delayed so EDep can be a WIMP like event?
 - No simulation of the outer 700t of UAr -> wouldnt this provide some shielding?
-- 
+- Why is it just tritium that you are searching for? -> surely it is other isotopes too?
