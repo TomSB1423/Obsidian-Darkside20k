@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/Term 2/Term 2 Logs.md",
+            "file": "General Information/Final Project Plan.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Term 2/Term 2 Logs.md",
+                "file": "General Information/Final Project Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "3379244e56348593",
   "lastOpenFiles": [
+    "General Information/Final Project Plan.md",
+    "General Information/Interim report Plan.md",
     "Meeting Notes/Term 2/Term 2 Logs.md",
     "Meeting Notes/Term 2/Week 9.md",
     "Meeting Notes/Term 1/Week 7.md",
     "Meeting Notes/Term 2/Week 7.md",
     "Projects/Darkside-20k/Measurements/S1 & S2 Signals.md",
-    "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 4.md",
     "Meeting Notes/Term 2/Week 3.md",
-    "Meeting Notes/Term 2/Week 2.md",
-    "Meeting Notes/Term 2/Week 1.md"
+    "Meeting Notes/Term 2/Week 2.md"
   ]
 }
