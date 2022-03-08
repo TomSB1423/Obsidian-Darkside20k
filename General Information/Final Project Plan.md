@@ -90,17 +90,17 @@
 	-  ![[Pasted image 20220208184123.png|300]]
 	- Percentage rejected
 	- Doubled deadtime, didn't make a difference
-	- 
-	- Buffers -> gamma
-	- Rest of detector -> Not really an issue
-	- **Table Image**
-	- TPC
-		- Prompt -> any with long half life
-		- Delayed -> beta and gamma
-			- Comment on no tritium
-			- Tried doubling deadtime -> didnt do anything
-	- ![[Pasted image 20220304130914.png|300]]
-	- Compare models
+-  ![[Pasted image 20220304130914.png|300]]
+- Compare models
+- Buffers -> any gamma
+- Rest of detector -> Not really an issue
+- **Table Image**
+- TPC
+	- Prompt -> any with long half life
+	- Delayed -> beta and gamma
+		- Comment on tritium
+		- Tried doubling deadtime -> didn't do anything
+- Neutron production in TPC -> Ayesha
 
 - Quite good: https://www.sheffield.ac.uk/polopoly_fs/1.426340!/file/PHY326-2014-15-18.pdf
 - Intro
