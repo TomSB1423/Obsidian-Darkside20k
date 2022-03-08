@@ -79,12 +79,18 @@
 
 
 # Results
-- **Plan:**
-- Introduce muon spallation and a summary of all isotopes produced
-- ![[Pasted image 20220304130352.png|300]]
-- Location specifics of where isotopes are produced
-- ![[Pasted image 20220208184210.png|300]]
--  ![[Pasted image 20220208184123.png|300]]
+**Plan:**
+- Summary of all isotopes produced
+	- Number of stable vs unstable
+	- Production yield per muon
+	- Location analysis of which are important and why
+	- ![[Pasted image 20220304130352.png|300]]
+- Closer location analysis of TPC
+	- ![[Pasted image 20220208184210.png|300]]
+	-  ![[Pasted image 20220208184123.png|300]]
+	- Percentage rejected
+	- Doubled deadtime, didn't make a difference
+	- 
 	- Buffers -> gamma
 	- Rest of detector -> Not really an issue
 	- **Table Image**
