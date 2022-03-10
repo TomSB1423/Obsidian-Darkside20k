@@ -82,7 +82,7 @@
 - **Table Image** -> comment on:
 	- Half life needs to be less than
 	- Dominant argon but not significant due to half life
-	- 
+	- Comment if all of these will survive the deadtime
 
 **Plan:**
 - Summary of all isotopes produced
