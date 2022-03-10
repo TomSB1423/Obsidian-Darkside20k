@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Term 2/Week 9.md",
+                "file": "General Information/Final Project Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "88e0c864874db647",
+  "active": "198e34a5c1842f5e",
   "lastOpenFiles": [
+    "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 9.md",
     "Meeting Notes/Term 2/Week 4.md",
     "Meeting Notes/Term 2/Week 3.md",
@@ -125,7 +126,6 @@
     "Meeting Notes/Term 2/Term 2 Logs.md",
     "Meeting Notes/Term 2/Week 8.md",
     "Meeting Notes/Term 2/Week 7.md",
-    "Meeting Notes/Term 2/Week 6.md",
-    "Meeting Notes/Term 2/Week 5.md"
+    "Meeting Notes/Term 2/Week 6.md"
   ]
 }
