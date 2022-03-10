@@ -79,6 +79,11 @@
 
 
 # Results
+- **Table Image** -> comment on:
+	- Half life needs to be less than
+	- Dominant argon but not significant due to half life
+	- 
+
 **Plan:**
 - Summary of all isotopes produced
 	- Number of stable vs unstable
