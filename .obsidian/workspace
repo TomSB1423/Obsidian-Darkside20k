@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "198e34a5c1842f5e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "General Information/Final Project Plan.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "88e0c864874db647",
         "type": "leaf",
         "state": {
@@ -118,6 +106,7 @@
   "active": "88e0c864874db647",
   "lastOpenFiles": [
     "Meeting Notes/Term 2/Week 9.md",
+    "Untitled.md",
     "General Information/Final Project Plan.md",
     "Meeting Notes/Term 2/Week 4.md",
     "Meeting Notes/Term 2/Week 3.md",
@@ -125,7 +114,6 @@
     "Meeting Notes/Term 2/Week 1.md",
     "Meeting Notes/Term 2/Term 2 Logs.md",
     "Meeting Notes/Term 2/Week 8.md",
-    "Meeting Notes/Term 2/Week 7.md",
-    "Meeting Notes/Term 2/Week 6.md"
+    "Meeting Notes/Term 2/Week 7.md"
   ]
 }
