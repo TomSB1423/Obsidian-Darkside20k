@@ -11,5 +11,7 @@ METHODOLOGY:
 - Explain how number of decays were calculated - i think time was one year?
 
 RESULTS:
+- $^8Li$  decays into $^8Be$ -> production method
+- 
 
 CONCLUSION:
