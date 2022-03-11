@@ -18,5 +18,6 @@ Technical design report:
 - $^8Li$  decays into $^8Be$ -> production method
 - Can electrons produce nuclear recoils?
 - Neutron scattering -> where do neutrons come from, only from ?
+- Are beta + of any significance?
 
 **CONCLUSION:**
