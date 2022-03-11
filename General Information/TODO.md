@@ -1,17 +1,17 @@
-ABSTRACT:
+**ABSTRACT:**
 
 
-INTRODUCTION:
+**INTRODUCTION:**
 - Talk about anti-neutrinos and if they are significant? -> they are not I think
 Technical design report:
 - Nuclear Recoil-background rates -> p94 
 - Electron Recoil-background rates -> p105 
 
-METHODOLOGY:
+**METHODOLOGY:**
 - Explain how number of decays were calculated - i think time was one year?
 
-RESULTS:
+**RESULTS:**
 - $^8Li$  decays into $^8Be$ -> production method
 - 
 
-CONCLUSION:
+**CONCLUSION:**
