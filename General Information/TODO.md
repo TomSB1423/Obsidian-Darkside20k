@@ -16,5 +16,6 @@ Technical design report:
 - Can electrons produce nuclear recoils?
 - Neutron scattering -> where do neutrons come from, only from ?
 - Are beta + of any significance?
+- Does electron capture have Q-values?
 
 **CONCLUSION:**
