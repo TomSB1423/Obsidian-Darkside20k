@@ -16,6 +16,7 @@ Technical design report:
 **RESULTS:**
 - On average 10spallation products per muon -> 3 being unstable 
 - $^8Li$  decays into $^8Be$ -> production method
-- 
+- Can electrons produce nuclear recoils?
+- Neutron scattering -> where do neutrons come from, only from ?
 
 **CONCLUSION:**
