@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/Final Project Plan.md",
+            "file": "General Information/TODO.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alpha",
+                "query": "TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/Final Project Plan.md",
+                "file": "General Information/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "88e0c864874db647",
   "lastOpenFiles": [
+    "General Information/TODO.md",
     "General Information/Final Project Plan.md",
+    "General Information/Introduction to Dark Matter.md",
+    "General Information/Project Task.md",
     "Meeting Notes/Term 2/Week 9.md",
-    "Untitled.md",
     "Meeting Notes/Term 2/Week 4.md",
     "Meeting Notes/Term 2/Week 3.md",
     "Meeting Notes/Term 2/Week 2.md",
     "Meeting Notes/Term 2/Week 1.md",
-    "Meeting Notes/Term 2/Term 2 Logs.md",
-    "Meeting Notes/Term 2/Week 8.md",
-    "Meeting Notes/Term 2/Week 7.md"
+    "Meeting Notes/Term 2/Term 2 Logs.md"
   ]
 }
