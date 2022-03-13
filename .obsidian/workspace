@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WIMPS/WIMPs.md",
+            "file": "General Information/TODO.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIMPS/WIMPs.md",
+                "file": "General Information/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,13 +105,13 @@
   },
   "active": "88e0c864874db647",
   "lastOpenFiles": [
+    "General Information/TODO.md",
     "WIMPS/WIMPs.md",
     "WIMPS/WIMP Interactions.md",
     "General Information/Notes whilst writing interim.md",
     "General Information/Introduction to Dark Matter.md",
     "Muons/Muons.md",
     "General Information/Interim report Plan.md",
-    "General Information/TODO.md",
     "General Information/Final Project Plan.md",
     "General Information/Project Task.md",
     "Meeting Notes/Term 2/Week 9.md"
