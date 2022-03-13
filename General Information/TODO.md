@@ -13,9 +13,11 @@
 - Can electrons produce nuclear recoils?
 - Neutron scattering -> where do neutrons come from, only from ?
 - Are beta+ of any significance?
-- Does electron capture have Q-values?
+- Does electron capture & alpha have Q-values?
 - mention about only need low q-values
-- Mention that they may vary with factor two
+- Why are yields much higher than DUNE? Is darkside bigger?
+	- DUNE -> 1.5 per muon, 1 (66%) is unstable
+	- Darkside -> 10 per muon, 3, (33%) is unstable
 
 **CONCLUSION:**
 - Comment on how DS needs low background events < 0.1 yr
