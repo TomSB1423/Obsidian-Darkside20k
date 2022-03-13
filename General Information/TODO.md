@@ -17,5 +17,6 @@ Technical design report:
 - Neutron scattering -> where do neutrons come from, only from ?
 - Are beta + of any significance?
 - Does electron capture have Q-values?
+- mention about only need low q-values
 
 **CONCLUSION:**
