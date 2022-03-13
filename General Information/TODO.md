@@ -6,6 +6,7 @@
 Technical design report:
 - Nuclear Recoil-background rates -> p94 
 - Electron Recoil-background rates -> p105 
+- Do probably need to know how material signature can be used to identify WIMPs -> I have written this quite vaguely
 
 **METHODOLOGY:**
 - What does FTFP stand for -> what do I say if it is arbitrary?
