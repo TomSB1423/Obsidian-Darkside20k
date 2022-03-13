@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Information/TODO.md",
+            "file": "WIMPS/WIMPs.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
+                "query": "direct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Information/TODO.md",
+                "file": "WIMPS/WIMPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +106,15 @@
   },
   "active": "88e0c864874db647",
   "lastOpenFiles": [
+    "WIMPS/WIMPs.md",
+    "WIMPS/WIMP Interactions.md",
+    "General Information/Notes whilst writing interim.md",
+    "General Information/Introduction to Dark Matter.md",
+    "Muons/Muons.md",
+    "General Information/Interim report Plan.md",
     "General Information/TODO.md",
     "General Information/Final Project Plan.md",
-    "General Information/Introduction to Dark Matter.md",
     "General Information/Project Task.md",
-    "Meeting Notes/Term 2/Week 9.md",
-    "Meeting Notes/Term 2/Week 4.md",
-    "Meeting Notes/Term 2/Week 3.md",
-    "Meeting Notes/Term 2/Week 2.md",
-    "Meeting Notes/Term 2/Week 1.md",
-    "Meeting Notes/Term 2/Term 2 Logs.md"
+    "Meeting Notes/Term 2/Week 9.md"
   ]
 }
