@@ -10,9 +10,9 @@ Technical design report:
 
 **METHODOLOGY:**
 - What does FTFP stand for -> what do I say if it is arbitrary?
+- What is simulated peak muon energy?
 
 **RESULTS:**
-- $^8Li$  decays into $^8Be$ -> production method
 - Can electrons produce nuclear recoils?
 - Neutron scattering -> where do neutrons come from, only from ?
 - Are beta + of any significance?
