@@ -31,7 +31,7 @@
 - The factor two is a systemactic error
 Sub-dominant error in the energy and angular distribution to the systematic error in the actual physics simulation
 
-Darkside-50 didnt find sulfur -> it mainly focused on inherrent 
+Darkside-50 didnt find sulphur -> it mainly focused on inherrent 
 Write that beryllium is delayed
 	Also decays into two alpha particles
 	if these are neutral then could initiate NR, but very unlikely
@@ -39,14 +39,14 @@ Write that beryllium is delayed
 Low yield isotopes for neutron decay
 	High energy looks like exp decay
 	Any neutron is dangerous
-Electron capture -> not too significant
+- Electron capture -> not too significant though produces lots of different things and has Q value
 
 
 Can talk about removing user cuts loosing some data
 Could use FLUKA in future to get more accurate data
 
 
-Viva, first question: tell us what you have done 5 min
+- Viva, first question: tell us what you have done 5 min
 
 
 	
