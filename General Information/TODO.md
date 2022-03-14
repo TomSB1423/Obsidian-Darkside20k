@@ -7,11 +7,9 @@
 	- Only DS-50
 
 ## METHODOLOGY:
-- What does FTFP stand for -> what do I say if it is arbitrary?
 - What is simulated peak muon energy?
 
 ## RESULTS:
-- Can electrons produce nuclear recoils?
 - Neutron scattering -> where do neutrons come from, only from ?
 - Are beta+ of any significance?
 - Does electron capture & alpha have Q-values?

@@ -28,7 +28,7 @@
 - Can talk about the cm cut limits high energy particles
 - Expand on why shielding model is used
 	Look at supernemo experiment as they use that
-- The factor two is a systemactic error
+- The factor two is a systematic error
 Sub-dominant error in the energy and angular distribution to the systematic error in the actual physics simulation
 
 Darkside-50 didnt find sulphur -> it mainly focused on inherrent 
