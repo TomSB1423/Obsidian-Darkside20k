@@ -4,8 +4,7 @@
 ## INTRODUCTION:
 - Do probably need to know how material signature can be used to identify WIMPs -> I have written this quite vaguely
 - Muons are not mentioned in darksides papers -> not considered for background 
-- Could also include a Nuclear vs Electron recoil discrimination graph and talk about this.
-**- Say that muons were not mentioned in any of the background reports for darkside**
+	- Only DS-50
 
 ## METHODOLOGY:
 - What does FTFP stand for -> what do I say if it is arbitrary?
