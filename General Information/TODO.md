@@ -7,15 +7,10 @@
 	- Only DS-50
 
 ## METHODOLOGY:
-- What is simulated peak muon energy?
 
 ## RESULTS:
 - Neutron scattering -> where do neutrons come from, only from ?
-- Are beta+ of any significance?
 - Does electron capture & alpha have Q-values?
-- Why are yields much higher than DUNE? Is darkside bigger?
-	- DUNE -> 1.5 per muon, 1 (66%) is unstable
-	- Darkside -> 10 per muon, 3, (33%) is unstable
 **- Add to XENON1T experiment talking about why tritium was so important and what we have found** 
 
 ## CONCLUSION:
