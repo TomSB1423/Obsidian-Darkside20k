@@ -25,6 +25,25 @@
 - Confirms XENON1T experiment 
 - In order for DS to reach its full potential, it needs to recognise the possibility for muon spallations to produce radioactive isotopes that may later decay.
 
+
+
+
+# TODO V2
+## ABSTRACT:
+
+
+## INTRODUCTION:
+- Talk about WIMPs have a max KE assuming they originate from the milky way halo.
+
+## METHODOLOGY:
+
+## RESULTS:
+
+
+## CONCLUSION:
+
+
+
 **Comments:**
 Ben Watkins: Overall it seems like a sick report - difficult to make comments on the content since I hvae no clue what's going on most of the time but I'm sure for the markers it'll be more clear. A couple things:
 

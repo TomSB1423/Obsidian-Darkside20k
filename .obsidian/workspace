@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a183b4393ade1dd6",
-        "type": "split",
-        "children": [
-          {
-            "id": "88e0c864874db647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Notes/Term 2/Week 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01927eb7bc875ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Information/TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "88e0c864874db647",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Information/TODO.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -122,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01927eb7bc875ff4",
+  "active": "88e0c864874db647",
   "lastOpenFiles": [
     "General Information/TODO.md",
-    "Meeting Notes/Term 2/Week 10.md",
     "General Information/Final Project Plan.md",
+    "General Information/Interim report Plan.md",
+    "Meeting Notes/Term 2/Week 10.md",
     "WIMPS/WIMPs.md",
     "WIMPS/WIMP Interactions.md",
     "General Information/Notes whilst writing interim.md",
     "General Information/Introduction to Dark Matter.md",
     "Muons/Muons.md",
-    "General Information/Interim report Plan.md",
     "General Information/Project Task.md"
   ]
 }
