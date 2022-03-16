@@ -29,6 +29,21 @@
 
 
 # TODO V2
+DS-20k used to search for nuclear recoils
+some people may also look at electron recoils -> XENON1T experiment
+Therefore electron recoils must be investigated
+Nuclear recoil background is 0.1 /yr
+	Detector materials
+	Neutron
+	Neutrino
+	Possible muon spallation products
+Electron recoils background is undefined
+	Detector materials
+	Possible muon spallation products -> not been looked into, only detector materials
+
+
+
+
 ## ABSTRACT:
 
 
